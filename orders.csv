@@ -1,0 +1,3001 @@
+order_id,customer_id,order_date,product_id,quantity,selling_price,discount,payment_method,order_status
+1,326,2025-08-03,85,2,1812.04,0.0,Credit Card,Delivered
+2,236,2025-11-01,13,1,8455.07,0.15,UPI,Delivered
+3,89,2025-07-25,6,1,60315.95,0.2,UPI,Delivered
+4,402,2025-04-30,38,2,482.19,0.05,Cash on Delivery,Delivered
+5,319,2025-06-14,87,1,695.68,0.15,Cash on Delivery,Delivered
+6,31,2025-05-21,39,1,806.75,0.15,Credit Card,Delivered
+7,461,2025-10-12,55,1,201.88,0.15,Wallet,Delivered
+8,406,2025-06-13,68,2,1622.07,0.05,Net Banking,Delivered
+9,476,2025-08-31,69,1,3459.41,0.2,Wallet,Delivered
+10,352,2025-01-30,60,2,3039.66,0.1,Cash on Delivery,Delivered
+11,272,2025-05-11,32,1,663.59,0.08,Debit Card,Delivered
+12,158,2025-04-08,93,1,625.91,0.1,Cash on Delivery,Delivered
+13,472,2025-04-07,10,2,5155.4,0.15,Cash on Delivery,Delivered
+14,436,2025-06-20,27,1,4006.19,0.02,Credit Card,Returned
+15,8,2025-09-03,16,3,2109.12,0.15,Credit Card,Delivered
+16,3,2025-10-10,31,1,525.09,0.08,Cash on Delivery,Delivered
+17,135,2025-05-14,40,1,397.63,0.08,UPI,Delivered
+18,400,2025-08-29,93,2,617.95,0.02,Debit Card,Delivered
+19,499,2025-10-16,6,3,62935.31,0.0,Debit Card,Delivered
+20,28,2025-10-24,75,2,6152.39,0.02,Debit Card,Delivered
+21,262,2025-05-06,73,1,2376.35,0.15,Debit Card,Delivered
+22,136,2025-11-25,63,2,3647.75,0.15,Debit Card,Delivered
+23,486,2025-10-07,93,1,701.36,0.1,Wallet,Returned
+24,416,2025-01-18,68,3,1501.92,0.2,Wallet,Delivered
+25,413,2025-07-31,1,1,75690.28,0.0,Wallet,Delivered
+26,193,2025-09-16,28,1,10816.34,0.15,Wallet,Returned
+27,155,2025-12-04,62,1,2052.48,0.1,Net Banking,Delivered
+28,65,2025-05-21,68,1,1578.33,0.1,Wallet,Delivered
+29,9,2025-02-24,23,3,1386.39,0.02,Credit Card,Delivered
+30,433,2025-07-01,33,1,718.6,0.05,Net Banking,Delivered
+31,402,2025-12-23,32,1,668.81,0.2,UPI,Delivered
+32,500,2025-01-17,84,1,1163.71,0.1,Net Banking,Delivered
+33,500,2025-12-26,2,1,68996.96,0.08,Wallet,Delivered
+34,246,2025-02-18,73,3,2508.57,0.02,Credit Card,Cancelled
+35,382,2025-10-18,89,1,6633.67,0.0,Wallet,Cancelled
+36,476,2025-10-16,70,2,6846.11,0.2,Debit Card,Delivered
+37,421,2025-10-28,27,1,3935.57,0.2,Net Banking,Cancelled
+38,51,2025-03-25,39,2,745.74,0.2,Net Banking,Delivered
+39,183,2025-06-19,70,1,7742.62,0.2,Wallet,Delivered
+40,23,2025-06-27,65,1,3628.76,0.2,UPI,Delivered
+41,479,2025-11-01,79,1,681.32,0.0,Wallet,Delivered
+42,267,2025-09-09,58,1,111.67,0.08,Net Banking,Delivered
+43,39,2025-12-05,75,1,6820.06,0.05,Credit Card,Delivered
+44,310,2025-05-18,11,1,12509.4,0.15,Credit Card,Delivered
+45,273,2025-07-04,41,1,820.22,0.05,Net Banking,Delivered
+46,121,2025-02-22,35,1,685.13,0.08,Cash on Delivery,Delivered
+47,18,2025-02-22,53,1,533.58,0.0,Cash on Delivery,Delivered
+48,310,2025-07-17,42,1,631.03,0.2,UPI,Delivered
+49,227,2025-05-05,72,2,3414.81,0.08,Credit Card,Delivered
+50,384,2025-05-18,39,1,665.29,0.08,Debit Card,Delivered
+51,227,2025-02-09,62,1,2521.1,0.15,Wallet,Delivered
+52,422,2025-04-11,79,1,592.12,0.0,Net Banking,Delivered
+53,243,2025-07-14,80,2,1770.93,0.05,Net Banking,Delivered
+54,248,2025-11-01,84,1,1148.49,0.15,Credit Card,Delivered
+55,442,2025-07-23,23,4,1316.56,0.15,Wallet,Delivered
+56,151,2025-05-05,74,1,2627.3,0.2,Net Banking,Delivered
+57,25,2025-04-13,73,2,2321.89,0.15,Cash on Delivery,Delivered
+58,3,2025-08-25,94,4,343.91,0.2,Debit Card,Delivered
+59,368,2025-07-29,9,2,7629.67,0.05,Credit Card,Delivered
+60,274,2025-08-05,20,2,2503.54,0.1,Net Banking,Delivered
+61,332,2025-09-17,69,3,3974.71,0.08,Cash on Delivery,Delivered
+62,36,2025-12-26,47,3,5563.36,0.15,UPI,Delivered
+63,26,2025-12-03,32,2,596.43,0.1,UPI,Delivered
+64,2,2025-12-13,83,2,505.67,0.05,Net Banking,Delivered
+65,117,2025-05-13,13,1,8723.37,0.1,Cash on Delivery,Delivered
+66,262,2025-08-17,29,1,1185.48,0.15,Cash on Delivery,Delivered
+67,141,2025-06-26,20,5,2748.75,0.05,Net Banking,Cancelled
+68,175,2025-03-01,11,3,12557.43,0.05,Debit Card,Delivered
+69,453,2025-09-24,27,1,3660.01,0.08,Wallet,Delivered
+70,116,2025-02-04,41,1,981.06,0.0,UPI,Delivered
+71,222,2025-02-25,83,2,425.58,0.15,Credit Card,Delivered
+72,390,2025-03-23,71,1,2714.92,0.08,Credit Card,Delivered
+73,142,2025-04-05,81,1,855.36,0.08,UPI,Delivered
+74,274,2025-08-19,26,2,1435.53,0.15,Credit Card,Delivered
+75,432,2025-12-27,97,2,332.17,0.0,Cash on Delivery,Delivered
+76,476,2025-04-11,42,1,609.86,0.2,Net Banking,Delivered
+77,27,2025-06-10,82,2,1506.68,0.1,UPI,Delivered
+78,469,2025-11-13,59,1,1431.12,0.2,Debit Card,Cancelled
+79,205,2025-02-13,76,2,3088.35,0.02,Debit Card,Delivered
+80,54,2025-12-22,48,1,2243.33,0.1,Credit Card,Delivered
+81,187,2025-04-06,55,1,184.57,0.15,Credit Card,Delivered
+82,490,2025-05-28,63,1,3530.78,0.08,Cash on Delivery,Delivered
+83,205,2025-01-05,46,1,3435.24,0.08,Cash on Delivery,Delivered
+84,104,2025-07-29,64,2,3160.04,0.2,Net Banking,Delivered
+85,280,2025-10-17,11,1,12637.77,0.05,UPI,Delivered
+86,46,2025-05-28,69,1,3644.95,0.15,Net Banking,Delivered
+87,12,2025-10-21,15,1,3899.12,0.2,Debit Card,Delivered
+88,23,2025-01-22,97,2,362.4,0.02,Net Banking,Delivered
+89,23,2025-05-07,84,1,1324.8,0.08,Debit Card,Delivered
+90,28,2025-08-13,12,3,13494.79,0.2,Credit Card,Delivered
+91,26,2025-10-29,95,2,594.33,0.1,Wallet,Delivered
+92,287,2025-03-13,79,2,686.91,0.2,UPI,Delivered
+93,34,2025-05-24,69,2,3413.85,0.15,Debit Card,Delivered
+94,115,2025-09-21,35,4,763.73,0.0,Credit Card,Returned
+95,448,2025-01-31,53,5,595.05,0.02,Wallet,Cancelled
+96,197,2025-03-16,32,2,689.0,0.2,Wallet,Delivered
+97,307,2025-10-23,19,2,5672.43,0.08,Net Banking,Delivered
+98,34,2025-07-26,12,1,14009.45,0.05,Net Banking,Returned
+99,35,2025-10-25,42,1,681.4,0.15,UPI,Delivered
+100,8,2025-11-22,59,2,1336.58,0.0,Cash on Delivery,Delivered
+101,34,2025-04-19,55,1,176.03,0.05,Debit Card,Delivered
+102,70,2025-10-17,17,3,2736.47,0.15,UPI,Delivered
+103,34,2025-08-24,81,1,904.29,0.02,Net Banking,Delivered
+104,12,2025-04-14,55,5,199.37,0.15,Debit Card,Delivered
+105,21,2025-02-17,36,2,1652.28,0.05,Wallet,Cancelled
+106,188,2025-01-27,22,1,8810.14,0.15,Credit Card,Delivered
+107,35,2025-12-27,12,1,13802.09,0.0,Credit Card,Delivered
+108,122,2025-12-15,67,1,2874.82,0.05,UPI,Processing
+109,217,2025-12-22,55,1,166.0,0.08,UPI,Delivered
+110,323,2025-02-22,14,1,3983.79,0.02,Net Banking,Delivered
+111,6,2025-03-10,97,2,381.22,0.0,Cash on Delivery,Delivered
+112,396,2025-11-29,79,1,622.28,0.02,Wallet,Delivered
+113,278,2025-11-12,53,2,594.2,0.0,UPI,Delivered
+114,12,2025-10-29,16,2,1957.79,0.08,Debit Card,Delivered
+115,442,2025-05-22,32,2,607.87,0.1,Cash on Delivery,Delivered
+116,465,2025-12-20,37,1,295.83,0.05,Credit Card,Delivered
+117,10,2025-04-07,66,2,4394.66,0.0,Credit Card,Delivered
+118,68,2025-05-04,15,1,3754.21,0.1,UPI,Processing
+119,398,2025-03-09,41,1,986.81,0.08,Debit Card,Delivered
+120,366,2025-08-30,23,4,1460.14,0.0,Cash on Delivery,Delivered
+121,34,2025-04-21,34,1,415.21,0.2,Net Banking,Delivered
+122,36,2025-12-31,81,1,811.87,0.15,Net Banking,Delivered
+123,128,2025-10-03,69,2,3501.1,0.05,UPI,Delivered
+124,200,2025-03-21,27,1,3591.69,0.15,Wallet,Delivered
+125,273,2025-06-08,9,2,8692.96,0.2,Credit Card,Delivered
+126,127,2025-08-11,12,1,15078.41,0.0,Debit Card,Delivered
+127,189,2025-03-31,85,1,1729.88,0.15,UPI,Delivered
+128,365,2025-09-25,45,1,4921.52,0.05,Credit Card,Delivered
+129,4,2025-05-18,96,2,758.41,0.0,Debit Card,Delivered
+130,52,2025-09-26,35,1,769.01,0.1,Wallet,Delivered
+131,341,2025-09-19,59,1,1378.96,0.1,Credit Card,Delivered
+132,447,2025-02-22,33,3,762.9,0.0,Credit Card,Delivered
+133,221,2025-01-23,1,3,65795.79,0.0,Net Banking,Delivered
+134,233,2025-04-02,20,3,2973.5,0.1,Wallet,Delivered
+135,17,2025-04-25,54,1,270.07,0.15,Debit Card,Delivered
+136,183,2025-10-20,10,1,5061.32,0.0,Credit Card,Delivered
+137,233,2025-01-24,67,4,2917.41,0.08,Debit Card,Delivered
+138,48,2025-06-17,40,1,363.63,0.05,Credit Card,Delivered
+139,62,2025-11-15,39,1,714.03,0.08,Credit Card,Delivered
+140,135,2025-05-06,70,1,8050.83,0.0,Credit Card,Delivered
+141,2,2025-12-22,82,3,1615.31,0.0,Wallet,Delivered
+142,96,2025-06-07,95,1,554.65,0.02,Net Banking,Delivered
+143,36,2025-03-14,8,2,50315.48,0.02,Cash on Delivery,Delivered
+144,103,2025-08-23,48,4,2091.61,0.0,Cash on Delivery,Delivered
+145,20,2025-02-08,51,2,165.66,0.15,Credit Card,Delivered
+146,447,2025-06-11,34,3,448.4,0.2,Wallet,Delivered
+147,262,2025-05-20,58,1,121.05,0.02,Cash on Delivery,Delivered
+148,315,2025-03-26,14,1,3530.34,0.0,Cash on Delivery,Delivered
+149,391,2025-08-20,27,1,3491.13,0.0,UPI,Delivered
+150,212,2025-06-05,88,2,9592.8,0.0,Credit Card,Delivered
+151,12,2025-03-17,42,1,607.88,0.05,Net Banking,Delivered
+152,237,2025-06-03,87,1,711.68,0.0,Net Banking,Delivered
+153,259,2025-10-09,72,1,3648.72,0.2,Credit Card,Delivered
+154,365,2025-04-24,8,1,59083.1,0.05,Wallet,Delivered
+155,168,2025-02-13,83,2,435.01,0.2,UPI,Delivered
+156,23,2025-04-12,9,3,8177.27,0.02,UPI,Cancelled
+157,70,2025-03-04,43,1,546.41,0.02,Cash on Delivery,Delivered
+158,122,2025-07-22,93,1,626.69,0.08,Credit Card,Delivered
+159,293,2025-05-21,24,1,1793.04,0.0,Cash on Delivery,Delivered
+160,250,2025-11-28,32,1,630.78,0.1,Net Banking,Delivered
+161,119,2025-07-16,36,1,1632.93,0.2,Cash on Delivery,Delivered
+162,497,2025-01-10,70,4,7810.09,0.05,Net Banking,Delivered
+163,267,2025-06-26,63,3,3680.99,0.08,Debit Card,Delivered
+164,44,2025-11-02,41,1,998.15,0.2,Debit Card,Delivered
+165,13,2025-09-29,61,1,1872.66,0.02,Credit Card,Delivered
+166,29,2025-05-04,85,1,1768.88,0.15,UPI,Delivered
+167,51,2025-10-22,29,3,1272.34,0.05,Credit Card,Delivered
+168,31,2025-06-12,76,2,3357.38,0.1,UPI,Delivered
+169,35,2025-10-18,46,2,3729.55,0.02,Net Banking,Delivered
+170,71,2025-09-09,23,1,1246.02,0.1,Credit Card,Delivered
+171,34,2025-01-01,62,1,2356.12,0.2,Credit Card,Delivered
+172,448,2025-06-15,23,1,1273.46,0.15,Credit Card,Delivered
+173,12,2025-07-06,68,4,1609.6,0.15,Net Banking,Delivered
+174,229,2025-06-04,44,1,1826.29,0.15,Net Banking,Delivered
+175,155,2025-11-29,63,1,3844.78,0.1,Wallet,Cancelled
+176,492,2025-07-02,79,1,655.52,0.02,Net Banking,Delivered
+177,18,2025-05-31,89,1,7725.16,0.15,Cash on Delivery,Delivered
+178,143,2025-01-17,73,1,2208.22,0.2,Cash on Delivery,Delivered
+179,486,2025-02-23,73,3,2119.47,0.15,UPI,Delivered
+180,433,2025-03-27,41,2,1011.6,0.2,Wallet,Delivered
+181,404,2025-06-21,94,1,348.34,0.02,Wallet,Delivered
+182,54,2025-02-25,33,2,662.87,0.08,Wallet,Delivered
+183,34,2025-07-31,22,1,8956.53,0.1,Net Banking,Delivered
+184,308,2025-10-23,62,2,2392.62,0.02,Net Banking,Delivered
+185,470,2025-05-31,5,1,8721.38,0.0,UPI,Delivered
+186,246,2025-03-24,49,2,463.78,0.0,Debit Card,Delivered
+187,250,2025-09-05,79,2,633.48,0.15,Credit Card,Delivered
+188,70,2025-03-22,56,1,35.45,0.02,Net Banking,Delivered
+189,382,2025-10-04,93,1,612.54,0.02,UPI,Delivered
+190,35,2025-10-09,74,3,2551.3,0.05,UPI,Delivered
+191,97,2025-12-05,38,2,457.12,0.0,UPI,Delivered
+192,163,2025-05-30,82,4,1462.63,0.0,Debit Card,Delivered
+193,219,2025-09-08,61,3,1745.13,0.15,Cash on Delivery,Delivered
+194,48,2025-07-15,48,1,2271.98,0.05,Net Banking,Delivered
+195,19,2025-05-18,29,2,1104.44,0.15,Wallet,Delivered
+196,271,2025-06-26,86,2,721.34,0.2,Cash on Delivery,Delivered
+197,74,2025-07-18,8,2,54222.68,0.1,Wallet,Cancelled
+198,257,2025-10-21,61,3,1829.59,0.0,Net Banking,Cancelled
+199,29,2025-01-18,92,1,799.07,0.2,Cash on Delivery,Delivered
+200,199,2025-03-17,80,1,1941.9,0.02,Credit Card,Returned
+201,233,2025-03-06,25,1,9191.58,0.15,Net Banking,Delivered
+202,8,2025-03-17,81,3,783.55,0.15,UPI,Delivered
+203,109,2025-07-23,72,2,3964.31,0.1,Net Banking,Cancelled
+204,25,2025-12-25,2,2,69337.51,0.08,UPI,Delivered
+205,10,2025-10-18,19,2,5829.08,0.0,UPI,Delivered
+206,499,2025-05-27,13,3,8963.25,0.08,Debit Card,Delivered
+207,96,2025-10-20,63,2,3309.15,0.05,Net Banking,Delivered
+208,400,2025-12-15,78,2,661.38,0.05,Wallet,Delivered
+209,53,2025-09-01,96,3,898.47,0.0,Debit Card,Delivered
+210,315,2025-06-09,39,1,733.74,0.15,Wallet,Delivered
+211,374,2025-03-10,30,1,870.9,0.2,Debit Card,Delivered
+212,262,2025-11-06,54,2,256.42,0.02,Net Banking,Delivered
+213,194,2025-09-22,98,3,589.54,0.1,Credit Card,Delivered
+214,155,2025-09-17,91,1,1951.23,0.1,Cash on Delivery,Delivered
+215,116,2025-04-13,25,3,9568.01,0.08,UPI,Cancelled
+216,470,2025-04-12,91,1,1968.42,0.1,Net Banking,Delivered
+217,412,2025-12-15,16,1,1966.99,0.1,Net Banking,Delivered
+218,484,2025-10-28,61,2,1776.81,0.2,Debit Card,Delivered
+219,21,2025-02-16,89,1,7177.61,0.02,Cash on Delivery,Delivered
+220,358,2025-04-24,28,2,12421.05,0.05,Wallet,Delivered
+221,474,2025-12-16,3,1,46104.94,0.15,Credit Card,Delivered
+222,34,2025-04-25,2,1,73575.3,0.05,Wallet,Returned
+223,10,2025-05-21,83,1,446.75,0.05,Net Banking,Delivered
+224,363,2025-06-04,60,2,2953.6,0.08,Cash on Delivery,Delivered
+225,252,2025-12-06,66,4,4938.39,0.1,Wallet,Delivered
+226,416,2025-06-02,37,2,273.99,0.05,Debit Card,Delivered
+227,26,2025-05-14,36,2,1918.82,0.15,Debit Card,Delivered
+228,394,2025-05-04,67,3,3432.82,0.2,Cash on Delivery,Delivered
+229,35,2025-12-15,41,1,824.27,0.08,Debit Card,Delivered
+230,31,2025-07-27,54,1,247.29,0.15,Cash on Delivery,Delivered
+231,31,2025-04-24,44,2,1704.85,0.08,Wallet,Delivered
+232,402,2025-03-29,39,3,795.24,0.02,Debit Card,Delivered
+233,306,2025-05-13,17,2,2608.13,0.02,Wallet,Cancelled
+234,229,2025-02-15,84,1,1123.2,0.2,Debit Card,Delivered
+235,121,2025-07-10,43,1,526.41,0.2,UPI,Delivered
+236,442,2025-10-26,82,2,1509.67,0.08,Credit Card,Delivered
+237,141,2025-07-15,88,1,9025.31,0.2,Credit Card,Delivered
+238,404,2025-06-25,26,1,1493.28,0.08,Credit Card,Delivered
+239,177,2025-04-03,92,2,733.1,0.15,Credit Card,Delivered
+240,135,2025-01-03,8,1,51711.73,0.2,Credit Card,Delivered
+241,189,2025-09-08,21,2,2438.9,0.02,Cash on Delivery,Delivered
+242,81,2025-07-26,55,1,182.18,0.0,UPI,Delivered
+243,366,2025-07-11,94,4,398.36,0.2,Cash on Delivery,Delivered
+244,215,2025-01-03,87,2,607.97,0.15,Debit Card,Delivered
+245,40,2025-07-16,14,1,3524.01,0.0,UPI,Delivered
+246,451,2025-08-22,38,2,468.7,0.05,Net Banking,Cancelled
+247,138,2025-06-25,18,5,1376.14,0.2,Credit Card,Delivered
+248,241,2025-01-10,52,1,674.84,0.02,Credit Card,Delivered
+249,454,2025-09-16,76,1,3125.72,0.15,UPI,Delivered
+250,276,2025-05-11,82,2,1510.46,0.1,UPI,Delivered
+251,19,2025-01-11,84,1,1095.26,0.08,Net Banking,Delivered
+252,474,2025-08-31,33,2,688.02,0.15,Wallet,Delivered
+253,278,2025-12-05,54,1,276.29,0.1,Cash on Delivery,Delivered
+254,108,2025-02-23,54,1,282.12,0.05,UPI,Delivered
+255,26,2025-04-12,64,2,3413.6,0.2,Cash on Delivery,Returned
+256,393,2025-12-27,46,1,3407.45,0.1,Net Banking,Cancelled
+257,274,2025-09-04,89,1,6563.56,0.15,UPI,Cancelled
+258,234,2025-12-09,74,1,3028.66,0.2,Cash on Delivery,Delivered
+259,447,2025-02-21,93,3,663.26,0.08,Debit Card,Delivered
+260,391,2025-02-21,7,2,62673.17,0.2,Debit Card,Delivered
+261,28,2025-06-10,87,1,589.38,0.2,UPI,Delivered
+262,89,2025-12-06,18,2,1327.71,0.08,Cash on Delivery,Delivered
+263,51,2025-02-17,94,1,354.53,0.0,Net Banking,Delivered
+264,365,2025-05-20,59,3,1436.01,0.08,Net Banking,Delivered
+265,4,2025-02-27,22,1,9651.86,0.2,Credit Card,Delivered
+266,249,2025-09-05,76,2,3343.92,0.02,Cash on Delivery,Delivered
+267,377,2025-11-10,46,1,3826.61,0.2,Wallet,Returned
+268,442,2025-09-05,17,3,2358.4,0.08,Net Banking,Delivered
+269,113,2025-12-02,34,1,479.5,0.15,Cash on Delivery,Delivered
+270,406,2025-10-17,74,1,3032.45,0.2,Debit Card,Delivered
+271,18,2025-12-25,89,2,7251.65,0.15,Credit Card,Delivered
+272,420,2025-12-13,85,2,1528.67,0.2,Cash on Delivery,Cancelled
+273,23,2025-01-28,79,1,703.81,0.1,Net Banking,Delivered
+274,143,2025-02-08,22,2,8840.38,0.05,Debit Card,Delivered
+275,395,2025-10-09,29,2,1169.95,0.02,UPI,Delivered
+276,28,2025-08-18,74,1,2758.15,0.05,UPI,Processing
+277,39,2025-12-01,96,1,809.72,0.0,Cash on Delivery,Delivered
+278,350,2025-11-06,12,4,15159.17,0.1,Cash on Delivery,Delivered
+279,349,2025-08-22,86,4,713.24,0.0,Credit Card,Delivered
+280,287,2025-10-14,43,2,563.05,0.15,Wallet,Delivered
+281,325,2025-02-28,58,1,114.21,0.0,Debit Card,Delivered
+282,241,2025-05-30,82,1,1430.75,0.0,UPI,Cancelled
+283,52,2025-03-13,64,2,3388.79,0.08,UPI,Delivered
+284,115,2025-04-07,26,1,1583.71,0.02,Net Banking,Delivered
+285,34,2025-06-23,25,1,9930.93,0.15,Wallet,Delivered
+286,456,2025-08-23,58,2,121.35,0.02,Net Banking,Delivered
+287,257,2025-01-25,95,2,543.03,0.1,Net Banking,Cancelled
+288,147,2025-12-21,23,2,1448.18,0.02,UPI,Delivered
+289,189,2025-11-07,77,3,643.65,0.08,Net Banking,Returned
+290,476,2025-05-08,89,1,8100.74,0.05,Net Banking,Delivered
+291,29,2025-07-31,18,2,1494.93,0.1,Debit Card,Delivered
+292,258,2025-06-10,71,2,3020.3,0.15,Credit Card,Delivered
+293,218,2025-05-29,80,2,2007.47,0.02,Wallet,Delivered
+294,271,2025-09-15,23,1,1420.12,0.15,UPI,Delivered
+295,2,2025-09-03,72,2,4033.13,0.15,Net Banking,Delivered
+296,439,2025-05-27,69,3,3617.0,0.0,Cash on Delivery,Delivered
+297,470,2025-03-16,49,1,414.83,0.05,Credit Card,Processing
+298,249,2025-05-09,88,1,8323.23,0.2,Debit Card,Delivered
+299,326,2025-01-17,70,1,7283.24,0.1,Wallet,Delivered
+300,466,2025-11-28,29,2,1126.91,0.2,Wallet,Delivered
+301,337,2025-01-25,86,3,717.11,0.2,Wallet,Delivered
+302,28,2025-01-28,71,1,2609.93,0.1,Net Banking,Delivered
+303,253,2025-12-27,82,2,1428.78,0.1,Cash on Delivery,Delivered
+304,268,2025-04-10,26,1,1367.92,0.15,UPI,Delivered
+305,162,2025-09-21,23,1,1241.36,0.05,Cash on Delivery,Delivered
+306,359,2025-10-27,21,3,2052.0,0.08,Wallet,Returned
+307,472,2025-03-20,6,3,61058.5,0.2,Wallet,Delivered
+308,468,2025-06-04,85,1,1681.23,0.05,UPI,Delivered
+309,183,2025-09-27,41,1,855.92,0.0,Cash on Delivery,Delivered
+310,18,2025-10-02,70,1,7118.15,0.02,Wallet,Delivered
+311,496,2025-05-31,47,1,5822.22,0.1,Net Banking,Processing
+312,414,2025-11-29,97,1,380.56,0.08,Credit Card,Cancelled
+313,21,2025-11-15,79,1,578.75,0.05,Net Banking,Cancelled
+314,465,2025-07-17,15,1,3858.22,0.0,Cash on Delivery,Delivered
+315,438,2025-09-21,48,2,2271.87,0.0,Debit Card,Cancelled
+316,227,2025-06-14,25,1,11105.06,0.02,Cash on Delivery,Delivered
+317,262,2025-02-03,81,1,850.37,0.02,Wallet,Delivered
+318,145,2025-04-16,14,1,3841.23,0.15,Net Banking,Delivered
+319,9,2025-12-18,10,1,5014.24,0.05,UPI,Delivered
+320,108,2025-04-02,7,2,58690.93,0.1,Credit Card,Cancelled
+321,397,2025-07-18,53,1,539.63,0.05,UPI,Delivered
+322,2,2025-10-01,16,1,2119.96,0.0,Wallet,Delivered
+323,107,2025-02-07,90,1,14728.16,0.05,Wallet,Delivered
+324,144,2025-05-25,12,2,14519.66,0.08,Wallet,Delivered
+325,237,2025-10-01,21,1,2422.41,0.2,Cash on Delivery,Delivered
+326,465,2025-03-15,82,1,1594.84,0.2,Wallet,Delivered
+327,115,2025-10-11,2,3,63619.76,0.0,UPI,Delivered
+328,116,2025-10-03,51,1,166.57,0.02,Wallet,Delivered
+329,360,2025-06-26,93,1,699.79,0.2,Cash on Delivery,Delivered
+330,184,2025-04-24,24,2,1566.12,0.0,Credit Card,Delivered
+331,39,2025-01-28,73,3,2515.18,0.1,Net Banking,Delivered
+332,184,2025-05-29,10,2,4784.89,0.02,Wallet,Delivered
+333,26,2025-07-02,43,1,569.71,0.0,Debit Card,Delivered
+334,34,2025-06-12,25,1,9741.48,0.15,Debit Card,Delivered
+335,212,2025-10-17,20,2,2943.64,0.08,Credit Card,Delivered
+336,158,2025-04-24,32,2,662.77,0.05,Debit Card,Delivered
+337,463,2025-06-19,94,3,364.12,0.05,Debit Card,Delivered
+338,122,2025-03-31,14,2,3344.74,0.05,Credit Card,Cancelled
+339,257,2025-05-15,26,2,1511.57,0.15,UPI,Cancelled
+340,280,2025-11-20,65,1,3744.58,0.08,Cash on Delivery,Delivered
+341,2,2025-10-10,5,1,9986.97,0.1,Net Banking,Delivered
+342,306,2025-07-07,20,1,2993.86,0.1,Wallet,Delivered
+343,34,2025-08-26,18,1,1256.33,0.05,Cash on Delivery,Delivered
+344,481,2025-11-11,31,2,581.89,0.02,Net Banking,Delivered
+345,28,2025-10-17,73,2,2532.85,0.15,Wallet,Delivered
+346,155,2025-01-21,46,1,3669.2,0.0,Debit Card,Delivered
+347,12,2025-12-09,6,1,65099.44,0.05,Net Banking,Delivered
+348,500,2025-01-24,59,1,1423.61,0.0,Wallet,Returned
+349,215,2025-05-21,82,3,1395.39,0.1,Cash on Delivery,Delivered
+350,262,2025-07-13,84,1,1234.92,0.2,UPI,Delivered
+351,10,2025-04-25,49,1,444.4,0.2,Debit Card,Delivered
+352,367,2025-11-06,62,1,2490.02,0.08,Credit Card,Delivered
+353,36,2025-11-26,66,1,4249.39,0.02,Debit Card,Delivered
+354,448,2025-12-05,16,1,2159.93,0.15,UPI,Delivered
+355,35,2025-09-03,62,1,2129.77,0.2,Net Banking,Delivered
+356,35,2025-03-07,6,2,55393.83,0.15,Cash on Delivery,Delivered
+357,4,2025-03-17,74,1,2614.08,0.02,Cash on Delivery,Returned
+358,194,2025-10-16,77,2,696.0,0.15,Wallet,Delivered
+359,248,2025-04-21,11,1,13240.2,0.2,Net Banking,Delivered
+360,10,2025-11-04,53,1,560.98,0.2,Credit Card,Delivered
+361,385,2025-05-16,66,1,4784.63,0.08,Cash on Delivery,Delivered
+362,184,2025-07-13,30,1,756.7,0.02,Cash on Delivery,Delivered
+363,229,2025-12-17,65,1,3398.8,0.0,Credit Card,Delivered
+364,177,2025-11-04,79,1,682.76,0.1,UPI,Delivered
+365,147,2025-03-08,85,3,1669.22,0.0,Wallet,Delivered
+366,248,2025-08-04,67,1,2899.58,0.1,Net Banking,Delivered
+367,29,2025-07-15,62,1,2451.33,0.2,Wallet,Delivered
+368,34,2025-03-10,55,1,193.66,0.2,UPI,Delivered
+369,432,2025-07-29,70,1,6567.93,0.15,UPI,Delivered
+370,476,2025-09-24,16,1,2091.05,0.15,Debit Card,Delivered
+371,130,2025-03-21,14,1,3747.36,0.05,Cash on Delivery,Delivered
+372,63,2025-11-10,47,1,5735.77,0.2,Credit Card,Delivered
+373,290,2025-09-05,72,1,3726.34,0.08,Debit Card,Processing
+374,155,2025-06-26,74,2,2697.98,0.02,Wallet,Delivered
+375,3,2025-08-17,30,2,907.85,0.0,Credit Card,Delivered
+376,29,2025-10-09,44,2,1721.49,0.0,Credit Card,Delivered
+377,345,2025-01-03,82,2,1574.46,0.08,Cash on Delivery,Delivered
+378,305,2025-05-15,9,1,7523.24,0.0,Wallet,Delivered
+379,3,2025-11-11,52,2,613.23,0.1,UPI,Returned
+380,38,2025-11-24,23,1,1232.39,0.2,Wallet,Returned
+381,40,2025-05-27,67,1,3417.79,0.1,Cash on Delivery,Delivered
+382,310,2025-03-28,79,2,623.47,0.15,UPI,Returned
+383,2,2025-05-22,12,2,14249.12,0.08,Net Banking,Delivered
+384,15,2025-01-08,67,2,2917.2,0.0,Cash on Delivery,Delivered
+385,396,2025-10-26,72,1,4049.62,0.05,Credit Card,Delivered
+386,34,2025-08-21,25,3,10283.86,0.05,Credit Card,Delivered
+387,298,2025-10-14,14,1,3514.52,0.0,Cash on Delivery,Returned
+388,44,2025-10-22,69,1,3633.31,0.08,Cash on Delivery,Delivered
+389,13,2025-06-23,32,4,637.33,0.08,Cash on Delivery,Cancelled
+390,49,2025-03-01,62,1,2240.44,0.2,Credit Card,Delivered
+391,350,2025-06-11,30,1,800.67,0.1,UPI,Delivered
+392,426,2025-05-08,34,1,448.99,0.15,Debit Card,Delivered
+393,412,2025-09-01,23,1,1294.71,0.1,Debit Card,Delivered
+394,143,2025-12-16,96,3,771.37,0.15,Credit Card,Delivered
+395,307,2025-05-16,31,1,515.47,0.02,Cash on Delivery,Delivered
+396,35,2025-03-03,14,3,3819.69,0.15,Net Banking,Delivered
+397,76,2025-10-05,98,4,592.77,0.05,Cash on Delivery,Delivered
+398,448,2025-05-21,74,1,3049.62,0.1,Debit Card,Delivered
+399,2,2025-10-23,97,1,369.13,0.08,Net Banking,Returned
+400,12,2025-09-15,5,1,9919.81,0.2,Credit Card,Delivered
+401,35,2025-12-24,16,1,1942.0,0.0,UPI,Delivered
+402,3,2025-10-25,49,1,445.27,0.2,Debit Card,Delivered
+403,34,2025-05-02,34,1,504.84,0.05,Debit Card,Delivered
+404,257,2025-04-18,55,1,193.12,0.05,Net Banking,Delivered
+405,160,2025-10-20,24,1,1682.39,0.02,UPI,Delivered
+406,447,2025-10-12,31,1,536.81,0.02,Wallet,Delivered
+407,404,2025-04-01,2,1,63516.23,0.2,Wallet,Delivered
+408,113,2025-06-11,93,2,615.12,0.1,Cash on Delivery,Delivered
+409,54,2025-12-20,13,1,7766.98,0.05,Net Banking,Delivered
+410,135,2025-08-19,13,2,7846.71,0.05,Cash on Delivery,Delivered
+411,262,2025-06-26,33,1,674.55,0.2,Wallet,Returned
+412,60,2025-10-23,26,2,1518.77,0.02,Debit Card,Delivered
+413,276,2025-09-19,87,1,676.15,0.0,Net Banking,Delivered
+414,155,2025-11-20,60,4,2979.96,0.15,Debit Card,Delivered
+415,243,2025-10-20,79,1,699.99,0.0,Credit Card,Delivered
+416,173,2025-06-12,41,2,961.12,0.1,Wallet,Delivered
+417,76,2025-07-05,57,2,110.9,0.08,Net Banking,Delivered
+418,476,2025-03-06,3,2,43809.66,0.15,Wallet,Delivered
+419,377,2025-03-27,27,1,3355.6,0.08,Cash on Delivery,Delivered
+420,26,2025-09-26,51,2,166.49,0.05,Cash on Delivery,Delivered
+421,438,2025-07-19,84,1,1129.45,0.05,Net Banking,Delivered
+422,201,2025-09-27,17,3,2311.17,0.15,Debit Card,Cancelled
+423,447,2025-09-01,42,1,694.93,0.05,Cash on Delivery,Delivered
+424,396,2025-10-04,90,1,15031.33,0.15,Wallet,Delivered
+425,163,2025-08-11,73,1,2368.82,0.05,Debit Card,Delivered
+426,2,2025-02-15,30,1,802.95,0.05,Credit Card,Delivered
+427,61,2025-09-25,1,2,79166.15,0.05,Debit Card,Delivered
+428,241,2025-12-19,2,3,75703.35,0.08,Debit Card,Delivered
+429,280,2025-05-30,56,2,39.17,0.1,Debit Card,Delivered
+430,54,2025-08-12,72,1,3409.76,0.15,Wallet,Delivered
+431,26,2025-04-23,49,1,451.32,0.02,Cash on Delivery,Delivered
+432,413,2025-12-22,79,2,612.98,0.15,Cash on Delivery,Delivered
+433,495,2025-04-07,53,3,513.03,0.05,UPI,Delivered
+434,229,2025-08-20,80,1,1888.16,0.02,Debit Card,Delivered
+435,34,2025-10-01,7,1,63910.38,0.05,Debit Card,Delivered
+436,63,2025-01-05,57,1,102.02,0.08,Credit Card,Delivered
+437,2,2025-09-13,40,5,364.18,0.2,UPI,Delivered
+438,463,2025-03-16,97,1,389.08,0.0,Cash on Delivery,Delivered
+439,20,2025-05-09,25,2,10841.17,0.0,Wallet,Delivered
+440,253,2025-05-07,57,2,99.2,0.08,Wallet,Delivered
+441,66,2025-12-07,67,4,3200.06,0.15,Debit Card,Returned
+442,246,2025-11-19,21,2,2421.39,0.1,Cash on Delivery,Delivered
+443,297,2025-11-23,62,1,2229.32,0.0,Wallet,Delivered
+444,412,2025-05-01,15,2,3538.73,0.02,Debit Card,Delivered
+445,35,2025-05-05,51,1,164.85,0.2,Wallet,Delivered
+446,2,2025-03-21,77,1,585.69,0.02,Net Banking,Delivered
+447,26,2025-06-23,80,3,2037.77,0.15,UPI,Delivered
+448,451,2025-03-20,83,2,488.17,0.02,Net Banking,Delivered
+449,442,2025-11-27,72,2,3923.44,0.08,Wallet,Delivered
+450,263,2025-07-13,89,1,6774.72,0.0,Net Banking,Delivered
+451,265,2025-05-31,72,1,3671.16,0.1,Credit Card,Delivered
+452,306,2025-08-28,42,1,689.4,0.2,Cash on Delivery,Delivered
+453,34,2025-03-21,68,1,1770.01,0.1,Debit Card,Delivered
+454,463,2025-09-17,82,1,1370.51,0.0,Cash on Delivery,Delivered
+455,158,2025-05-03,80,1,1664.5,0.1,Net Banking,Delivered
+456,138,2025-09-12,88,2,8507.41,0.05,Debit Card,Delivered
+457,227,2025-02-26,42,1,665.29,0.0,Credit Card,Delivered
+458,8,2025-04-14,5,1,8582.37,0.0,Cash on Delivery,Delivered
+459,33,2025-12-03,50,1,376.97,0.1,Debit Card,Delivered
+460,360,2025-11-07,29,2,1068.58,0.02,Wallet,Delivered
+461,12,2025-08-28,11,2,10816.99,0.1,Wallet,Returned
+462,266,2025-07-08,54,2,248.67,0.1,Debit Card,Delivered
+463,51,2025-02-06,94,3,333.4,0.02,Cash on Delivery,Delivered
+464,140,2025-04-29,93,1,599.67,0.1,Wallet,Delivered
+465,74,2025-04-02,81,2,837.53,0.15,UPI,Delivered
+466,119,2025-07-03,74,2,2880.57,0.08,UPI,Delivered
+467,347,2025-10-09,24,1,1596.62,0.02,Cash on Delivery,Processing
+468,77,2025-06-30,57,3,111.6,0.05,Debit Card,Delivered
+469,249,2025-08-09,82,2,1414.62,0.02,Cash on Delivery,Delivered
+470,198,2025-10-09,49,3,434.54,0.08,Net Banking,Returned
+471,306,2025-01-18,1,4,75131.27,0.1,Credit Card,Processing
+472,472,2025-01-04,39,1,690.64,0.2,Debit Card,Delivered
+473,359,2025-05-22,89,3,7377.11,0.1,Cash on Delivery,Delivered
+474,36,2025-08-24,5,1,8475.97,0.05,Cash on Delivery,Delivered
+475,3,2025-06-03,33,1,719.07,0.02,Wallet,Delivered
+476,55,2025-09-05,42,1,688.61,0.15,Wallet,Delivered
+477,262,2025-11-01,13,2,7446.44,0.2,Cash on Delivery,Delivered
+478,8,2025-06-21,8,1,59004.72,0.08,UPI,Cancelled
+479,211,2025-12-01,30,3,904.15,0.15,Wallet,Delivered
+480,262,2025-09-26,40,1,370.27,0.02,Debit Card,Delivered
+481,108,2025-03-20,29,1,1255.24,0.08,Net Banking,Delivered
+482,383,2025-09-16,74,1,2718.26,0.2,Net Banking,Delivered
+483,17,2025-02-12,44,1,1743.34,0.1,Net Banking,Delivered
+484,12,2025-09-14,52,1,670.74,0.2,Credit Card,Delivered
+485,353,2025-09-07,26,1,1493.89,0.1,Cash on Delivery,Processing
+486,210,2025-05-07,68,1,1570.98,0.08,Debit Card,Delivered
+487,322,2025-02-15,74,1,2707.25,0.05,Debit Card,Delivered
+488,171,2025-11-01,45,2,4868.71,0.02,Debit Card,Delivered
+489,51,2025-11-16,57,1,99.48,0.2,Credit Card,Delivered
+490,405,2025-03-21,48,2,2475.39,0.0,Wallet,Delivered
+491,396,2025-03-17,80,3,1967.07,0.0,Debit Card,Delivered
+492,325,2025-06-06,15,1,3297.37,0.02,Wallet,Delivered
+493,63,2025-10-07,27,1,3486.05,0.08,Cash on Delivery,Delivered
+494,262,2025-12-22,19,2,4941.24,0.1,Wallet,Delivered
+495,122,2025-03-29,33,1,687.25,0.15,Cash on Delivery,Delivered
+496,13,2025-12-02,60,4,2499.13,0.15,Debit Card,Delivered
+497,465,2025-07-04,85,3,1482.04,0.2,Wallet,Delivered
+498,26,2025-09-18,49,4,419.12,0.05,Net Banking,Cancelled
+499,476,2025-02-15,69,1,3679.6,0.08,Cash on Delivery,Cancelled
+500,179,2025-01-21,3,1,42589.7,0.05,Net Banking,Delivered
+501,34,2025-01-10,21,1,2225.07,0.15,Debit Card,Delivered
+502,241,2025-05-22,65,2,3779.69,0.08,UPI,Returned
+503,440,2025-04-26,36,1,1897.93,0.15,Credit Card,Delivered
+504,359,2025-09-24,49,4,470.3,0.15,Wallet,Delivered
+505,399,2025-10-21,31,1,607.45,0.1,Debit Card,Delivered
+506,304,2025-04-16,17,2,2620.44,0.15,Credit Card,Cancelled
+507,325,2025-12-19,40,2,368.98,0.02,Net Banking,Processing
+508,421,2025-12-02,19,3,6019.53,0.05,UPI,Delivered
+509,51,2025-03-02,93,1,690.55,0.02,Wallet,Delivered
+510,204,2025-07-31,41,4,879.79,0.15,Wallet,Returned
+511,37,2025-03-19,36,2,1597.73,0.02,UPI,Delivered
+512,499,2025-11-12,79,1,652.45,0.02,Cash on Delivery,Delivered
+513,476,2025-01-14,88,1,9575.32,0.08,Credit Card,Delivered
+514,6,2025-08-29,78,2,714.94,0.2,Net Banking,Delivered
+515,332,2025-03-25,18,1,1238.84,0.2,UPI,Cancelled
+516,468,2025-04-24,53,2,609.57,0.2,Credit Card,Delivered
+517,34,2025-11-12,57,1,106.2,0.08,Credit Card,Delivered
+518,249,2025-11-08,6,2,58243.97,0.05,Net Banking,Delivered
+519,464,2025-10-20,96,2,831.62,0.15,UPI,Delivered
+520,4,2025-08-22,58,2,99.42,0.02,Cash on Delivery,Delivered
+521,326,2025-01-21,95,2,553.01,0.15,UPI,Delivered
+522,79,2025-07-23,57,3,116.97,0.05,Net Banking,Delivered
+523,468,2025-11-10,38,3,478.04,0.02,Net Banking,Delivered
+524,487,2025-02-16,58,2,101.12,0.2,Cash on Delivery,Returned
+525,476,2025-10-07,90,1,14442.49,0.08,UPI,Delivered
+526,197,2025-12-31,76,3,3486.79,0.0,Debit Card,Delivered
+527,432,2025-12-31,84,2,1251.81,0.0,UPI,Delivered
+528,419,2025-11-21,58,1,110.97,0.08,Wallet,Delivered
+529,94,2025-11-10,66,4,4477.78,0.08,UPI,Delivered
+530,412,2025-10-17,43,3,594.53,0.02,Credit Card,Delivered
+531,4,2025-01-27,92,1,704.64,0.2,Net Banking,Delivered
+532,262,2025-03-02,24,3,1820.74,0.0,Cash on Delivery,Delivered
+533,40,2025-08-23,2,1,68978.71,0.2,UPI,Delivered
+534,21,2025-05-02,64,1,3330.68,0.08,Net Banking,Delivered
+535,12,2025-11-04,77,1,696.51,0.05,Cash on Delivery,Delivered
+536,326,2025-01-26,27,1,3323.22,0.05,UPI,Delivered
+537,113,2025-12-08,5,2,9405.63,0.05,UPI,Delivered
+538,352,2025-04-02,54,1,262.19,0.15,Wallet,Delivered
+539,10,2025-10-15,74,1,2732.29,0.1,Debit Card,Returned
+540,92,2025-06-03,12,1,15991.1,0.2,UPI,Delivered
+541,240,2025-02-03,71,1,2539.88,0.15,Debit Card,Delivered
+542,391,2025-09-26,53,1,516.22,0.0,UPI,Delivered
+543,94,2025-09-28,81,4,824.14,0.15,Cash on Delivery,Returned
+544,277,2025-05-28,91,1,1978.13,0.05,Cash on Delivery,Delivered
+545,446,2025-07-01,80,3,1884.77,0.08,Cash on Delivery,Delivered
+546,273,2025-09-10,64,2,3487.57,0.02,Wallet,Delivered
+547,40,2025-01-01,25,1,10041.84,0.2,UPI,Delivered
+548,3,2025-11-12,27,5,3610.33,0.05,Debit Card,Delivered
+549,438,2025-04-19,82,1,1375.52,0.05,Debit Card,Delivered
+550,2,2025-06-03,40,1,353.03,0.0,UPI,Delivered
+551,442,2025-07-22,44,2,1696.81,0.0,Credit Card,Delivered
+552,231,2025-12-11,44,1,1645.91,0.0,Wallet,Delivered
+553,474,2025-11-18,20,1,2978.14,0.05,Net Banking,Delivered
+554,396,2025-01-29,53,3,527.04,0.15,Wallet,Delivered
+555,500,2025-01-10,69,1,3827.44,0.2,Debit Card,Delivered
+556,117,2025-05-24,20,3,2662.6,0.08,Wallet,Delivered
+557,380,2025-10-20,22,2,8573.9,0.0,Debit Card,Delivered
+558,148,2025-12-30,41,1,901.87,0.08,Credit Card,Delivered
+559,199,2025-04-21,39,1,683.15,0.05,UPI,Delivered
+560,278,2025-08-16,12,1,15675.9,0.1,Credit Card,Delivered
+561,442,2025-09-26,62,1,2212.78,0.2,UPI,Delivered
+562,495,2025-12-13,67,5,3012.77,0.0,Net Banking,Delivered
+563,382,2025-03-01,67,1,3521.63,0.15,Cash on Delivery,Cancelled
+564,158,2025-08-28,43,3,503.53,0.2,Wallet,Delivered
+565,160,2025-10-23,3,2,43596.48,0.02,Debit Card,Delivered
+566,360,2025-05-22,37,1,291.39,0.15,UPI,Delivered
+567,44,2025-05-21,21,1,2528.14,0.1,Cash on Delivery,Delivered
+568,18,2025-06-29,70,1,6992.81,0.15,Debit Card,Delivered
+569,119,2025-02-06,22,1,9983.49,0.1,Net Banking,Delivered
+570,71,2025-08-30,4,3,24901.91,0.08,UPI,Delivered
+571,77,2025-04-02,51,2,198.65,0.15,Wallet,Delivered
+572,40,2025-07-02,79,1,687.46,0.15,Wallet,Delivered
+573,8,2025-08-27,11,2,10900.74,0.2,Wallet,Delivered
+574,2,2025-06-08,59,2,1442.1,0.08,Net Banking,Delivered
+575,499,2025-03-15,29,3,1225.46,0.05,Net Banking,Delivered
+576,164,2025-06-19,86,2,796.19,0.08,Net Banking,Delivered
+577,138,2025-02-27,61,1,1823.58,0.02,Debit Card,Delivered
+578,315,2025-10-22,78,1,671.63,0.2,Wallet,Delivered
+579,36,2025-10-12,42,2,683.96,0.1,Net Banking,Delivered
+580,476,2025-05-03,53,2,556.82,0.08,Net Banking,Delivered
+581,391,2025-12-22,27,2,3906.47,0.08,Cash on Delivery,Delivered
+582,12,2025-12-22,70,1,7619.23,0.0,Wallet,Returned
+583,157,2025-09-07,74,1,2816.71,0.05,Cash on Delivery,Delivered
+584,442,2025-04-01,57,1,108.14,0.1,UPI,Delivered
+585,476,2025-07-14,77,1,663.35,0.0,UPI,Delivered
+586,193,2025-10-25,18,3,1419.89,0.0,Credit Card,Delivered
+587,272,2025-09-30,58,1,113.17,0.08,Credit Card,Delivered
+588,34,2025-06-03,41,2,1001.64,0.05,Net Banking,Delivered
+589,499,2025-02-15,45,2,4710.55,0.1,Net Banking,Delivered
+590,40,2025-02-01,38,1,463.96,0.0,UPI,Delivered
+591,475,2025-02-26,46,3,3971.55,0.02,Net Banking,Delivered
+592,296,2025-11-17,51,1,178.42,0.08,Net Banking,Delivered
+593,268,2025-03-30,85,1,1542.9,0.08,Debit Card,Delivered
+594,221,2025-05-28,20,5,2861.09,0.02,UPI,Delivered
+595,40,2025-03-15,3,2,42196.73,0.08,Credit Card,Delivered
+596,34,2025-08-01,83,3,498.36,0.15,Cash on Delivery,Returned
+597,37,2025-04-03,80,1,1808.75,0.2,Net Banking,Delivered
+598,35,2025-04-06,29,1,1067.11,0.08,Wallet,Delivered
+599,387,2025-05-18,65,1,3716.0,0.05,UPI,Returned
+600,117,2025-09-05,73,2,2105.74,0.08,Wallet,Delivered
+601,9,2025-09-27,94,4,405.68,0.2,Debit Card,Delivered
+602,486,2025-09-25,11,3,10889.12,0.08,Wallet,Delivered
+603,445,2025-02-09,86,2,741.34,0.1,Debit Card,Delivered
+604,470,2025-10-01,44,2,1643.88,0.1,Net Banking,Delivered
+605,500,2025-08-04,43,1,608.32,0.05,Debit Card,Delivered
+606,34,2025-11-02,89,2,7722.19,0.1,Debit Card,Delivered
+607,141,2025-10-24,61,1,1659.82,0.05,Wallet,Delivered
+608,372,2025-09-06,37,1,275.41,0.2,Debit Card,Delivered
+609,325,2025-05-24,79,1,609.1,0.15,UPI,Delivered
+610,29,2025-03-19,76,2,3127.94,0.02,Debit Card,Delivered
+611,403,2025-09-06,31,1,554.36,0.0,Debit Card,Processing
+612,39,2025-11-01,19,3,5104.13,0.08,Net Banking,Delivered
+613,39,2025-12-05,31,1,567.56,0.02,Cash on Delivery,Delivered
+614,237,2025-01-28,45,2,4854.51,0.0,UPI,Delivered
+615,262,2025-09-01,52,1,677.49,0.2,Cash on Delivery,Delivered
+616,256,2025-12-28,88,1,8724.38,0.1,Net Banking,Delivered
+617,13,2025-07-15,58,2,121.48,0.15,UPI,Delivered
+618,442,2025-11-23,69,1,3954.4,0.1,Wallet,Delivered
+619,56,2025-05-19,43,1,502.95,0.15,Cash on Delivery,Delivered
+620,24,2025-05-04,87,2,655.48,0.02,Cash on Delivery,Delivered
+621,446,2025-04-03,89,1,6576.1,0.0,UPI,Delivered
+622,479,2025-09-26,13,1,8181.79,0.02,Wallet,Delivered
+623,432,2025-01-18,25,1,9221.43,0.1,Wallet,Cancelled
+624,400,2025-11-03,28,2,12500.03,0.0,UPI,Delivered
+625,302,2025-07-12,17,2,2798.94,0.1,Credit Card,Cancelled
+626,243,2025-04-05,90,1,14613.34,0.0,Wallet,Delivered
+627,12,2025-08-07,36,2,1810.73,0.2,Debit Card,Delivered
+628,155,2025-05-22,10,2,4930.18,0.05,UPI,Delivered
+629,130,2025-04-02,34,1,458.25,0.02,Cash on Delivery,Delivered
+630,54,2025-09-09,83,1,463.14,0.08,Credit Card,Delivered
+631,351,2025-08-15,14,2,3361.79,0.0,UPI,Delivered
+632,211,2025-08-17,33,1,734.71,0.15,Wallet,Delivered
+633,12,2025-12-07,5,1,8502.36,0.05,Net Banking,Delivered
+634,37,2025-12-29,66,3,4589.76,0.08,Net Banking,Delivered
+635,316,2025-10-04,9,1,8071.07,0.15,Net Banking,Delivered
+636,12,2025-07-03,69,1,3521.38,0.0,Wallet,Processing
+637,422,2025-02-16,83,1,494.34,0.05,UPI,Delivered
+638,208,2025-05-29,98,2,512.34,0.0,Net Banking,Delivered
+639,199,2025-12-23,39,1,672.24,0.15,Debit Card,Delivered
+640,262,2025-08-13,81,2,762.34,0.02,UPI,Delivered
+641,409,2025-05-03,76,1,2913.26,0.1,Wallet,Delivered
+642,116,2025-08-19,69,4,3292.31,0.05,UPI,Delivered
+643,314,2025-01-22,93,1,602.77,0.15,Wallet,Delivered
+644,249,2025-10-02,87,1,654.17,0.0,UPI,Delivered
+645,58,2025-12-01,63,1,4004.74,0.1,UPI,Delivered
+646,442,2025-03-08,84,1,1229.55,0.05,UPI,Delivered
+647,395,2025-10-30,22,1,9833.96,0.0,Net Banking,Delivered
+648,304,2025-04-23,79,1,601.51,0.05,Wallet,Delivered
+649,421,2025-03-03,42,4,653.7,0.02,Debit Card,Delivered
+650,436,2025-01-24,28,2,11531.42,0.0,Debit Card,Delivered
+651,337,2025-03-28,54,2,278.27,0.08,Credit Card,Cancelled
+652,413,2025-03-10,6,1,64314.78,0.1,Net Banking,Delivered
+653,326,2025-09-07,3,1,37785.64,0.0,Wallet,Delivered
+654,315,2025-08-02,37,2,292.56,0.08,Wallet,Delivered
+655,274,2025-11-24,19,1,5459.59,0.02,Credit Card,Delivered
+656,367,2025-11-02,5,1,9198.86,0.0,Wallet,Delivered
+657,30,2025-06-28,39,1,744.3,0.02,UPI,Processing
+658,443,2025-11-13,13,1,8749.06,0.1,Cash on Delivery,Delivered
+659,439,2025-12-04,81,1,746.72,0.0,Credit Card,Delivered
+660,3,2025-09-12,61,1,1907.1,0.0,UPI,Delivered
+661,409,2025-04-18,37,1,265.17,0.2,Net Banking,Delivered
+662,23,2025-01-27,95,3,512.25,0.2,UPI,Delivered
+663,108,2025-02-06,15,3,3856.16,0.1,Cash on Delivery,Delivered
+664,365,2025-12-13,26,3,1384.75,0.0,Debit Card,Delivered
+665,31,2025-07-31,31,3,536.17,0.02,UPI,Delivered
+666,404,2025-01-28,63,3,3395.1,0.1,Net Banking,Delivered
+667,412,2025-03-11,48,1,2146.22,0.05,Debit Card,Delivered
+668,219,2025-01-17,17,2,2328.57,0.02,UPI,Delivered
+669,2,2025-08-03,59,1,1332.18,0.05,Cash on Delivery,Delivered
+670,71,2025-11-10,82,3,1496.06,0.1,Credit Card,Delivered
+671,273,2025-09-08,67,3,3020.65,0.08,Net Banking,Delivered
+672,492,2025-08-08,94,2,346.86,0.05,Net Banking,Delivered
+673,280,2025-03-18,76,3,3497.78,0.08,UPI,Delivered
+674,54,2025-09-16,61,1,1851.52,0.08,Wallet,Delivered
+675,281,2025-09-11,58,1,111.8,0.0,Wallet,Delivered
+676,241,2025-03-09,28,1,11280.69,0.0,UPI,Delivered
+677,387,2025-03-24,40,2,395.64,0.15,Cash on Delivery,Delivered
+678,17,2025-08-26,59,2,1491.26,0.08,Credit Card,Delivered
+679,376,2025-11-17,48,1,2365.75,0.2,Wallet,Delivered
+680,241,2025-06-20,89,1,7033.66,0.2,Debit Card,Delivered
+681,482,2025-10-05,79,2,602.14,0.15,UPI,Delivered
+682,113,2025-01-29,43,1,600.2,0.05,UPI,Delivered
+683,280,2025-08-27,47,2,5357.79,0.02,Wallet,Delivered
+684,470,2025-10-15,9,2,7747.62,0.05,Credit Card,Delivered
+685,14,2025-09-02,84,2,1260.62,0.2,Wallet,Delivered
+686,472,2025-04-26,96,1,898.63,0.1,Wallet,Delivered
+687,322,2025-02-02,7,1,57359.46,0.1,Cash on Delivery,Delivered
+688,12,2025-12-30,61,1,1969.17,0.05,Net Banking,Delivered
+689,81,2025-12-21,87,2,704.71,0.0,Credit Card,Cancelled
+690,337,2025-02-14,59,1,1498.38,0.05,UPI,Delivered
+691,10,2025-02-27,36,2,1745.69,0.2,Credit Card,Delivered
+692,257,2025-01-12,81,1,911.51,0.1,Credit Card,Delivered
+693,115,2025-08-16,54,2,246.46,0.02,UPI,Delivered
+694,274,2025-09-24,30,2,811.2,0.05,Wallet,Delivered
+695,8,2025-09-06,42,2,670.6,0.2,Cash on Delivery,Delivered
+696,439,2025-10-18,39,1,781.32,0.02,Debit Card,Delivered
+697,489,2025-05-28,48,2,2072.83,0.05,Debit Card,Delivered
+698,486,2025-11-13,22,3,9622.66,0.05,Credit Card,Returned
+699,367,2025-12-21,91,3,1956.8,0.02,Credit Card,Delivered
+700,24,2025-10-22,41,1,871.21,0.02,Credit Card,Delivered
+701,372,2025-12-07,5,1,8886.81,0.05,Net Banking,Delivered
+702,3,2025-10-01,21,1,2509.21,0.08,Net Banking,Delivered
+703,2,2025-06-13,59,1,1520.03,0.1,Cash on Delivery,Delivered
+704,97,2025-06-01,91,1,1755.05,0.2,Cash on Delivery,Delivered
+705,204,2025-08-15,73,1,2105.32,0.08,UPI,Delivered
+706,383,2025-03-01,71,1,2700.08,0.2,Credit Card,Delivered
+707,316,2025-06-17,12,1,15171.25,0.1,Cash on Delivery,Delivered
+708,179,2025-04-11,36,1,1761.67,0.08,Wallet,Delivered
+709,66,2025-09-20,12,1,14688.57,0.1,Cash on Delivery,Delivered
+710,500,2025-12-08,8,1,50974.5,0.2,Net Banking,Delivered
+711,163,2025-01-07,48,1,2224.79,0.08,Cash on Delivery,Delivered
+712,183,2025-08-16,94,2,360.35,0.08,Debit Card,Delivered
+713,31,2025-08-06,94,2,360.23,0.2,Cash on Delivery,Delivered
+714,394,2025-04-17,19,1,6105.04,0.1,Debit Card,Delivered
+715,325,2025-07-12,76,1,3155.72,0.05,Net Banking,Delivered
+716,37,2025-12-30,60,2,3007.92,0.02,Credit Card,Delivered
+717,12,2025-10-11,38,1,491.3,0.05,Cash on Delivery,Delivered
+718,315,2025-08-26,72,1,3912.0,0.02,Debit Card,Delivered
+719,300,2025-11-22,82,1,1520.27,0.05,Net Banking,Delivered
+720,65,2025-11-27,89,1,6750.12,0.05,Net Banking,Processing
+721,476,2025-11-03,9,2,8424.98,0.1,Net Banking,Cancelled
+722,28,2025-12-18,81,1,862.01,0.0,Debit Card,Delivered
+723,170,2025-01-09,74,3,2556.86,0.0,Credit Card,Delivered
+724,476,2025-03-11,89,1,6643.79,0.05,Net Banking,Delivered
+725,158,2025-01-25,46,1,3702.76,0.0,Cash on Delivery,Delivered
+726,283,2025-04-04,81,2,844.84,0.02,Cash on Delivery,Delivered
+727,143,2025-12-17,41,2,873.42,0.15,Wallet,Delivered
+728,66,2025-10-24,69,1,3394.13,0.02,Cash on Delivery,Delivered
+729,495,2025-07-30,63,1,4007.63,0.0,Credit Card,Delivered
+730,155,2025-04-07,29,2,1210.32,0.15,Cash on Delivery,Delivered
+731,447,2025-10-10,92,2,783.43,0.08,Net Banking,Cancelled
+732,40,2025-03-09,15,3,3662.7,0.05,Wallet,Delivered
+733,36,2025-11-02,57,1,121.68,0.02,Wallet,Delivered
+734,3,2025-03-02,96,1,891.24,0.02,Wallet,Delivered
+735,297,2025-04-18,17,1,2339.18,0.15,UPI,Delivered
+736,127,2025-08-09,62,1,2103.07,0.2,Wallet,Delivered
+737,433,2025-08-29,8,1,52235.28,0.0,Debit Card,Delivered
+738,196,2025-02-19,97,2,400.6,0.02,Cash on Delivery,Cancelled
+739,486,2025-12-10,24,1,1507.84,0.2,Wallet,Returned
+740,34,2025-06-28,75,1,6936.2,0.2,Wallet,Delivered
+741,438,2025-10-19,65,1,3934.69,0.2,UPI,Delivered
+742,385,2025-04-09,92,4,682.63,0.2,Cash on Delivery,Delivered
+743,383,2025-02-20,93,3,701.86,0.2,Wallet,Delivered
+744,419,2025-10-29,90,1,15274.33,0.0,Credit Card,Delivered
+745,376,2025-08-06,49,1,431.89,0.0,Debit Card,Delivered
+746,277,2025-09-24,15,1,3888.85,0.15,Debit Card,Delivered
+747,24,2025-02-12,6,1,54803.55,0.05,Net Banking,Delivered
+748,4,2025-12-18,40,4,362.61,0.1,Net Banking,Delivered
+749,465,2025-04-07,55,3,198.79,0.2,Net Banking,Returned
+750,273,2025-04-02,48,1,2386.12,0.15,UPI,Delivered
+751,394,2025-12-04,67,2,2952.61,0.08,Net Banking,Delivered
+752,199,2025-03-28,14,1,4059.15,0.05,Credit Card,Delivered
+753,19,2025-03-04,52,1,632.55,0.08,Debit Card,Delivered
+754,21,2025-10-31,75,1,6844.31,0.15,Net Banking,Delivered
+755,321,2025-11-05,86,4,812.99,0.1,Debit Card,Delivered
+756,166,2025-02-25,59,1,1375.88,0.02,Wallet,Returned
+757,35,2025-02-20,4,2,29580.89,0.08,Wallet,Delivered
+758,204,2025-07-15,23,2,1327.2,0.05,Cash on Delivery,Delivered
+759,10,2025-02-09,98,2,553.47,0.08,Net Banking,Delivered
+760,257,2025-09-12,85,1,1569.33,0.05,Cash on Delivery,Delivered
+761,62,2025-01-17,98,5,596.62,0.0,Net Banking,Delivered
+762,395,2025-08-15,49,1,412.46,0.1,Wallet,Cancelled
+763,89,2025-12-28,39,1,724.0,0.05,Wallet,Delivered
+764,185,2025-02-26,98,2,549.95,0.1,Wallet,Delivered
+765,2,2025-09-01,61,2,1701.67,0.0,Net Banking,Delivered
+766,12,2025-07-13,76,2,3116.04,0.05,Debit Card,Delivered
+767,141,2025-01-24,76,1,3125.59,0.2,Wallet,Delivered
+768,199,2025-11-17,98,1,502.84,0.05,Debit Card,Delivered
+769,265,2025-12-05,8,1,52014.6,0.05,Cash on Delivery,Delivered
+770,75,2025-02-03,89,3,6742.31,0.02,UPI,Delivered
+771,325,2025-08-24,5,2,9044.04,0.1,Net Banking,Delivered
+772,428,2025-08-29,90,2,16273.43,0.08,Cash on Delivery,Delivered
+773,387,2025-02-20,74,2,2519.19,0.15,Credit Card,Delivered
+774,6,2025-12-08,65,1,3770.92,0.05,Net Banking,Delivered
+775,199,2025-02-08,82,3,1482.54,0.05,Debit Card,Delivered
+776,15,2025-07-25,74,2,2833.8,0.0,Wallet,Delivered
+777,48,2025-10-31,13,1,7500.25,0.2,Cash on Delivery,Delivered
+778,497,2025-06-27,27,2,3800.28,0.05,Cash on Delivery,Delivered
+779,26,2025-12-06,56,1,34.4,0.08,Debit Card,Delivered
+780,213,2025-12-10,59,2,1283.32,0.0,Wallet,Delivered
+781,273,2025-10-23,24,1,1712.94,0.2,Wallet,Returned
+782,330,2025-11-23,35,1,753.36,0.2,Net Banking,Returned
+783,248,2025-11-17,94,1,343.19,0.08,Credit Card,Delivered
+784,2,2025-12-17,96,2,888.95,0.08,Debit Card,Cancelled
+785,102,2025-11-21,9,1,8121.49,0.2,Debit Card,Delivered
+786,227,2025-12-18,33,2,720.04,0.0,Credit Card,Delivered
+787,12,2025-06-08,32,1,651.44,0.08,Net Banking,Delivered
+788,117,2025-04-14,5,1,8472.01,0.05,Debit Card,Delivered
+789,4,2025-11-26,23,3,1518.12,0.08,UPI,Delivered
+790,12,2025-06-10,11,2,12913.65,0.08,Debit Card,Delivered
+791,142,2025-07-23,12,4,15436.59,0.02,Credit Card,Delivered
+792,25,2025-09-14,95,3,553.71,0.2,Cash on Delivery,Returned
+793,249,2025-05-09,68,1,1507.65,0.1,UPI,Delivered
+794,323,2025-06-18,41,3,966.48,0.2,Wallet,Delivered
+795,396,2025-04-22,55,1,170.15,0.05,Net Banking,Delivered
+796,35,2025-01-29,76,1,3131.4,0.0,Debit Card,Delivered
+797,34,2025-12-16,61,1,1750.22,0.2,Credit Card,Delivered
+798,15,2025-07-08,92,2,658.55,0.1,UPI,Delivered
+799,281,2025-01-28,85,2,1758.99,0.02,Debit Card,Delivered
+800,337,2025-11-24,40,4,356.14,0.2,Wallet,Delivered
+801,4,2025-08-15,31,1,600.17,0.08,Debit Card,Delivered
+802,472,2025-05-01,97,1,395.76,0.02,Net Banking,Delivered
+803,8,2025-07-28,83,2,436.53,0.0,Net Banking,Delivered
+804,241,2025-06-20,53,2,596.22,0.2,UPI,Delivered
+805,337,2025-05-14,90,1,14245.05,0.1,Wallet,Delivered
+806,439,2025-06-17,95,1,494.46,0.0,Wallet,Delivered
+807,342,2025-08-16,81,2,761.65,0.08,Credit Card,Delivered
+808,396,2025-10-22,41,1,850.71,0.1,Wallet,Returned
+809,113,2025-03-08,84,3,1243.34,0.2,Debit Card,Delivered
+810,402,2025-03-10,95,1,573.54,0.2,Debit Card,Delivered
+811,12,2025-02-13,26,1,1369.35,0.08,Cash on Delivery,Delivered
+812,447,2025-10-13,3,2,43484.03,0.0,Net Banking,Delivered
+813,242,2025-03-28,90,1,15096.67,0.1,Debit Card,Delivered
+814,404,2025-03-29,48,4,2107.83,0.15,Cash on Delivery,Delivered
+815,184,2025-12-11,59,1,1296.48,0.02,Credit Card,Returned
+816,290,2025-05-28,35,2,716.24,0.08,Credit Card,Delivered
+817,229,2025-12-13,37,1,255.97,0.2,Credit Card,Delivered
+818,358,2025-05-01,34,2,499.73,0.05,Cash on Delivery,Delivered
+819,12,2025-02-13,59,1,1269.11,0.05,Wallet,Delivered
+820,10,2025-07-16,28,2,12572.9,0.05,UPI,Delivered
+821,51,2025-01-27,8,1,52017.23,0.05,Cash on Delivery,Returned
+822,31,2025-12-30,77,2,579.54,0.05,Cash on Delivery,Delivered
+823,439,2025-07-22,39,2,676.31,0.1,UPI,Delivered
+824,37,2025-03-28,34,1,502.03,0.08,Credit Card,Delivered
+825,489,2025-09-29,91,1,1743.29,0.05,UPI,Returned
+826,109,2025-05-24,64,2,3517.36,0.05,Debit Card,Delivered
+827,34,2025-05-16,98,1,543.39,0.02,Debit Card,Delivered
+828,391,2025-03-19,63,2,4017.28,0.15,Net Banking,Delivered
+829,304,2025-01-28,20,1,2480.69,0.05,Credit Card,Delivered
+830,212,2025-03-01,56,5,40.22,0.0,Net Banking,Delivered
+831,246,2025-10-15,91,1,1836.28,0.2,Wallet,Cancelled
+832,347,2025-06-28,16,1,2185.0,0.02,Credit Card,Delivered
+833,39,2025-10-16,35,3,748.77,0.1,UPI,Delivered
+834,500,2025-04-03,74,1,2505.27,0.2,Net Banking,Delivered
+835,489,2025-01-14,43,1,608.74,0.0,Net Banking,Delivered
+836,297,2025-06-15,14,1,3344.01,0.2,Wallet,Delivered
+837,35,2025-11-18,59,4,1407.32,0.0,Debit Card,Returned
+838,315,2025-11-15,84,4,1149.59,0.15,Wallet,Cancelled
+839,12,2025-03-08,73,1,2073.51,0.15,Debit Card,Delivered
+840,3,2025-02-06,8,1,56426.56,0.0,Net Banking,Delivered
+841,54,2025-07-24,31,1,593.29,0.02,Net Banking,Delivered
+842,189,2025-11-28,37,2,284.29,0.0,Debit Card,Delivered
+843,438,2025-06-08,56,3,37.63,0.05,Wallet,Delivered
+844,353,2025-09-20,48,1,2271.81,0.08,Net Banking,Delivered
+845,364,2025-08-05,77,1,632.25,0.05,Cash on Delivery,Delivered
+846,163,2025-08-07,81,1,829.48,0.08,Wallet,Delivered
+847,115,2025-03-21,88,3,9253.63,0.15,Cash on Delivery,Delivered
+848,128,2025-08-12,60,1,2939.95,0.05,Credit Card,Processing
+849,499,2025-06-03,88,3,9245.26,0.05,Cash on Delivery,Delivered
+850,7,2025-01-24,10,1,5070.79,0.08,UPI,Delivered
+851,436,2025-10-19,93,2,622.87,0.1,UPI,Delivered
+852,255,2025-02-28,3,2,41977.57,0.2,Credit Card,Delivered
+853,175,2025-02-12,6,1,62455.96,0.05,Cash on Delivery,Delivered
+854,352,2025-12-10,97,1,391.65,0.05,Credit Card,Delivered
+855,201,2025-11-06,11,1,12409.91,0.08,Cash on Delivery,Delivered
+856,442,2025-03-01,51,1,189.28,0.08,Wallet,Delivered
+857,451,2025-11-05,85,2,1584.13,0.2,Cash on Delivery,Delivered
+858,160,2025-12-20,87,2,685.67,0.0,Credit Card,Delivered
+859,68,2025-02-27,25,2,10550.31,0.02,UPI,Delivered
+860,262,2025-03-16,84,2,1178.4,0.15,Cash on Delivery,Delivered
+861,462,2025-08-26,39,1,722.6,0.0,Credit Card,Cancelled
+862,36,2025-12-26,95,1,549.29,0.0,Net Banking,Delivered
+863,275,2025-05-31,26,2,1577.84,0.0,Debit Card,Delivered
+864,280,2025-08-10,81,4,889.76,0.15,Cash on Delivery,Delivered
+865,359,2025-05-29,71,1,2698.91,0.1,Cash on Delivery,Delivered
+866,24,2025-09-07,87,1,581.67,0.0,Net Banking,Delivered
+867,344,2025-02-02,71,1,2848.03,0.08,UPI,Delivered
+868,456,2025-06-27,83,1,452.72,0.02,Debit Card,Delivered
+869,34,2025-06-26,61,1,1842.13,0.1,Wallet,Delivered
+870,44,2025-12-03,78,1,796.31,0.15,Wallet,Delivered
+871,488,2025-12-11,54,2,266.72,0.08,Credit Card,Delivered
+872,34,2025-12-20,37,2,285.07,0.02,Credit Card,Delivered
+873,424,2025-09-09,78,1,721.65,0.08,Debit Card,Delivered
+874,205,2025-01-25,72,5,3566.14,0.05,Debit Card,Delivered
+875,51,2025-09-15,23,1,1248.27,0.08,UPI,Delivered
+876,438,2025-10-15,16,1,1916.57,0.05,Debit Card,Delivered
+877,179,2025-05-17,72,3,3961.74,0.2,Cash on Delivery,Delivered
+878,224,2025-12-28,14,1,4036.0,0.2,Net Banking,Returned
+879,121,2025-02-26,97,4,389.56,0.1,UPI,Delivered
+880,262,2025-09-17,6,1,61488.09,0.2,Credit Card,Cancelled
+881,31,2025-05-30,21,2,2430.01,0.08,Wallet,Cancelled
+882,140,2025-11-28,20,1,2950.51,0.0,Credit Card,Delivered
+883,486,2025-01-04,54,1,293.57,0.05,Debit Card,Delivered
+884,54,2025-05-17,11,1,12621.63,0.05,Wallet,Delivered
+885,303,2025-09-29,20,1,2596.04,0.2,Net Banking,Delivered
+886,98,2025-08-23,53,4,553.02,0.15,Debit Card,Returned
+887,384,2025-03-16,57,2,115.62,0.1,UPI,Delivered
+888,24,2025-07-25,41,4,852.01,0.0,Net Banking,Delivered
+889,486,2025-11-25,85,1,1681.91,0.15,Wallet,Delivered
+890,184,2025-06-01,67,1,3489.05,0.15,Cash on Delivery,Cancelled
+891,44,2025-06-10,93,3,574.28,0.05,Cash on Delivery,Delivered
+892,12,2025-12-25,19,1,5691.71,0.1,Cash on Delivery,Delivered
+893,34,2025-08-15,84,2,1295.8,0.2,Wallet,Delivered
+894,227,2025-06-04,26,1,1483.05,0.08,Wallet,Delivered
+895,110,2025-09-24,17,5,2454.12,0.0,Cash on Delivery,Delivered
+896,412,2025-06-24,67,2,2981.17,0.0,Cash on Delivery,Delivered
+897,166,2025-06-05,31,2,609.42,0.0,Wallet,Delivered
+898,51,2025-05-13,48,2,2226.35,0.0,Wallet,Returned
+899,273,2025-06-02,58,2,98.53,0.05,Credit Card,Delivered
+900,337,2025-10-17,75,2,7051.55,0.15,Cash on Delivery,Delivered
+901,34,2025-06-29,30,1,857.09,0.2,Wallet,Delivered
+902,34,2025-07-13,18,1,1303.42,0.05,Cash on Delivery,Delivered
+903,4,2025-08-21,47,1,5773.01,0.2,Net Banking,Delivered
+904,359,2025-08-06,8,3,54914.12,0.08,UPI,Delivered
+905,306,2025-07-26,68,2,1661.9,0.08,Debit Card,Delivered
+906,197,2025-08-05,82,5,1531.53,0.08,Wallet,Returned
+907,419,2025-03-15,21,1,2291.47,0.08,Credit Card,Returned
+908,398,2025-09-28,66,1,4311.78,0.08,UPI,Delivered
+909,258,2025-07-09,72,3,3374.17,0.2,Net Banking,Delivered
+910,438,2025-10-20,48,1,2310.46,0.0,Debit Card,Delivered
+911,35,2025-06-05,48,1,2063.16,0.02,Credit Card,Delivered
+912,18,2025-01-25,54,3,263.43,0.05,Credit Card,Delivered
+913,63,2025-09-08,95,1,556.77,0.0,UPI,Delivered
+914,9,2025-06-08,74,2,2999.17,0.2,Net Banking,Delivered
+915,232,2025-11-07,93,1,592.55,0.15,Net Banking,Delivered
+916,472,2025-08-18,86,1,771.49,0.0,Cash on Delivery,Delivered
+917,6,2025-07-18,53,1,538.55,0.1,UPI,Returned
+918,21,2025-05-23,57,2,119.18,0.15,UPI,Delivered
+919,184,2025-06-08,91,2,1688.67,0.1,UPI,Delivered
+920,472,2025-10-05,80,2,1660.32,0.1,Cash on Delivery,Delivered
+921,93,2025-09-15,61,3,1687.27,0.1,Credit Card,Returned
+922,219,2025-04-16,36,1,1825.17,0.1,Net Banking,Delivered
+923,8,2025-11-07,69,1,3750.18,0.08,UPI,Delivered
+924,28,2025-08-01,24,1,1665.12,0.08,Debit Card,Delivered
+925,497,2025-10-05,13,1,7638.41,0.05,UPI,Delivered
+926,484,2025-12-14,53,1,564.79,0.05,Credit Card,Delivered
+927,2,2025-06-02,8,1,53039.61,0.08,Debit Card,Delivered
+928,478,2025-01-27,16,1,2133.97,0.1,Credit Card,Delivered
+929,285,2025-09-16,97,1,336.36,0.0,Debit Card,Delivered
+930,437,2025-02-03,53,1,540.0,0.02,UPI,Delivered
+931,184,2025-12-12,76,1,3403.11,0.15,Credit Card,Delivered
+932,225,2025-08-17,53,1,567.35,0.02,Credit Card,Delivered
+933,204,2025-05-06,22,1,9046.6,0.1,Net Banking,Delivered
+934,306,2025-11-14,60,1,3042.23,0.0,UPI,Returned
+935,26,2025-05-20,62,2,2468.76,0.08,Debit Card,Delivered
+936,3,2025-10-27,28,3,11390.53,0.02,Wallet,Delivered
+937,88,2025-06-03,9,1,8636.21,0.2,Credit Card,Delivered
+938,332,2025-08-10,36,1,1748.91,0.2,Debit Card,Cancelled
+939,35,2025-11-22,44,1,1746.0,0.08,Debit Card,Delivered
+940,314,2025-06-24,42,1,707.25,0.05,UPI,Cancelled
+941,486,2025-11-27,18,3,1411.69,0.0,UPI,Delivered
+942,13,2025-10-12,53,3,575.44,0.2,Net Banking,Delivered
+943,311,2025-11-30,84,1,1073.22,0.2,Wallet,Delivered
+944,179,2025-06-30,16,4,1968.71,0.1,Debit Card,Delivered
+945,438,2025-01-05,90,1,14304.64,0.02,Net Banking,Delivered
+946,34,2025-01-11,96,2,859.54,0.15,Debit Card,Delivered
+947,325,2025-11-17,79,1,673.53,0.02,Net Banking,Returned
+948,413,2025-05-24,5,1,9607.13,0.1,Credit Card,Delivered
+949,476,2025-07-22,82,1,1399.88,0.1,Net Banking,Delivered
+950,316,2025-12-04,25,2,10497.83,0.1,Cash on Delivery,Delivered
+951,212,2025-03-07,76,2,2958.36,0.1,Credit Card,Cancelled
+952,273,2025-05-21,94,1,381.28,0.15,Wallet,Delivered
+953,438,2025-12-15,33,2,727.72,0.08,Wallet,Delivered
+954,250,2025-01-27,84,3,1149.1,0.2,Net Banking,Delivered
+955,3,2025-09-23,88,1,8922.05,0.2,UPI,Cancelled
+956,470,2025-01-25,29,1,1174.31,0.08,Debit Card,Delivered
+957,323,2025-06-21,25,1,10277.07,0.0,Wallet,Delivered
+958,314,2025-08-05,89,4,8026.19,0.02,Credit Card,Delivered
+959,36,2025-11-17,9,2,7429.35,0.08,UPI,Delivered
+960,305,2025-06-21,81,3,781.62,0.08,Credit Card,Returned
+961,141,2025-06-20,7,1,54642.1,0.0,Cash on Delivery,Delivered
+962,297,2025-02-18,98,2,560.54,0.0,UPI,Cancelled
+963,17,2025-06-10,49,3,478.38,0.2,Credit Card,Delivered
+964,304,2025-01-29,57,1,113.43,0.0,UPI,Delivered
+965,500,2025-01-27,72,1,3584.27,0.0,Cash on Delivery,Delivered
+966,8,2025-11-03,30,2,849.38,0.08,Net Banking,Delivered
+967,490,2025-11-14,55,2,176.7,0.15,UPI,Delivered
+968,152,2025-10-28,43,1,503.48,0.1,Wallet,Delivered
+969,438,2025-10-21,25,1,10138.65,0.05,Net Banking,Delivered
+970,389,2025-08-16,80,1,1694.22,0.0,UPI,Delivered
+971,249,2025-08-12,75,1,6651.44,0.05,Debit Card,Delivered
+972,361,2025-03-16,70,1,7053.0,0.05,Debit Card,Delivered
+973,442,2025-09-23,2,2,71673.55,0.0,Credit Card,Delivered
+974,151,2025-01-28,72,1,3435.47,0.02,Wallet,Cancelled
+975,102,2025-06-24,9,1,8235.39,0.15,Net Banking,Delivered
+976,307,2025-10-24,43,2,531.39,0.05,Net Banking,Delivered
+977,399,2025-08-21,14,3,4007.43,0.08,Credit Card,Cancelled
+978,377,2025-04-25,82,2,1460.38,0.02,Credit Card,Delivered
+979,395,2025-07-12,43,1,513.25,0.0,Debit Card,Delivered
+980,173,2025-01-16,46,2,3393.07,0.08,Credit Card,Delivered
+981,404,2025-07-04,98,1,494.74,0.02,Debit Card,Delivered
+982,21,2025-03-31,34,1,464.52,0.02,Credit Card,Delivered
+983,242,2025-02-21,34,1,476.79,0.08,Wallet,Delivered
+984,2,2025-06-23,15,3,3523.18,0.02,Debit Card,Delivered
+985,98,2025-03-29,85,4,1826.74,0.1,Net Banking,Cancelled
+986,126,2025-03-02,9,1,9042.48,0.2,Credit Card,Delivered
+987,141,2025-12-22,49,1,469.02,0.15,Credit Card,Cancelled
+988,325,2025-11-12,98,2,593.54,0.05,Credit Card,Delivered
+989,140,2025-11-19,7,2,62656.93,0.2,Cash on Delivery,Returned
+990,183,2025-04-18,63,2,3906.76,0.2,Wallet,Delivered
+991,44,2025-09-18,22,1,9963.85,0.2,Cash on Delivery,Delivered
+992,130,2025-08-26,67,1,3367.78,0.1,Wallet,Delivered
+993,39,2025-08-31,64,1,3149.76,0.2,Cash on Delivery,Delivered
+994,12,2025-04-23,27,3,3640.75,0.02,Net Banking,Delivered
+995,266,2025-07-13,55,2,200.41,0.05,Debit Card,Delivered
+996,307,2025-02-13,18,1,1384.72,0.02,Cash on Delivery,Delivered
+997,274,2025-11-15,66,1,4550.24,0.08,Net Banking,Delivered
+998,192,2025-06-12,64,1,2886.48,0.08,Credit Card,Delivered
+999,135,2025-07-03,10,3,4833.09,0.1,Cash on Delivery,Delivered
+1000,432,2025-05-22,11,3,10915.02,0.0,Debit Card,Delivered
+1001,227,2025-06-20,26,1,1416.47,0.05,Wallet,Delivered
+1002,198,2025-05-21,88,1,9407.13,0.02,Wallet,Delivered
+1003,3,2025-01-05,34,2,437.31,0.05,Net Banking,Returned
+1004,113,2025-12-02,75,1,6654.78,0.2,Credit Card,Cancelled
+1005,135,2025-04-27,30,2,774.92,0.02,Cash on Delivery,Delivered
+1006,145,2025-08-28,71,2,2735.93,0.2,UPI,Delivered
+1007,256,2025-08-08,25,2,10554.51,0.02,Net Banking,Delivered
+1008,234,2025-01-16,72,1,3741.07,0.02,Debit Card,Returned
+1009,268,2025-09-13,2,2,74013.5,0.05,Credit Card,Delivered
+1010,379,2025-07-26,88,2,9580.08,0.05,Debit Card,Delivered
+1011,402,2025-01-17,73,3,2125.99,0.05,Cash on Delivery,Delivered
+1012,346,2025-11-08,78,2,717.64,0.08,Credit Card,Returned
+1013,479,2025-10-01,9,1,8233.68,0.05,Cash on Delivery,Returned
+1014,2,2025-06-05,82,1,1344.54,0.1,Credit Card,Delivered
+1015,35,2025-11-05,89,1,6857.85,0.0,Net Banking,Delivered
+1016,2,2025-05-30,30,2,749.76,0.0,Debit Card,Delivered
+1017,293,2025-06-17,22,3,9020.82,0.02,UPI,Delivered
+1018,448,2025-09-02,54,2,268.44,0.2,Credit Card,Delivered
+1019,49,2025-06-08,27,1,3846.78,0.08,Credit Card,Delivered
+1020,470,2025-10-28,40,1,384.38,0.08,Debit Card,Delivered
+1021,10,2025-08-17,19,1,5398.18,0.2,Credit Card,Delivered
+1022,472,2025-09-09,73,1,2337.13,0.15,UPI,Delivered
+1023,117,2025-06-27,59,2,1442.53,0.05,Net Banking,Delivered
+1024,13,2025-08-01,23,1,1498.99,0.15,Net Banking,Delivered
+1025,201,2025-04-04,85,2,1509.55,0.15,UPI,Delivered
+1026,53,2025-05-21,21,3,2317.94,0.15,UPI,Delivered
+1027,70,2025-04-22,93,3,630.68,0.2,Cash on Delivery,Delivered
+1028,87,2025-02-09,48,2,2301.28,0.2,Debit Card,Delivered
+1029,397,2025-05-10,22,1,8288.44,0.0,UPI,Delivered
+1030,239,2025-08-25,87,1,677.46,0.2,Credit Card,Delivered
+1031,89,2025-05-09,2,1,75256.05,0.05,Wallet,Delivered
+1032,271,2025-08-25,63,1,3717.81,0.02,Wallet,Returned
+1033,345,2025-08-30,18,2,1481.48,0.02,UPI,Delivered
+1034,64,2025-05-31,23,1,1451.47,0.02,UPI,Delivered
+1035,155,2025-12-13,2,1,68108.96,0.02,Credit Card,Delivered
+1036,21,2025-09-30,87,1,670.58,0.2,Wallet,Delivered
+1037,34,2025-12-06,83,2,498.7,0.08,Wallet,Delivered
+1038,315,2025-11-03,7,1,61391.39,0.2,Credit Card,Cancelled
+1039,34,2025-05-03,48,1,2057.2,0.0,UPI,Delivered
+1040,229,2025-12-15,25,2,9504.39,0.0,Wallet,Delivered
+1041,337,2025-01-23,22,1,8414.53,0.05,Debit Card,Delivered
+1042,17,2025-11-16,25,1,10210.82,0.08,UPI,Delivered
+1043,249,2025-07-02,14,1,3291.17,0.15,Debit Card,Delivered
+1044,53,2025-08-23,28,1,12369.75,0.05,Wallet,Delivered
+1045,482,2025-02-04,6,3,58643.36,0.2,Cash on Delivery,Delivered
+1046,200,2025-12-31,14,1,4071.41,0.2,Cash on Delivery,Delivered
+1047,398,2025-11-04,13,1,8514.63,0.08,Wallet,Cancelled
+1048,243,2025-03-10,89,1,7575.62,0.15,Debit Card,Returned
+1049,8,2025-09-04,86,1,658.0,0.1,Net Banking,Delivered
+1050,280,2025-04-30,82,1,1536.52,0.0,Credit Card,Delivered
+1051,478,2025-03-05,98,1,579.58,0.2,Credit Card,Delivered
+1052,265,2025-03-12,8,1,52758.5,0.02,Net Banking,Delivered
+1053,405,2025-05-02,5,3,9395.21,0.08,Wallet,Cancelled
+1054,445,2025-05-23,18,1,1465.11,0.0,Cash on Delivery,Delivered
+1055,39,2025-11-28,54,2,290.06,0.02,Wallet,Delivered
+1056,36,2025-04-16,32,1,699.93,0.15,Credit Card,Delivered
+1057,271,2025-04-24,90,2,14339.86,0.05,Credit Card,Delivered
+1058,155,2025-02-03,1,3,66718.92,0.02,UPI,Delivered
+1059,414,2025-04-15,19,1,5127.56,0.1,Credit Card,Delivered
+1060,451,2025-08-07,11,2,11468.92,0.15,Credit Card,Delivered
+1061,119,2025-11-07,23,1,1314.73,0.08,Wallet,Delivered
+1062,44,2025-02-10,62,4,2228.9,0.08,Credit Card,Delivered
+1063,389,2025-09-16,55,2,180.43,0.02,Net Banking,Delivered
+1064,66,2025-08-07,49,3,484.91,0.05,Cash on Delivery,Delivered
+1065,406,2025-03-31,71,1,2737.28,0.08,Debit Card,Delivered
+1066,162,2025-09-04,78,1,677.02,0.08,Credit Card,Delivered
+1067,307,2025-01-03,25,1,10120.62,0.15,Debit Card,Delivered
+1068,13,2025-07-22,54,4,267.49,0.08,Debit Card,Delivered
+1069,276,2025-02-06,76,1,2896.35,0.0,Net Banking,Returned
+1070,184,2025-04-10,21,2,2527.54,0.2,Wallet,Delivered
+1071,258,2025-09-08,91,2,1786.38,0.0,Wallet,Delivered
+1072,34,2025-05-07,55,1,164.55,0.2,Debit Card,Delivered
+1073,360,2025-01-15,87,2,663.4,0.05,Cash on Delivery,Delivered
+1074,432,2025-03-17,88,1,9403.36,0.15,Credit Card,Delivered
+1075,36,2025-11-26,12,2,14349.02,0.15,Cash on Delivery,Returned
+1076,13,2025-09-23,11,3,12936.62,0.02,Net Banking,Delivered
+1077,3,2025-09-14,39,4,760.41,0.08,Cash on Delivery,Delivered
+1078,288,2025-02-15,53,1,559.78,0.2,Debit Card,Delivered
+1079,268,2025-04-18,35,3,718.78,0.05,UPI,Processing
+1080,242,2025-01-01,63,1,3898.02,0.08,Cash on Delivery,Delivered
+1081,40,2025-08-09,37,1,267.58,0.15,Credit Card,Delivered
+1082,140,2025-09-15,24,4,1637.33,0.2,Credit Card,Delivered
+1083,262,2025-04-04,8,2,51501.76,0.2,Net Banking,Delivered
+1084,211,2025-02-25,80,3,1705.6,0.05,UPI,Delivered
+1085,499,2025-02-02,36,1,1779.61,0.08,Net Banking,Delivered
+1086,26,2025-01-05,13,1,8732.27,0.0,Wallet,Delivered
+1087,325,2025-02-19,6,1,63592.25,0.08,Cash on Delivery,Delivered
+1088,151,2025-05-17,98,3,547.87,0.05,Cash on Delivery,Delivered
+1089,166,2025-12-16,48,3,2548.7,0.2,Credit Card,Returned
+1090,346,2025-07-24,86,1,664.33,0.05,Debit Card,Delivered
+1091,325,2025-08-22,1,3,72028.03,0.2,Credit Card,Delivered
+1092,499,2025-09-29,16,1,2110.72,0.2,Credit Card,Delivered
+1093,23,2025-12-18,80,2,1829.16,0.08,Wallet,Delivered
+1094,15,2025-06-14,82,1,1426.37,0.0,Wallet,Delivered
+1095,352,2025-04-30,57,2,108.0,0.1,UPI,Delivered
+1096,254,2025-12-04,61,3,2001.08,0.15,Net Banking,Delivered
+1097,66,2025-12-31,25,1,10163.2,0.1,Wallet,Delivered
+1098,12,2025-09-12,17,2,2463.87,0.15,Cash on Delivery,Processing
+1099,12,2025-03-28,60,3,3032.02,0.08,Wallet,Delivered
+1100,447,2025-04-19,32,1,705.18,0.15,UPI,Delivered
+1101,35,2025-01-15,92,1,803.63,0.08,Debit Card,Delivered
+1102,97,2025-12-07,33,1,798.6,0.0,Wallet,Delivered
+1103,39,2025-11-21,69,2,3351.52,0.15,Debit Card,Cancelled
+1104,119,2025-11-04,74,1,2665.05,0.15,Wallet,Delivered
+1105,12,2025-12-01,49,2,465.26,0.2,Net Banking,Delivered
+1106,227,2025-05-13,29,1,1087.96,0.0,Debit Card,Delivered
+1107,12,2025-03-01,25,2,9299.47,0.05,Net Banking,Delivered
+1108,396,2025-06-09,1,1,74168.72,0.2,Net Banking,Returned
+1109,41,2025-07-06,41,2,1005.78,0.02,Cash on Delivery,Delivered
+1110,241,2025-04-24,76,1,2875.61,0.2,Net Banking,Delivered
+1111,442,2025-04-23,38,1,454.67,0.1,Debit Card,Delivered
+1112,297,2025-12-26,86,1,706.34,0.1,Wallet,Delivered
+1113,233,2025-10-21,91,1,1970.49,0.08,Debit Card,Delivered
+1114,98,2025-01-31,49,4,442.43,0.2,Wallet,Delivered
+1115,106,2025-04-26,94,2,331.37,0.2,Credit Card,Delivered
+1116,309,2025-07-20,94,1,392.22,0.2,Credit Card,Processing
+1117,500,2025-07-20,71,1,2865.78,0.05,Net Banking,Delivered
+1118,306,2025-05-25,68,1,1807.3,0.15,Cash on Delivery,Delivered
+1119,246,2025-06-15,17,2,2620.08,0.2,UPI,Delivered
+1120,358,2025-06-05,91,1,1704.63,0.02,Net Banking,Delivered
+1121,192,2025-03-16,38,1,489.45,0.02,Wallet,Delivered
+1122,10,2025-10-22,47,1,5861.62,0.2,Credit Card,Delivered
+1123,248,2025-12-14,55,3,200.03,0.0,Debit Card,Returned
+1124,479,2025-01-27,23,1,1383.71,0.05,Cash on Delivery,Delivered
+1125,34,2025-11-18,20,2,2606.13,0.0,Credit Card,Delivered
+1126,323,2025-12-19,39,2,682.74,0.15,Net Banking,Delivered
+1127,35,2025-12-04,86,1,729.28,0.2,Wallet,Delivered
+1128,236,2025-12-01,81,1,739.27,0.0,UPI,Delivered
+1129,13,2025-12-09,83,3,431.63,0.1,Cash on Delivery,Processing
+1130,183,2025-05-21,62,2,2096.44,0.1,Credit Card,Delivered
+1131,368,2025-12-26,83,1,466.21,0.0,Debit Card,Delivered
+1132,116,2025-04-05,69,1,3839.63,0.08,Cash on Delivery,Delivered
+1133,306,2025-09-08,68,1,1776.38,0.1,Wallet,Delivered
+1134,394,2025-03-05,84,2,1119.08,0.15,UPI,Delivered
+1135,470,2025-12-22,77,1,650.73,0.2,Debit Card,Delivered
+1136,42,2025-10-22,17,1,2385.43,0.1,Debit Card,Delivered
+1137,147,2025-02-13,5,4,9211.38,0.05,Cash on Delivery,Delivered
+1138,28,2025-01-01,85,1,1491.79,0.1,Debit Card,Delivered
+1139,499,2025-03-13,57,2,115.08,0.1,Debit Card,Delivered
+1140,470,2025-04-18,66,2,4761.66,0.0,Credit Card,Delivered
+1141,241,2025-06-03,19,3,5177.39,0.02,Cash on Delivery,Delivered
+1142,416,2025-07-03,76,1,3379.41,0.08,UPI,Delivered
+1143,227,2025-07-15,34,2,425.48,0.08,UPI,Returned
+1144,275,2025-08-06,87,4,593.21,0.02,UPI,Delivered
+1145,12,2025-11-21,35,2,685.96,0.05,Cash on Delivery,Delivered
+1146,368,2025-11-06,66,1,4920.58,0.05,Net Banking,Delivered
+1147,23,2025-05-07,78,1,675.09,0.0,Wallet,Delivered
+1148,409,2025-06-18,9,2,8032.18,0.05,Debit Card,Delivered
+1149,389,2025-05-21,29,1,1163.17,0.02,Net Banking,Returned
+1150,337,2025-03-31,16,1,2188.23,0.1,Net Banking,Delivered
+1151,4,2025-12-25,45,2,4381.12,0.05,Cash on Delivery,Delivered
+1152,83,2025-03-29,7,1,61132.63,0.02,Debit Card,Delivered
+1153,56,2025-09-30,87,2,696.49,0.08,Net Banking,Delivered
+1154,121,2025-01-05,34,2,480.36,0.15,Credit Card,Delivered
+1155,12,2025-05-17,73,1,2411.74,0.05,Wallet,Delivered
+1156,472,2025-11-08,87,1,637.18,0.08,Debit Card,Delivered
+1157,244,2025-05-27,65,1,3621.31,0.15,Credit Card,Delivered
+1158,87,2025-06-06,12,1,14119.88,0.0,Wallet,Delivered
+1159,143,2025-05-03,94,4,340.36,0.0,UPI,Delivered
+1160,182,2025-09-10,71,2,2465.59,0.08,Wallet,Delivered
+1161,265,2025-03-11,94,1,368.28,0.15,Cash on Delivery,Delivered
+1162,226,2025-01-08,52,2,700.52,0.15,UPI,Delivered
+1163,465,2025-10-01,90,2,13900.66,0.15,Wallet,Returned
+1164,212,2025-12-17,68,2,1693.71,0.02,Wallet,Returned
+1165,499,2025-09-26,98,3,512.12,0.05,Credit Card,Delivered
+1166,422,2025-08-05,7,1,53807.24,0.0,Debit Card,Cancelled
+1167,36,2025-10-04,32,3,693.1,0.05,Debit Card,Delivered
+1168,470,2025-04-20,34,1,472.17,0.08,Credit Card,Cancelled
+1169,19,2025-09-21,83,2,412.72,0.08,Cash on Delivery,Delivered
+1170,404,2025-07-02,8,1,54723.33,0.05,Debit Card,Delivered
+1171,135,2025-04-06,45,1,4108.04,0.08,Net Banking,Delivered
+1172,442,2025-09-21,68,3,1622.96,0.08,UPI,Delivered
+1173,438,2025-05-09,85,1,1617.43,0.05,Debit Card,Delivered
+1174,398,2025-10-02,24,2,1514.29,0.08,Wallet,Delivered
+1175,391,2025-03-13,21,1,2266.07,0.05,Wallet,Delivered
+1176,86,2025-05-26,25,1,9887.1,0.15,Debit Card,Cancelled
+1177,12,2025-12-08,21,1,2288.73,0.15,Debit Card,Delivered
+1178,151,2025-10-09,63,1,3824.43,0.02,Debit Card,Delivered
+1179,34,2025-09-14,52,2,676.9,0.2,Net Banking,Delivered
+1180,325,2025-01-11,14,1,3554.41,0.0,Wallet,Delivered
+1181,115,2025-06-25,87,1,656.65,0.0,Net Banking,Delivered
+1182,489,2025-09-06,37,1,270.83,0.1,Credit Card,Delivered
+1183,287,2025-05-08,24,1,1516.56,0.05,Wallet,Delivered
+1184,406,2025-04-12,55,1,194.33,0.0,Wallet,Delivered
+1185,25,2025-04-03,79,1,692.69,0.15,Wallet,Delivered
+1186,432,2025-03-09,16,1,1923.62,0.02,Credit Card,Delivered
+1187,467,2025-04-13,79,1,580.3,0.08,Cash on Delivery,Delivered
+1188,201,2025-04-29,82,1,1447.44,0.0,Cash on Delivery,Delivered
+1189,267,2025-06-05,7,1,56240.17,0.05,Wallet,Delivered
+1190,379,2025-01-25,41,1,819.29,0.15,Wallet,Delivered
+1191,34,2025-08-30,37,1,281.45,0.08,Credit Card,Delivered
+1192,215,2025-07-06,63,1,3368.38,0.15,UPI,Delivered
+1193,144,2025-06-19,17,1,2748.64,0.15,Cash on Delivery,Delivered
+1194,26,2025-05-02,48,2,2154.15,0.08,UPI,Cancelled
+1195,127,2025-11-19,17,2,2362.55,0.1,Wallet,Delivered
+1196,12,2025-12-27,25,1,9236.16,0.1,Cash on Delivery,Delivered
+1197,3,2025-08-31,93,4,601.42,0.15,Credit Card,Delivered
+1198,25,2025-08-03,25,2,9574.69,0.2,Cash on Delivery,Returned
+1199,482,2025-08-18,47,2,5060.07,0.08,UPI,Delivered
+1200,243,2025-09-15,68,2,1535.24,0.05,Wallet,Returned
+1201,485,2025-01-24,38,4,415.25,0.15,Credit Card,Delivered
+1202,170,2025-09-11,51,2,197.82,0.0,Credit Card,Delivered
+1203,89,2025-07-16,66,2,4489.35,0.1,Debit Card,Delivered
+1204,218,2025-03-23,1,2,75072.87,0.0,Cash on Delivery,Delivered
+1205,177,2025-09-26,91,1,1980.0,0.05,Wallet,Delivered
+1206,16,2025-03-29,16,1,2037.84,0.05,UPI,Delivered
+1207,287,2025-03-10,36,1,1857.46,0.15,Credit Card,Processing
+1208,36,2025-10-01,27,1,3797.97,0.15,Cash on Delivery,Returned
+1209,274,2025-02-12,42,4,696.76,0.05,Wallet,Delivered
+1210,297,2025-05-31,79,1,581.19,0.2,UPI,Delivered
+1211,28,2025-05-24,29,1,1317.6,0.1,Wallet,Returned
+1212,10,2025-02-24,75,2,6702.4,0.15,Debit Card,Cancelled
+1213,389,2025-11-06,82,2,1572.41,0.02,Debit Card,Delivered
+1214,187,2025-11-19,75,2,6793.09,0.02,Net Banking,Delivered
+1215,9,2025-08-11,93,1,699.3,0.0,Net Banking,Delivered
+1216,500,2025-04-01,24,1,1651.67,0.15,Credit Card,Delivered
+1217,9,2025-06-08,3,1,39354.3,0.08,Wallet,Delivered
+1218,325,2025-03-15,9,1,7820.59,0.15,Net Banking,Delivered
+1219,495,2025-03-12,68,2,1765.9,0.1,UPI,Delivered
+1220,45,2025-02-26,3,2,44742.73,0.15,UPI,Delivered
+1221,26,2025-05-18,11,1,12290.25,0.0,UPI,Returned
+1222,21,2025-10-05,14,2,3549.82,0.15,UPI,Delivered
+1223,83,2025-10-16,62,3,2456.75,0.05,Debit Card,Delivered
+1224,13,2025-01-29,32,1,610.57,0.1,UPI,Delivered
+1225,325,2025-02-22,6,1,54632.52,0.2,Net Banking,Delivered
+1226,10,2025-01-13,29,1,1165.3,0.05,Wallet,Delivered
+1227,220,2025-07-16,88,2,9628.74,0.0,Net Banking,Delivered
+1228,500,2025-04-25,15,1,4043.67,0.05,UPI,Delivered
+1229,402,2025-07-04,16,3,2207.74,0.0,Cash on Delivery,Delivered
+1230,273,2025-09-29,55,1,170.4,0.08,Credit Card,Cancelled
+1231,87,2025-06-04,88,2,8773.13,0.0,Debit Card,Cancelled
+1232,276,2025-07-08,85,3,1766.88,0.15,UPI,Delivered
+1233,230,2025-12-02,20,1,2547.82,0.08,Wallet,Delivered
+1234,163,2025-02-04,62,1,2262.82,0.15,Debit Card,Delivered
+1235,24,2025-03-07,42,1,627.01,0.05,Net Banking,Delivered
+1236,446,2025-07-31,89,2,7577.62,0.02,Wallet,Cancelled
+1237,183,2025-08-03,50,1,370.17,0.08,Cash on Delivery,Delivered
+1238,35,2025-07-16,30,1,865.72,0.1,Cash on Delivery,Delivered
+1239,127,2025-04-23,96,2,779.47,0.0,Credit Card,Processing
+1240,155,2025-07-05,3,2,46529.05,0.0,UPI,Cancelled
+1241,409,2025-03-13,47,1,5092.12,0.2,Cash on Delivery,Returned
+1242,359,2025-05-05,54,1,258.61,0.15,Credit Card,Delivered
+1243,382,2025-12-27,90,1,15464.89,0.15,Net Banking,Delivered
+1244,2,2025-02-24,90,2,13355.23,0.2,Cash on Delivery,Cancelled
+1245,157,2025-03-17,4,1,25073.12,0.0,UPI,Delivered
+1246,199,2025-03-18,54,2,273.27,0.02,Wallet,Delivered
+1247,2,2025-08-29,39,1,709.09,0.2,Wallet,Delivered
+1248,54,2025-02-26,37,1,297.87,0.0,Cash on Delivery,Delivered
+1249,374,2025-03-24,65,1,3945.16,0.15,Net Banking,Delivered
+1250,26,2025-10-20,34,1,479.97,0.08,Credit Card,Delivered
+1251,236,2025-09-25,12,1,16162.42,0.15,Credit Card,Delivered
+1252,36,2025-04-23,8,1,59069.08,0.1,Cash on Delivery,Delivered
+1253,2,2025-08-28,89,1,7603.37,0.08,Net Banking,Delivered
+1254,46,2025-11-28,48,1,2184.09,0.0,UPI,Delivered
+1255,489,2025-01-15,43,1,510.68,0.0,UPI,Delivered
+1256,396,2025-06-08,2,1,64525.03,0.0,Credit Card,Delivered
+1257,481,2025-10-17,73,1,2542.23,0.08,UPI,Delivered
+1258,203,2025-06-08,12,1,14260.39,0.05,Net Banking,Delivered
+1259,18,2025-07-20,41,2,1013.76,0.15,Wallet,Delivered
+1260,242,2025-09-15,53,1,587.92,0.02,UPI,Delivered
+1261,184,2025-09-02,49,2,494.21,0.05,Credit Card,Delivered
+1262,419,2025-02-10,60,3,2515.14,0.15,Credit Card,Cancelled
+1263,13,2025-12-01,88,1,9636.15,0.1,Cash on Delivery,Processing
+1264,204,2025-11-30,78,1,778.01,0.08,Credit Card,Delivered
+1265,28,2025-11-16,47,3,5436.18,0.15,Wallet,Delivered
+1266,98,2025-11-09,27,2,4045.4,0.1,Wallet,Processing
+1267,360,2025-01-08,13,1,8945.83,0.1,UPI,Delivered
+1268,198,2025-06-10,59,1,1317.8,0.0,Debit Card,Delivered
+1269,134,2025-02-15,46,1,3847.56,0.08,Debit Card,Processing
+1270,141,2025-08-15,33,2,677.62,0.0,Cash on Delivery,Delivered
+1271,187,2025-05-27,47,1,5947.41,0.15,Credit Card,Delivered
+1272,390,2025-11-16,66,4,4472.79,0.15,Net Banking,Delivered
+1273,447,2025-12-16,34,1,506.73,0.0,Wallet,Delivered
+1274,479,2025-10-15,90,1,15848.8,0.05,Net Banking,Delivered
+1275,391,2025-02-07,52,1,695.39,0.15,UPI,Delivered
+1276,92,2025-11-25,60,1,2949.99,0.0,UPI,Delivered
+1277,322,2025-07-23,14,2,3438.72,0.05,UPI,Delivered
+1278,175,2025-09-06,78,1,773.64,0.0,Debit Card,Delivered
+1279,53,2025-03-21,70,4,6791.97,0.02,Debit Card,Delivered
+1280,415,2025-07-14,77,1,686.21,0.2,Net Banking,Returned
+1281,5,2025-01-28,28,1,10718.83,0.2,Wallet,Delivered
+1282,451,2025-11-22,33,1,677.83,0.05,Net Banking,Delivered
+1283,189,2025-08-20,92,3,739.04,0.15,Debit Card,Delivered
+1284,281,2025-02-17,7,3,57058.63,0.2,Debit Card,Delivered
+1285,305,2025-08-03,45,1,4634.58,0.2,Credit Card,Returned
+1286,447,2025-07-01,56,3,37.36,0.2,UPI,Delivered
+1287,281,2025-04-12,77,1,666.56,0.1,Credit Card,Delivered
+1288,272,2025-06-12,94,1,398.72,0.02,Net Banking,Cancelled
+1289,10,2025-12-12,15,1,3695.63,0.0,Net Banking,Returned
+1290,227,2025-11-21,17,1,2837.88,0.0,UPI,Delivered
+1291,28,2025-08-04,25,2,10722.67,0.1,Net Banking,Delivered
+1292,360,2025-04-08,27,4,3740.53,0.0,Debit Card,Delivered
+1293,221,2025-06-04,3,3,42338.26,0.2,UPI,Delivered
+1294,315,2025-08-22,84,1,1156.56,0.2,Cash on Delivery,Delivered
+1295,8,2025-06-21,98,1,512.24,0.08,Debit Card,Delivered
+1296,12,2025-03-25,77,1,626.52,0.2,Wallet,Delivered
+1297,345,2025-11-21,56,1,37.76,0.2,UPI,Processing
+1298,12,2025-02-15,14,2,3772.07,0.08,UPI,Delivered
+1299,12,2025-11-16,97,3,335.14,0.08,Cash on Delivery,Delivered
+1300,2,2025-12-08,5,1,9040.38,0.02,Net Banking,Delivered
+1301,479,2025-04-11,15,3,4039.43,0.05,Net Banking,Delivered
+1302,360,2025-12-27,83,2,448.68,0.05,Credit Card,Delivered
+1303,119,2025-12-04,35,1,789.17,0.2,Net Banking,Delivered
+1304,77,2025-08-01,1,1,66019.12,0.2,Debit Card,Delivered
+1305,116,2025-11-04,67,1,2988.43,0.1,Net Banking,Delivered
+1306,384,2025-04-09,51,2,178.83,0.0,Cash on Delivery,Delivered
+1307,306,2025-07-19,82,4,1366.73,0.05,Cash on Delivery,Delivered
+1308,34,2025-02-20,30,2,759.89,0.0,Wallet,Delivered
+1309,34,2025-11-18,51,3,196.51,0.02,Debit Card,Delivered
+1310,13,2025-01-14,12,1,15131.52,0.1,Credit Card,Delivered
+1311,305,2025-10-06,91,3,1670.67,0.08,UPI,Delivered
+1312,379,2025-08-21,17,2,2730.47,0.02,Credit Card,Delivered
+1313,56,2025-06-02,29,1,1283.53,0.15,Net Banking,Delivered
+1314,2,2025-01-27,85,1,1811.58,0.15,UPI,Delivered
+1315,12,2025-02-22,75,1,7037.07,0.0,UPI,Delivered
+1316,486,2025-04-03,34,1,458.51,0.05,Credit Card,Delivered
+1317,77,2025-01-12,63,1,3668.3,0.15,UPI,Delivered
+1318,382,2025-07-12,54,3,283.07,0.08,Credit Card,Delivered
+1319,276,2025-04-02,2,2,70967.25,0.2,UPI,Delivered
+1320,137,2025-06-27,44,1,1696.1,0.1,UPI,Delivered
+1321,35,2025-05-11,95,3,514.28,0.0,Cash on Delivery,Delivered
+1322,21,2025-03-20,66,1,4464.0,0.02,UPI,Delivered
+1323,272,2025-02-12,29,2,1309.35,0.05,Debit Card,Delivered
+1324,384,2025-06-28,12,2,15205.21,0.08,Wallet,Delivered
+1325,290,2025-09-20,56,4,40.18,0.05,Credit Card,Delivered
+1326,231,2025-05-24,92,4,671.62,0.2,Cash on Delivery,Delivered
+1327,8,2025-09-07,27,1,3636.02,0.1,Wallet,Delivered
+1328,486,2025-11-15,41,1,895.71,0.02,Cash on Delivery,Delivered
+1329,396,2025-02-02,81,1,897.1,0.1,Debit Card,Delivered
+1330,76,2025-11-06,38,2,473.56,0.1,Debit Card,Delivered
+1331,490,2025-04-03,15,2,3622.6,0.02,Debit Card,Delivered
+1332,265,2025-12-03,28,1,11036.25,0.05,UPI,Delivered
+1333,257,2025-01-06,89,2,6901.17,0.1,Debit Card,Cancelled
+1334,366,2025-02-03,72,1,3760.5,0.1,Credit Card,Delivered
+1335,402,2025-11-08,36,4,1863.84,0.15,UPI,Delivered
+1336,303,2025-08-04,83,2,452.61,0.2,Debit Card,Delivered
+1337,23,2025-09-10,7,1,64136.25,0.08,UPI,Delivered
+1338,113,2025-11-04,22,1,8964.82,0.1,UPI,Delivered
+1339,470,2025-10-22,83,4,500.16,0.05,Credit Card,Delivered
+1340,39,2025-01-19,52,3,701.52,0.0,Debit Card,Delivered
+1341,128,2025-08-29,9,1,8823.54,0.15,Debit Card,Delivered
+1342,170,2025-06-27,97,1,371.58,0.05,Net Banking,Delivered
+1343,177,2025-06-02,51,2,181.27,0.2,Wallet,Returned
+1344,272,2025-07-11,16,3,1848.37,0.02,UPI,Delivered
+1345,476,2025-02-23,18,5,1487.42,0.15,Net Banking,Delivered
+1346,46,2025-04-08,12,2,15718.32,0.2,Cash on Delivery,Processing
+1347,21,2025-01-27,89,1,7814.93,0.0,UPI,Returned
+1348,35,2025-05-16,10,1,5183.08,0.2,Net Banking,Delivered
+1349,446,2025-03-12,22,2,8438.96,0.05,Credit Card,Delivered
+1350,293,2025-11-23,53,1,505.84,0.1,Credit Card,Delivered
+1351,71,2025-09-08,85,4,1591.0,0.15,Net Banking,Delivered
+1352,403,2025-06-01,34,2,444.41,0.2,Credit Card,Delivered
+1353,431,2025-04-16,95,2,500.18,0.08,UPI,Delivered
+1354,420,2025-04-21,86,1,716.71,0.08,UPI,Delivered
+1355,465,2025-09-28,76,1,3088.47,0.05,Wallet,Delivered
+1356,52,2025-09-16,20,1,2537.19,0.05,Net Banking,Returned
+1357,368,2025-09-20,80,1,1799.18,0.0,Debit Card,Delivered
+1358,188,2025-06-07,88,4,9353.55,0.0,Credit Card,Delivered
+1359,416,2025-02-26,14,1,3994.28,0.02,Debit Card,Delivered
+1360,354,2025-09-29,85,1,1570.74,0.1,UPI,Delivered
+1361,385,2025-03-19,28,1,11779.3,0.05,UPI,Delivered
+1362,303,2025-02-20,48,1,2240.36,0.08,Credit Card,Delivered
+1363,34,2025-04-01,52,2,647.21,0.08,Cash on Delivery,Delivered
+1364,242,2025-01-26,88,2,10116.93,0.02,UPI,Delivered
+1365,496,2025-10-22,5,1,8330.86,0.0,Debit Card,Delivered
+1366,472,2025-12-25,80,2,1795.86,0.0,Credit Card,Delivered
+1367,8,2025-05-18,89,1,6832.79,0.02,Debit Card,Delivered
+1368,31,2025-11-02,91,1,1640.42,0.02,Cash on Delivery,Cancelled
+1369,24,2025-09-02,80,2,1980.04,0.15,Credit Card,Delivered
+1370,352,2025-02-05,88,1,8863.42,0.08,Credit Card,Returned
+1371,404,2025-08-31,86,1,658.51,0.05,UPI,Delivered
+1372,36,2025-01-05,98,2,607.33,0.1,UPI,Delivered
+1373,218,2025-08-30,32,1,687.67,0.1,Wallet,Processing
+1374,415,2025-09-26,30,1,872.93,0.2,UPI,Delivered
+1375,359,2025-06-21,95,1,579.21,0.1,Debit Card,Delivered
+1376,241,2025-07-06,33,1,787.45,0.05,Wallet,Delivered
+1377,262,2025-12-06,67,3,3500.52,0.1,Net Banking,Delivered
+1378,220,2025-09-23,88,2,8240.63,0.08,Credit Card,Delivered
+1379,79,2025-07-02,19,1,5212.37,0.15,Wallet,Returned
+1380,249,2025-04-16,47,2,5151.75,0.08,Wallet,Delivered
+1381,323,2025-11-17,36,2,1898.7,0.08,Cash on Delivery,Delivered
+1382,442,2025-06-28,87,3,627.85,0.08,Debit Card,Delivered
+1383,281,2025-10-24,6,1,57761.68,0.1,UPI,Delivered
+1384,377,2025-10-18,59,4,1466.72,0.05,UPI,Returned
+1385,31,2025-12-17,64,1,3345.69,0.1,Debit Card,Delivered
+1386,189,2025-03-25,86,1,701.24,0.2,Debit Card,Delivered
+1387,2,2025-04-22,6,1,61008.99,0.0,Net Banking,Delivered
+1388,51,2025-06-30,56,2,32.81,0.05,Credit Card,Delivered
+1389,352,2025-09-15,37,2,291.16,0.02,UPI,Delivered
+1390,499,2025-04-11,19,1,6020.91,0.05,Credit Card,Delivered
+1391,13,2025-05-08,46,2,3788.69,0.08,Net Banking,Returned
+1392,148,2025-05-14,13,3,8453.73,0.02,Cash on Delivery,Delivered
+1393,396,2025-10-24,42,1,680.5,0.05,Credit Card,Delivered
+1394,35,2025-06-04,26,1,1406.27,0.15,Net Banking,Delivered
+1395,246,2025-08-12,49,1,461.73,0.15,Debit Card,Delivered
+1396,359,2025-12-31,88,1,8907.5,0.08,Net Banking,Returned
+1397,273,2025-01-15,60,3,2475.03,0.2,Net Banking,Delivered
+1398,35,2025-11-11,18,3,1465.01,0.1,Cash on Delivery,Delivered
+1399,119,2025-10-06,80,3,1990.13,0.0,Net Banking,Delivered
+1400,390,2025-01-04,86,1,777.11,0.1,Net Banking,Delivered
+1401,246,2025-01-29,11,1,13223.03,0.0,Debit Card,Delivered
+1402,2,2025-10-17,38,1,442.24,0.0,UPI,Delivered
+1403,376,2025-09-19,87,2,580.59,0.02,Cash on Delivery,Delivered
+1404,4,2025-09-11,95,1,598.41,0.15,Credit Card,Delivered
+1405,365,2025-01-04,40,2,376.95,0.02,UPI,Delivered
+1406,35,2025-11-06,20,3,2770.97,0.02,Credit Card,Delivered
+1407,479,2025-09-16,4,1,24933.09,0.0,Debit Card,Delivered
+1408,127,2025-05-01,24,3,1671.89,0.2,Cash on Delivery,Delivered
+1409,102,2025-11-12,85,1,1527.8,0.0,Credit Card,Delivered
+1410,28,2025-12-03,96,1,829.15,0.15,Cash on Delivery,Delivered
+1411,87,2025-05-29,62,1,2099.17,0.1,Net Banking,Delivered
+1412,442,2025-07-20,36,1,1860.97,0.08,Net Banking,Delivered
+1413,500,2025-01-15,19,1,5063.31,0.08,UPI,Delivered
+1414,127,2025-11-27,5,2,9513.43,0.08,UPI,Cancelled
+1415,183,2025-03-13,46,1,3857.49,0.05,UPI,Processing
+1416,350,2025-09-14,46,3,3681.64,0.05,Wallet,Delivered
+1417,446,2025-02-02,66,1,4250.55,0.15,Wallet,Delivered
+1418,262,2025-03-13,59,1,1457.81,0.05,Net Banking,Delivered
+1419,141,2025-09-05,83,1,456.26,0.15,Credit Card,Delivered
+1420,155,2025-12-04,65,1,3382.69,0.05,Cash on Delivery,Returned
+1421,325,2025-10-27,45,2,4502.87,0.0,UPI,Delivered
+1422,2,2025-04-29,21,1,2102.27,0.15,Net Banking,Delivered
+1423,274,2025-05-02,30,1,895.54,0.15,Net Banking,Delivered
+1424,119,2025-02-02,54,1,260.16,0.0,Wallet,Delivered
+1425,393,2025-07-11,98,2,591.89,0.02,Debit Card,Delivered
+1426,13,2025-07-13,58,1,113.7,0.1,Credit Card,Delivered
+1427,260,2025-08-13,63,2,3459.53,0.15,Credit Card,Delivered
+1428,199,2025-04-09,68,1,1483.9,0.15,UPI,Delivered
+1429,288,2025-01-03,18,1,1351.51,0.1,UPI,Delivered
+1430,10,2025-11-25,88,1,8579.42,0.02,Cash on Delivery,Delivered
+1431,256,2025-06-30,65,1,3998.8,0.2,Credit Card,Delivered
+1432,248,2025-08-07,57,2,119.38,0.1,UPI,Delivered
+1433,248,2025-06-02,67,1,3218.18,0.0,Cash on Delivery,Delivered
+1434,266,2025-04-25,3,2,40386.17,0.2,Debit Card,Delivered
+1435,314,2025-02-04,46,3,3405.44,0.05,UPI,Delivered
+1436,397,2025-09-23,31,3,551.09,0.08,Cash on Delivery,Delivered
+1437,63,2025-02-26,90,2,16117.16,0.05,Wallet,Delivered
+1438,409,2025-08-04,44,1,1595.55,0.2,UPI,Delivered
+1439,212,2025-06-18,71,3,2857.05,0.0,Credit Card,Delivered
+1440,12,2025-11-09,73,2,2431.81,0.0,Debit Card,Processing
+1441,9,2025-11-03,54,2,300.76,0.1,Net Banking,Returned
+1442,108,2025-01-22,35,1,734.54,0.02,Wallet,Delivered
+1443,390,2025-06-05,62,2,2487.23,0.02,UPI,Returned
+1444,337,2025-04-11,4,1,29760.77,0.15,Wallet,Delivered
+1445,391,2025-09-04,71,1,2918.44,0.15,Credit Card,Delivered
+1446,227,2025-10-09,55,1,180.61,0.1,Debit Card,Delivered
+1447,177,2025-08-12,44,3,1560.87,0.0,Cash on Delivery,Delivered
+1448,27,2025-10-02,53,2,609.89,0.0,Wallet,Delivered
+1449,104,2025-02-09,8,1,54461.76,0.05,UPI,Delivered
+1450,171,2025-12-02,78,3,814.67,0.02,Cash on Delivery,Delivered
+1451,12,2025-03-04,85,2,1502.66,0.1,Credit Card,Delivered
+1452,37,2025-07-02,95,3,594.06,0.08,Wallet,Delivered
+1453,264,2025-10-10,47,1,5703.42,0.1,Debit Card,Delivered
+1454,359,2025-09-15,70,1,7113.73,0.08,Wallet,Returned
+1455,500,2025-05-24,63,1,4008.64,0.2,Cash on Delivery,Delivered
+1456,472,2025-10-11,95,1,535.79,0.2,Credit Card,Delivered
+1457,288,2025-12-24,31,1,582.73,0.0,UPI,Delivered
+1458,160,2025-05-19,5,1,8967.46,0.2,UPI,Delivered
+1459,281,2025-07-16,79,1,693.8,0.08,Net Banking,Delivered
+1460,391,2025-07-14,27,1,3623.96,0.0,Wallet,Delivered
+1461,20,2025-06-28,70,3,8015.08,0.2,Debit Card,Cancelled
+1462,155,2025-10-30,34,1,411.91,0.15,Cash on Delivery,Delivered
+1463,414,2025-01-30,55,2,185.2,0.15,Wallet,Delivered
+1464,138,2025-08-26,69,1,3854.41,0.2,Cash on Delivery,Delivered
+1465,250,2025-08-28,49,2,501.46,0.02,UPI,Delivered
+1466,259,2025-05-21,88,1,8699.0,0.1,Debit Card,Delivered
+1467,34,2025-01-20,51,2,177.58,0.15,Debit Card,Delivered
+1468,122,2025-01-07,78,1,746.02,0.05,Debit Card,Delivered
+1469,108,2025-08-25,57,1,98.61,0.0,Debit Card,Delivered
+1470,3,2025-04-22,72,1,3742.72,0.0,Debit Card,Cancelled
+1471,3,2025-06-10,71,4,2723.36,0.05,Debit Card,Delivered
+1472,412,2025-03-07,64,1,2991.29,0.2,Cash on Delivery,Delivered
+1473,65,2025-02-28,30,2,770.31,0.1,Net Banking,Delivered
+1474,227,2025-10-11,6,2,54089.74,0.15,Debit Card,Returned
+1475,81,2025-12-14,3,3,45533.56,0.1,Wallet,Delivered
+1476,474,2025-06-29,31,1,551.91,0.0,Cash on Delivery,Delivered
+1477,54,2025-06-16,27,2,3942.32,0.15,Net Banking,Delivered
+1478,166,2025-05-25,55,1,176.18,0.2,Debit Card,Delivered
+1479,439,2025-11-30,53,1,604.09,0.05,Cash on Delivery,Delivered
+1480,416,2025-01-23,48,1,2124.18,0.1,UPI,Delivered
+1481,34,2025-06-10,28,1,12689.3,0.1,Cash on Delivery,Delivered
+1482,397,2025-07-13,28,3,10743.93,0.15,Credit Card,Delivered
+1483,187,2025-02-10,84,4,1314.23,0.02,Cash on Delivery,Delivered
+1484,199,2025-11-19,74,1,2709.94,0.15,UPI,Delivered
+1485,25,2025-01-27,68,2,1712.36,0.1,Net Banking,Delivered
+1486,12,2025-10-22,25,1,9555.99,0.02,Debit Card,Delivered
+1487,353,2025-03-01,41,2,908.09,0.08,Debit Card,Delivered
+1488,211,2025-09-16,72,1,3568.95,0.08,Cash on Delivery,Delivered
+1489,174,2025-04-28,54,2,294.62,0.02,Cash on Delivery,Delivered
+1490,356,2025-12-12,53,2,507.73,0.05,Debit Card,Delivered
+1491,379,2025-02-11,16,1,2025.29,0.02,Cash on Delivery,Delivered
+1492,31,2025-04-03,26,3,1316.14,0.0,Net Banking,Delivered
+1493,271,2025-12-31,71,3,2904.74,0.02,UPI,Delivered
+1494,25,2025-12-20,4,1,25037.25,0.1,Cash on Delivery,Cancelled
+1495,367,2025-07-01,55,1,190.92,0.02,Wallet,Delivered
+1496,303,2025-06-22,44,2,1697.04,0.15,UPI,Delivered
+1497,479,2025-08-18,46,3,3783.72,0.15,Net Banking,Delivered
+1498,12,2025-12-25,62,1,2140.87,0.2,Cash on Delivery,Cancelled
+1499,9,2025-02-12,66,1,4106.96,0.1,Debit Card,Delivered
+1500,70,2025-07-14,59,1,1282.16,0.15,Cash on Delivery,Delivered
+1501,55,2025-04-29,13,1,7993.12,0.1,Cash on Delivery,Cancelled
+1502,51,2025-09-18,75,3,6336.46,0.05,Net Banking,Delivered
+1503,454,2025-03-15,23,1,1512.51,0.15,Credit Card,Delivered
+1504,51,2025-10-22,36,3,1676.58,0.05,Debit Card,Delivered
+1505,63,2025-05-21,37,1,258.55,0.02,Debit Card,Returned
+1506,374,2025-11-07,34,2,501.45,0.15,Debit Card,Delivered
+1507,183,2025-10-10,27,3,3882.92,0.0,Cash on Delivery,Cancelled
+1508,385,2025-10-03,70,2,6569.84,0.2,UPI,Delivered
+1509,10,2025-10-20,37,1,271.78,0.02,Net Banking,Delivered
+1510,202,2025-12-28,15,3,3375.11,0.08,Net Banking,Delivered
+1511,4,2025-05-23,18,2,1264.1,0.05,UPI,Delivered
+1512,10,2025-02-08,29,1,1196.91,0.05,Net Banking,Delivered
+1513,454,2025-12-11,66,2,4805.85,0.05,UPI,Delivered
+1514,26,2025-09-24,91,1,1975.58,0.15,Wallet,Delivered
+1515,233,2025-11-18,82,1,1354.95,0.08,Credit Card,Delivered
+1516,155,2025-08-29,34,1,490.4,0.15,Net Banking,Delivered
+1517,116,2025-11-22,26,3,1615.26,0.2,Wallet,Delivered
+1518,451,2025-08-11,1,1,74522.86,0.02,Wallet,Delivered
+1519,2,2025-12-19,54,1,267.92,0.1,Credit Card,Delivered
+1520,306,2025-09-29,62,2,2139.18,0.05,Credit Card,Cancelled
+1521,483,2025-09-06,86,1,755.86,0.1,Debit Card,Delivered
+1522,248,2025-02-19,38,1,505.28,0.2,Debit Card,Delivered
+1523,472,2025-06-16,58,1,108.6,0.02,Net Banking,Returned
+1524,8,2025-02-28,85,1,1618.41,0.02,Net Banking,Delivered
+1525,158,2025-11-04,63,1,3467.02,0.05,Debit Card,Delivered
+1526,54,2025-02-01,53,2,529.9,0.15,Debit Card,Delivered
+1527,358,2025-08-06,57,1,120.3,0.05,Net Banking,Delivered
+1528,492,2025-11-22,44,2,1586.18,0.08,Credit Card,Delivered
+1529,53,2025-10-02,22,1,9449.63,0.1,Cash on Delivery,Delivered
+1530,299,2025-10-04,78,1,770.59,0.2,Net Banking,Delivered
+1531,35,2025-06-20,91,3,1945.76,0.1,UPI,Delivered
+1532,249,2025-04-18,67,1,3008.05,0.02,Cash on Delivery,Delivered
+1533,192,2025-04-28,92,1,680.97,0.05,Debit Card,Delivered
+1534,489,2025-05-08,71,4,2480.82,0.0,Cash on Delivery,Delivered
+1535,269,2025-09-06,51,1,174.45,0.0,Credit Card,Delivered
+1536,116,2025-05-07,89,1,7758.89,0.2,Net Banking,Delivered
+1537,19,2025-05-19,17,3,2338.02,0.1,Wallet,Delivered
+1538,28,2025-08-01,94,1,386.44,0.1,Cash on Delivery,Cancelled
+1539,39,2025-10-29,13,2,7728.85,0.1,Debit Card,Delivered
+1540,52,2025-09-20,55,2,175.21,0.08,Credit Card,Delivered
+1541,421,2025-10-23,84,1,1140.84,0.0,Credit Card,Returned
+1542,248,2025-05-23,72,1,4005.13,0.1,Cash on Delivery,Delivered
+1543,229,2025-09-12,3,2,46472.4,0.2,Cash on Delivery,Delivered
+1544,19,2025-04-25,58,2,99.0,0.2,Credit Card,Delivered
+1545,428,2025-10-16,62,1,2204.42,0.02,Wallet,Returned
+1546,351,2025-10-15,13,1,8935.7,0.08,Cash on Delivery,Delivered
+1547,12,2025-07-26,19,2,5487.3,0.15,Cash on Delivery,Delivered
+1548,337,2025-09-10,8,1,52936.58,0.05,Credit Card,Delivered
+1549,241,2025-10-17,89,2,7953.29,0.05,Wallet,Delivered
+1550,12,2025-09-08,72,1,3529.53,0.15,Credit Card,Delivered
+1551,187,2025-09-05,91,1,1982.47,0.15,UPI,Cancelled
+1552,200,2025-12-25,55,1,168.25,0.0,Credit Card,Delivered
+1553,32,2025-03-27,16,1,2185.7,0.0,UPI,Cancelled
+1554,476,2025-03-29,64,2,3236.29,0.02,Wallet,Cancelled
+1555,421,2025-07-24,54,1,252.21,0.05,Wallet,Cancelled
+1556,309,2025-05-19,87,1,659.17,0.05,Cash on Delivery,Delivered
+1557,189,2025-05-29,19,1,5164.49,0.1,Wallet,Delivered
+1558,155,2025-05-09,78,1,688.84,0.05,Wallet,Delivered
+1559,297,2025-03-26,18,1,1477.84,0.0,Debit Card,Delivered
+1560,242,2025-08-29,20,1,3045.17,0.05,Wallet,Delivered
+1561,10,2025-02-18,89,1,7088.77,0.0,Cash on Delivery,Delivered
+1562,221,2025-02-04,21,1,2328.65,0.02,Debit Card,Delivered
+1563,399,2025-05-21,25,1,11024.32,0.08,Cash on Delivery,Delivered
+1564,187,2025-11-16,48,2,2516.15,0.1,Cash on Delivery,Delivered
+1565,8,2025-02-09,26,2,1344.11,0.02,Debit Card,Delivered
+1566,391,2025-02-22,73,1,2310.23,0.15,Net Banking,Delivered
+1567,35,2025-11-06,76,1,3434.13,0.2,Cash on Delivery,Delivered
+1568,54,2025-04-18,61,1,1952.37,0.02,UPI,Cancelled
+1569,31,2025-03-17,79,1,639.65,0.0,Debit Card,Delivered
+1570,105,2025-03-12,7,1,57199.17,0.15,Net Banking,Delivered
+1571,368,2025-03-02,65,1,3593.7,0.2,Net Banking,Delivered
+1572,227,2025-06-09,46,3,3532.69,0.0,Cash on Delivery,Delivered
+1573,35,2025-11-21,22,3,9621.73,0.2,Net Banking,Delivered
+1574,442,2025-12-22,63,2,3827.34,0.1,Net Banking,Delivered
+1575,442,2025-01-13,23,3,1485.62,0.2,Wallet,Delivered
+1576,438,2025-04-20,55,2,198.06,0.02,Net Banking,Delivered
+1577,44,2025-01-06,96,1,802.09,0.02,UPI,Delivered
+1578,183,2025-02-18,43,3,600.89,0.1,UPI,Delivered
+1579,496,2025-11-28,5,1,9156.55,0.0,Wallet,Delivered
+1580,384,2025-11-17,36,1,1774.49,0.0,Wallet,Cancelled
+1581,3,2025-11-20,78,1,682.95,0.15,Wallet,Delivered
+1582,10,2025-01-20,14,1,3769.39,0.15,Credit Card,Delivered
+1583,192,2025-03-09,23,1,1479.23,0.0,UPI,Delivered
+1584,456,2025-02-01,91,1,1982.16,0.05,Credit Card,Delivered
+1585,239,2025-01-09,95,1,571.68,0.05,Wallet,Delivered
+1586,212,2025-07-07,76,1,3527.37,0.08,Net Banking,Delivered
+1587,16,2025-02-01,86,1,787.02,0.1,Credit Card,Delivered
+1588,303,2025-03-30,11,1,11375.49,0.02,Wallet,Delivered
+1589,406,2025-11-22,23,2,1480.37,0.0,Debit Card,Delivered
+1590,135,2025-03-02,45,1,4667.24,0.15,UPI,Delivered
+1591,385,2025-02-15,60,1,2513.5,0.15,UPI,Delivered
+1592,484,2025-11-17,76,4,3405.73,0.2,UPI,Delivered
+1593,35,2025-08-24,48,1,2411.17,0.02,Debit Card,Delivered
+1594,229,2025-04-08,83,2,482.84,0.05,UPI,Delivered
+1595,71,2025-04-02,37,1,278.97,0.08,Credit Card,Delivered
+1596,391,2025-04-13,35,1,702.31,0.15,Net Banking,Delivered
+1597,253,2025-07-01,63,2,3558.2,0.15,Cash on Delivery,Delivered
+1598,281,2025-12-18,81,3,743.78,0.2,Cash on Delivery,Delivered
+1599,396,2025-10-19,69,1,3840.79,0.05,Wallet,Delivered
+1600,141,2025-04-17,37,1,303.1,0.1,Wallet,Delivered
+1601,464,2025-09-20,12,2,13945.41,0.08,Debit Card,Delivered
+1602,233,2025-09-22,15,2,3428.28,0.02,Net Banking,Delivered
+1603,29,2025-10-16,48,1,2343.26,0.0,Debit Card,Delivered
+1604,325,2025-07-03,81,3,738.6,0.08,Net Banking,Delivered
+1605,392,2025-02-21,83,1,444.91,0.02,Net Banking,Delivered
+1606,93,2025-01-12,97,1,376.39,0.1,Cash on Delivery,Delivered
+1607,428,2025-07-24,94,1,346.62,0.15,Debit Card,Delivered
+1608,454,2025-12-14,62,1,2069.24,0.02,Cash on Delivery,Delivered
+1609,68,2025-05-18,55,4,179.13,0.0,Credit Card,Delivered
+1610,494,2025-11-02,39,4,805.85,0.02,Cash on Delivery,Delivered
+1611,26,2025-12-06,17,1,2832.54,0.0,Debit Card,Delivered
+1612,35,2025-06-27,19,1,5117.56,0.0,Wallet,Delivered
+1613,34,2025-06-04,23,1,1284.52,0.2,Credit Card,Delivered
+1614,447,2025-05-06,93,1,650.82,0.2,Debit Card,Delivered
+1615,299,2025-06-26,21,1,2323.98,0.08,Wallet,Delivered
+1616,28,2025-12-09,61,1,1824.48,0.02,UPI,Delivered
+1617,177,2025-03-10,41,1,884.54,0.05,Wallet,Delivered
+1618,273,2025-11-02,55,1,166.03,0.08,Wallet,Delivered
+1619,12,2025-01-14,76,1,3295.02,0.2,Credit Card,Delivered
+1620,445,2025-09-14,44,2,1694.86,0.2,Net Banking,Cancelled
+1621,397,2025-04-28,83,1,427.94,0.02,Debit Card,Delivered
+1622,218,2025-07-16,44,2,1628.35,0.05,Debit Card,Delivered
+1623,485,2025-01-18,62,1,2526.5,0.02,Credit Card,Delivered
+1624,158,2025-02-24,67,1,2927.01,0.15,Wallet,Delivered
+1625,495,2025-01-07,52,1,591.18,0.1,Net Banking,Delivered
+1626,307,2025-09-06,2,2,71551.97,0.08,UPI,Delivered
+1627,281,2025-11-21,34,1,489.73,0.08,Cash on Delivery,Delivered
+1628,32,2025-12-31,61,1,1853.08,0.05,UPI,Delivered
+1629,445,2025-09-30,55,2,197.82,0.0,Credit Card,Delivered
+1630,164,2025-10-30,91,1,1845.04,0.1,Wallet,Cancelled
+1631,31,2025-01-25,56,1,33.12,0.2,Net Banking,Delivered
+1632,2,2025-11-03,7,2,54838.45,0.05,Wallet,Delivered
+1633,248,2025-10-05,4,1,26358.56,0.08,UPI,Delivered
+1634,230,2025-11-22,39,1,673.03,0.15,UPI,Delivered
+1635,347,2025-05-08,51,1,184.47,0.02,Wallet,Delivered
+1636,447,2025-08-09,64,3,3110.88,0.08,Wallet,Delivered
+1637,12,2025-09-26,94,2,330.42,0.05,Debit Card,Delivered
+1638,358,2025-11-23,78,2,671.34,0.1,Wallet,Delivered
+1639,35,2025-06-04,82,1,1318.34,0.15,Debit Card,Delivered
+1640,428,2025-02-10,96,3,815.11,0.0,Credit Card,Delivered
+1641,405,2025-11-12,39,1,791.69,0.02,Wallet,Delivered
+1642,241,2025-10-21,48,1,2429.39,0.08,Debit Card,Delivered
+1643,338,2025-05-22,24,1,1491.64,0.08,Credit Card,Delivered
+1644,92,2025-01-03,35,1,658.17,0.08,Wallet,Delivered
+1645,194,2025-08-25,35,2,811.13,0.05,UPI,Delivered
+1646,406,2025-12-30,3,1,38305.41,0.05,Wallet,Delivered
+1647,187,2025-10-29,59,1,1407.63,0.1,Net Banking,Delivered
+1648,120,2025-01-07,72,1,3534.83,0.2,Net Banking,Delivered
+1649,208,2025-09-13,96,1,862.63,0.15,Net Banking,Delivered
+1650,411,2025-12-05,5,3,10134.43,0.15,Net Banking,Delivered
+1651,108,2025-02-12,45,1,5083.85,0.05,Debit Card,Delivered
+1652,34,2025-08-20,41,2,825.09,0.1,Cash on Delivery,Delivered
+1653,339,2025-10-17,46,1,4075.64,0.0,Debit Card,Delivered
+1654,409,2025-05-01,63,1,3709.15,0.08,Cash on Delivery,Returned
+1655,13,2025-02-19,16,1,1896.11,0.0,Cash on Delivery,Delivered
+1656,46,2025-07-25,21,2,2225.12,0.02,Net Banking,Cancelled
+1657,26,2025-06-13,36,2,1796.56,0.15,Wallet,Returned
+1658,116,2025-11-22,98,1,555.35,0.08,Credit Card,Delivered
+1659,183,2025-08-26,64,1,3516.18,0.02,Credit Card,Delivered
+1660,367,2025-09-30,1,2,77805.99,0.15,Credit Card,Delivered
+1661,297,2025-07-16,13,2,8131.68,0.08,Net Banking,Delivered
+1662,274,2025-11-13,4,1,28257.29,0.1,UPI,Delivered
+1663,117,2025-07-29,94,4,353.12,0.02,Credit Card,Delivered
+1664,415,2025-12-17,61,1,1787.22,0.15,Cash on Delivery,Cancelled
+1665,194,2025-07-19,84,2,1289.5,0.2,Credit Card,Delivered
+1666,490,2025-05-03,93,1,704.19,0.02,Debit Card,Delivered
+1667,281,2025-01-16,9,1,8209.21,0.02,Wallet,Delivered
+1668,22,2025-04-01,31,4,551.11,0.0,Cash on Delivery,Delivered
+1669,314,2025-05-06,21,1,2530.22,0.0,Wallet,Delivered
+1670,98,2025-07-28,87,3,712.36,0.2,Net Banking,Delivered
+1671,321,2025-05-14,54,3,277.31,0.15,Cash on Delivery,Delivered
+1672,12,2025-01-13,69,1,3941.22,0.0,Debit Card,Delivered
+1673,34,2025-01-21,93,1,673.36,0.1,Wallet,Delivered
+1674,426,2025-03-05,55,1,196.89,0.2,Cash on Delivery,Delivered
+1675,39,2025-03-28,15,1,3804.28,0.02,Credit Card,Delivered
+1676,413,2025-05-16,27,1,3792.68,0.0,Net Banking,Cancelled
+1677,70,2025-05-06,63,2,3553.07,0.15,Net Banking,Delivered
+1678,289,2025-12-25,58,1,105.01,0.0,Credit Card,Delivered
+1679,325,2025-01-14,37,1,267.36,0.05,Wallet,Delivered
+1680,221,2025-03-23,92,2,703.88,0.15,Net Banking,Delivered
+1681,87,2025-12-22,20,1,2823.53,0.2,Net Banking,Delivered
+1682,36,2025-01-15,30,3,842.04,0.02,Cash on Delivery,Delivered
+1683,4,2025-09-18,47,2,6114.32,0.08,Net Banking,Delivered
+1684,85,2025-06-26,22,2,9373.33,0.1,Debit Card,Delivered
+1685,299,2025-09-06,49,2,496.08,0.08,Credit Card,Delivered
+1686,474,2025-01-08,49,2,415.64,0.02,Debit Card,Delivered
+1687,439,2025-05-23,20,2,2896.29,0.0,Wallet,Delivered
+1688,379,2025-08-24,64,2,3316.1,0.0,Wallet,Delivered
+1689,391,2025-04-27,68,2,1605.99,0.0,Net Banking,Delivered
+1690,306,2025-09-17,43,1,557.46,0.1,Wallet,Delivered
+1691,54,2025-01-29,11,1,12018.74,0.02,Debit Card,Delivered
+1692,454,2025-12-20,24,3,1783.72,0.02,Wallet,Delivered
+1693,309,2025-01-21,23,4,1308.86,0.05,UPI,Delivered
+1694,248,2025-02-02,94,3,337.76,0.05,UPI,Delivered
+1695,18,2025-10-27,32,2,639.9,0.0,Cash on Delivery,Cancelled
+1696,181,2025-06-13,7,2,52579.65,0.08,UPI,Delivered
+1697,188,2025-04-12,61,1,1874.81,0.1,Net Banking,Delivered
+1698,433,2025-10-25,2,1,75073.83,0.15,Net Banking,Delivered
+1699,242,2025-10-29,25,2,10370.77,0.08,UPI,Delivered
+1700,135,2025-11-04,53,1,566.79,0.05,Cash on Delivery,Delivered
+1701,490,2025-11-27,37,1,297.04,0.02,Debit Card,Delivered
+1702,18,2025-09-15,72,1,3631.13,0.2,Credit Card,Delivered
+1703,160,2025-09-18,41,1,851.77,0.0,Net Banking,Delivered
+1704,8,2025-08-15,13,1,8615.57,0.2,Credit Card,Delivered
+1705,362,2025-04-29,14,1,3680.5,0.05,Cash on Delivery,Delivered
+1706,465,2025-06-03,88,3,8619.72,0.15,Credit Card,Delivered
+1707,70,2025-07-22,25,2,10894.2,0.1,Wallet,Delivered
+1708,428,2025-08-31,67,2,3421.15,0.2,Wallet,Delivered
+1709,75,2025-08-30,34,3,492.46,0.05,Credit Card,Delivered
+1710,460,2025-07-01,94,2,352.34,0.05,Net Banking,Delivered
+1711,368,2025-08-02,98,1,603.79,0.0,Net Banking,Delivered
+1712,397,2025-08-22,18,2,1235.02,0.15,Credit Card,Delivered
+1713,2,2025-05-12,92,1,714.86,0.05,Net Banking,Delivered
+1714,482,2025-10-13,42,2,601.06,0.02,Cash on Delivery,Delivered
+1715,352,2025-02-24,36,1,1618.11,0.15,Net Banking,Returned
+1716,86,2025-08-29,76,4,3531.69,0.2,Wallet,Delivered
+1717,412,2025-09-07,91,1,2033.75,0.1,Net Banking,Delivered
+1718,70,2025-11-24,8,1,55653.82,0.08,Debit Card,Delivered
+1719,439,2025-02-07,18,1,1461.6,0.08,Credit Card,Cancelled
+1720,18,2025-06-03,76,2,3262.35,0.08,Credit Card,Delivered
+1721,332,2025-12-05,70,1,7408.72,0.05,Wallet,Delivered
+1722,241,2025-12-25,9,2,7944.25,0.2,Debit Card,Cancelled
+1723,13,2025-04-20,58,1,109.64,0.08,Debit Card,Delivered
+1724,48,2025-12-27,87,1,657.57,0.0,Credit Card,Delivered
+1725,2,2025-08-07,53,1,549.45,0.0,Cash on Delivery,Delivered
+1726,193,2025-07-11,66,1,4536.3,0.0,Cash on Delivery,Cancelled
+1727,81,2025-10-03,42,1,653.54,0.15,UPI,Delivered
+1728,264,2025-02-17,73,4,2439.32,0.1,Credit Card,Delivered
+1729,78,2025-10-21,12,3,15071.16,0.02,UPI,Delivered
+1730,81,2025-05-22,56,1,39.91,0.15,Credit Card,Delivered
+1731,365,2025-04-04,10,2,4882.9,0.1,Wallet,Delivered
+1732,8,2025-01-11,56,1,35.15,0.1,Net Banking,Delivered
+1733,452,2025-06-15,29,1,1132.43,0.02,Cash on Delivery,Delivered
+1734,422,2025-09-30,42,1,666.2,0.2,Cash on Delivery,Cancelled
+1735,307,2025-10-23,92,1,778.7,0.02,Debit Card,Delivered
+1736,262,2025-10-01,4,2,29667.2,0.2,Credit Card,Delivered
+1737,447,2025-06-17,9,3,9050.23,0.15,Credit Card,Delivered
+1738,34,2025-08-06,21,5,2165.62,0.02,Debit Card,Delivered
+1739,12,2025-03-05,57,3,107.4,0.08,Wallet,Delivered
+1740,46,2025-07-14,27,1,3629.93,0.02,Credit Card,Delivered
+1741,393,2025-03-05,76,1,2991.71,0.1,Wallet,Delivered
+1742,4,2025-04-18,21,1,2293.64,0.1,Debit Card,Delivered
+1743,257,2025-08-01,41,1,1016.01,0.2,Cash on Delivery,Delivered
+1744,500,2025-09-18,33,1,728.2,0.0,Net Banking,Delivered
+1745,426,2025-02-21,52,1,705.39,0.2,UPI,Delivered
+1746,227,2025-06-03,84,1,1247.36,0.15,Wallet,Delivered
+1747,10,2025-01-09,61,4,1749.01,0.15,Debit Card,Delivered
+1748,412,2025-04-01,32,2,591.07,0.02,Credit Card,Delivered
+1749,265,2025-01-20,98,1,587.31,0.2,Wallet,Delivered
+1750,19,2025-11-13,48,1,2127.89,0.02,Credit Card,Returned
+1751,13,2025-12-09,20,1,2986.45,0.0,Credit Card,Delivered
+1752,458,2025-06-06,27,1,3577.65,0.2,Debit Card,Delivered
+1753,309,2025-01-14,4,1,29931.92,0.0,Wallet,Cancelled
+1754,412,2025-01-24,53,1,582.53,0.15,Cash on Delivery,Delivered
+1755,442,2025-01-08,13,1,7779.99,0.08,UPI,Delivered
+1756,250,2025-08-26,61,4,1981.46,0.1,Net Banking,Delivered
+1757,227,2025-11-23,78,1,731.28,0.05,Credit Card,Delivered
+1758,166,2025-07-07,70,4,7628.54,0.0,Net Banking,Delivered
+1759,93,2025-04-11,74,1,2767.92,0.2,Credit Card,Delivered
+1760,171,2025-02-18,11,2,11393.1,0.1,UPI,Delivered
+1761,384,2025-04-05,33,2,703.3,0.15,Net Banking,Delivered
+1762,265,2025-09-22,67,2,3487.51,0.2,Credit Card,Delivered
+1763,447,2025-12-05,48,1,2417.24,0.2,UPI,Delivered
+1764,179,2025-11-20,50,1,342.97,0.02,UPI,Delivered
+1765,268,2025-05-02,5,1,8844.18,0.1,Net Banking,Delivered
+1766,280,2025-04-07,45,2,4916.01,0.1,Net Banking,Delivered
+1767,262,2025-08-21,28,2,12078.36,0.0,Wallet,Delivered
+1768,331,2025-06-22,66,1,4991.53,0.05,Debit Card,Delivered
+1769,44,2025-10-09,63,1,3356.36,0.2,Debit Card,Delivered
+1770,221,2025-02-02,34,2,451.75,0.0,Cash on Delivery,Delivered
+1771,15,2025-08-23,30,3,758.81,0.15,Debit Card,Delivered
+1772,139,2025-06-07,45,1,4652.37,0.0,Cash on Delivery,Delivered
+1773,203,2025-04-10,66,1,4779.62,0.2,UPI,Delivered
+1774,297,2025-07-01,96,1,877.41,0.1,Cash on Delivery,Delivered
+1775,476,2025-07-05,69,1,3834.0,0.1,Credit Card,Delivered
+1776,265,2025-12-15,13,1,8520.82,0.1,Credit Card,Delivered
+1777,365,2025-03-19,97,1,403.4,0.08,Credit Card,Delivered
+1778,218,2025-06-01,52,1,646.12,0.08,Net Banking,Delivered
+1779,281,2025-06-03,18,1,1304.53,0.1,Wallet,Delivered
+1780,12,2025-11-10,94,2,332.51,0.2,Net Banking,Delivered
+1781,53,2025-03-24,62,2,2452.51,0.02,Net Banking,Delivered
+1782,122,2025-08-03,83,1,428.48,0.2,Debit Card,Delivered
+1783,195,2025-03-13,36,3,1604.07,0.15,Cash on Delivery,Returned
+1784,8,2025-04-16,20,1,2862.39,0.2,Debit Card,Delivered
+1785,26,2025-09-24,16,1,1848.31,0.15,Cash on Delivery,Delivered
+1786,68,2025-08-13,85,1,1520.11,0.15,Cash on Delivery,Delivered
+1787,488,2025-06-24,10,3,5553.43,0.0,Net Banking,Delivered
+1788,105,2025-02-27,33,2,723.24,0.02,Wallet,Delivered
+1789,199,2025-05-30,63,1,3361.6,0.15,Cash on Delivery,Returned
+1790,35,2025-05-04,47,3,5716.94,0.2,Wallet,Returned
+1791,271,2025-01-30,54,2,296.92,0.05,Wallet,Delivered
+1792,70,2025-11-24,33,1,722.24,0.2,Debit Card,Processing
+1793,35,2025-01-07,11,1,12754.6,0.02,Cash on Delivery,Delivered
+1794,227,2025-08-11,76,2,2941.94,0.2,Wallet,Delivered
+1795,2,2025-10-17,78,1,738.11,0.15,Net Banking,Delivered
+1796,2,2025-10-30,14,3,3793.19,0.0,Cash on Delivery,Delivered
+1797,36,2025-05-03,98,1,571.76,0.1,Net Banking,Delivered
+1798,4,2025-01-21,92,1,781.12,0.2,Net Banking,Delivered
+1799,17,2025-01-20,67,4,3438.23,0.15,Wallet,Delivered
+1800,113,2025-01-14,86,1,684.06,0.15,Debit Card,Delivered
+1801,397,2025-01-15,53,2,592.94,0.05,Debit Card,Delivered
+1802,250,2025-06-30,45,4,4347.83,0.08,UPI,Delivered
+1803,221,2025-11-22,90,1,15658.67,0.02,Cash on Delivery,Delivered
+1804,76,2025-11-28,71,1,2699.89,0.05,Credit Card,Delivered
+1805,470,2025-06-20,12,1,14841.42,0.2,Credit Card,Delivered
+1806,143,2025-02-21,40,3,334.4,0.08,Debit Card,Delivered
+1807,12,2025-04-06,82,2,1375.83,0.2,Wallet,Delivered
+1808,273,2025-08-13,44,3,1746.75,0.02,Debit Card,Delivered
+1809,18,2025-10-25,25,1,10132.54,0.15,Cash on Delivery,Delivered
+1810,115,2025-10-03,72,1,3773.83,0.0,Credit Card,Delivered
+1811,219,2025-11-03,92,3,761.16,0.2,Debit Card,Delivered
+1812,442,2025-09-30,44,1,1523.05,0.08,UPI,Delivered
+1813,208,2025-05-31,95,2,607.48,0.05,Credit Card,Delivered
+1814,330,2025-05-06,6,1,61976.82,0.05,UPI,Delivered
+1815,499,2025-04-23,89,1,6920.47,0.15,Credit Card,Delivered
+1816,24,2025-05-05,38,4,494.76,0.08,Net Banking,Delivered
+1817,66,2025-10-18,71,1,2570.78,0.1,Cash on Delivery,Delivered
+1818,141,2025-07-18,74,2,2883.09,0.05,Debit Card,Delivered
+1819,160,2025-05-01,47,1,5347.6,0.15,Credit Card,Delivered
+1820,155,2025-05-07,90,2,14971.73,0.0,Cash on Delivery,Delivered
+1821,454,2025-06-10,69,1,3940.05,0.02,Wallet,Delivered
+1822,342,2025-11-27,90,4,15746.46,0.02,Net Banking,Delivered
+1823,268,2025-08-24,7,2,57922.96,0.08,UPI,Returned
+1824,89,2025-01-12,22,2,9317.06,0.0,Debit Card,Delivered
+1825,407,2025-03-17,91,1,1780.87,0.15,Debit Card,Delivered
+1826,479,2025-01-15,94,2,366.35,0.15,Credit Card,Processing
+1827,406,2025-12-05,28,1,12058.9,0.15,Debit Card,Delivered
+1828,1,2025-09-18,73,4,2121.27,0.1,Wallet,Delivered
+1829,281,2025-11-09,1,1,77670.49,0.1,UPI,Delivered
+1830,8,2025-11-11,10,1,4964.18,0.02,Wallet,Delivered
+1831,54,2025-04-02,77,3,577.3,0.08,Wallet,Delivered
+1832,10,2025-02-18,12,4,14955.87,0.15,Net Banking,Delivered
+1833,266,2025-12-23,49,1,493.74,0.02,UPI,Delivered
+1834,321,2025-12-29,23,1,1304.73,0.0,Credit Card,Delivered
+1835,19,2025-04-27,26,1,1518.16,0.0,Debit Card,Delivered
+1836,138,2025-09-26,13,1,8961.75,0.0,Cash on Delivery,Delivered
+1837,186,2025-02-18,48,1,2530.79,0.1,UPI,Delivered
+1838,127,2025-06-06,50,1,399.41,0.1,Debit Card,Delivered
+1839,21,2025-04-07,23,2,1378.54,0.1,Credit Card,Returned
+1840,158,2025-12-16,13,3,8458.55,0.1,Credit Card,Cancelled
+1841,367,2025-04-01,91,1,1964.76,0.08,UPI,Delivered
+1842,12,2025-03-03,69,2,3528.45,0.05,UPI,Delivered
+1843,12,2025-10-30,24,1,1799.08,0.08,Credit Card,Delivered
+1844,119,2025-06-22,79,3,703.0,0.1,Net Banking,Delivered
+1845,474,2025-12-09,15,2,3549.79,0.05,Credit Card,Delivered
+1846,308,2025-04-07,63,2,3312.44,0.0,Net Banking,Delivered
+1847,315,2025-12-29,85,2,1687.87,0.2,Cash on Delivery,Delivered
+1848,122,2025-06-14,84,3,1211.45,0.15,Cash on Delivery,Delivered
+1849,262,2025-10-07,97,2,349.73,0.02,Net Banking,Delivered
+1850,2,2025-11-17,38,1,452.61,0.0,Net Banking,Delivered
+1851,281,2025-06-14,14,2,3766.79,0.05,Net Banking,Processing
+1852,463,2025-12-17,37,2,276.73,0.0,Credit Card,Returned
+1853,272,2025-10-28,40,2,372.77,0.02,Wallet,Delivered
+1854,442,2025-10-01,7,1,63840.27,0.08,Credit Card,Delivered
+1855,352,2025-01-27,69,2,3826.38,0.08,Wallet,Delivered
+1856,21,2025-09-18,23,1,1438.8,0.02,UPI,Delivered
+1857,452,2025-04-24,24,2,1501.43,0.02,Net Banking,Delivered
+1858,10,2025-11-10,82,1,1606.06,0.02,Wallet,Delivered
+1859,234,2025-01-03,38,3,475.01,0.2,Debit Card,Processing
+1860,26,2025-04-27,50,1,394.04,0.0,Credit Card,Delivered
+1861,2,2025-11-15,32,2,696.48,0.08,Wallet,Delivered
+1862,160,2025-06-08,81,1,895.17,0.15,Debit Card,Delivered
+1863,77,2025-08-01,2,2,67156.08,0.2,Credit Card,Delivered
+1864,201,2025-05-10,63,2,3780.28,0.08,UPI,Delivered
+1865,253,2025-03-07,58,2,103.75,0.15,UPI,Delivered
+1866,8,2025-02-04,63,1,3541.02,0.15,Debit Card,Returned
+1867,21,2025-12-22,92,1,740.87,0.05,Cash on Delivery,Delivered
+1868,247,2025-03-03,98,1,597.27,0.02,UPI,Delivered
+1869,114,2025-04-13,64,1,3565.87,0.08,Net Banking,Delivered
+1870,356,2025-01-20,30,3,770.35,0.2,Wallet,Delivered
+1871,297,2025-08-12,31,2,543.67,0.02,Net Banking,Delivered
+1872,419,2025-12-06,6,3,63267.3,0.02,Credit Card,Delivered
+1873,325,2025-10-19,6,1,55284.39,0.2,Debit Card,Cancelled
+1874,166,2025-08-25,45,1,4743.19,0.08,Net Banking,Delivered
+1875,311,2025-09-16,38,1,427.54,0.02,Debit Card,Delivered
+1876,68,2025-01-13,57,3,100.07,0.02,Cash on Delivery,Delivered
+1877,87,2025-03-24,72,1,4050.33,0.0,UPI,Delivered
+1878,391,2025-09-23,53,1,565.29,0.02,Wallet,Returned
+1879,180,2025-01-20,48,1,2101.06,0.02,UPI,Delivered
+1880,396,2025-01-30,73,2,2433.37,0.0,Credit Card,Delivered
+1881,406,2025-10-16,5,1,8238.76,0.2,Net Banking,Returned
+1882,428,2025-07-17,83,1,470.66,0.08,Wallet,Delivered
+1883,465,2025-11-10,63,1,4063.09,0.15,Net Banking,Delivered
+1884,167,2025-08-21,20,1,2675.19,0.02,Debit Card,Delivered
+1885,94,2025-07-18,23,5,1493.58,0.05,Wallet,Delivered
+1886,257,2025-03-15,39,1,720.76,0.1,Credit Card,Processing
+1887,128,2025-11-17,17,1,2822.45,0.08,Net Banking,Delivered
+1888,265,2025-08-16,58,4,109.52,0.05,Debit Card,Delivered
+1889,332,2025-09-29,18,1,1294.22,0.02,Cash on Delivery,Delivered
+1890,322,2025-12-04,94,2,356.18,0.08,Cash on Delivery,Cancelled
+1891,131,2025-07-11,53,2,516.76,0.02,Net Banking,Delivered
+1892,34,2025-08-20,84,1,1281.56,0.2,Cash on Delivery,Delivered
+1893,166,2025-04-22,26,1,1595.78,0.15,Net Banking,Returned
+1894,26,2025-04-03,56,4,32.99,0.02,Net Banking,Delivered
+1895,447,2025-05-20,23,4,1433.23,0.2,Credit Card,Delivered
+1896,115,2025-04-12,74,1,2649.01,0.02,Wallet,Delivered
+1897,29,2025-06-11,63,2,3889.74,0.1,Wallet,Delivered
+1898,3,2025-12-13,5,1,8329.89,0.0,UPI,Cancelled
+1899,293,2025-06-19,7,3,55606.62,0.05,Credit Card,Delivered
+1900,281,2025-06-07,28,3,11602.75,0.05,Cash on Delivery,Cancelled
+1901,113,2025-09-01,58,1,102.61,0.05,UPI,Delivered
+1902,12,2025-03-19,21,1,2108.38,0.1,Net Banking,Delivered
+1903,155,2025-11-18,71,1,3048.97,0.15,Credit Card,Returned
+1904,89,2025-03-17,85,3,1510.11,0.0,Credit Card,Cancelled
+1905,314,2025-07-14,61,1,1945.88,0.1,Wallet,Processing
+1906,267,2025-08-14,47,2,5137.34,0.0,Net Banking,Returned
+1907,123,2025-06-26,73,3,2542.89,0.05,UPI,Delivered
+1908,36,2025-06-03,80,2,2005.7,0.0,Wallet,Delivered
+1909,499,2025-06-14,82,1,1564.71,0.2,UPI,Delivered
+1910,184,2025-01-09,64,2,3282.29,0.02,Debit Card,Delivered
+1911,322,2025-09-20,25,1,10164.03,0.0,Net Banking,Delivered
+1912,26,2025-01-27,22,2,9600.07,0.05,Net Banking,Processing
+1913,200,2025-01-21,44,1,1833.22,0.15,Net Banking,Delivered
+1914,3,2025-10-10,43,1,595.65,0.1,UPI,Delivered
+1915,218,2025-06-04,3,1,46040.72,0.08,Net Banking,Delivered
+1916,483,2025-05-19,87,2,620.1,0.2,Cash on Delivery,Delivered
+1917,138,2025-07-28,55,2,168.45,0.05,Wallet,Delivered
+1918,6,2025-09-08,25,1,9202.44,0.08,Wallet,Delivered
+1919,3,2025-06-13,86,3,798.33,0.0,Credit Card,Delivered
+1920,140,2025-05-05,14,1,3577.82,0.02,Cash on Delivery,Delivered
+1921,31,2025-02-08,12,1,13162.21,0.2,Debit Card,Cancelled
+1922,3,2025-02-06,80,1,1889.51,0.2,Net Banking,Delivered
+1923,368,2025-12-07,43,1,505.79,0.15,Credit Card,Delivered
+1924,187,2025-02-11,96,1,866.32,0.0,UPI,Delivered
+1925,74,2025-04-30,88,1,9632.99,0.08,Debit Card,Delivered
+1926,451,2025-09-01,25,2,10577.16,0.08,Cash on Delivery,Delivered
+1927,19,2025-05-28,61,2,1875.79,0.2,UPI,Delivered
+1928,479,2025-01-04,65,1,4058.34,0.05,Credit Card,Cancelled
+1929,92,2025-04-07,74,2,2880.76,0.0,Credit Card,Delivered
+1930,446,2025-04-27,42,1,661.99,0.1,Debit Card,Delivered
+1931,266,2025-11-24,65,1,3620.31,0.2,Debit Card,Delivered
+1932,409,2025-01-04,68,2,1823.52,0.05,Debit Card,Delivered
+1933,495,2025-02-01,9,1,7998.71,0.15,UPI,Delivered
+1934,74,2025-02-10,56,2,39.99,0.08,UPI,Returned
+1935,481,2025-02-15,87,1,681.02,0.05,Wallet,Delivered
+1936,140,2025-02-03,87,2,674.84,0.05,Net Banking,Delivered
+1937,140,2025-07-09,62,1,2430.73,0.05,Cash on Delivery,Processing
+1938,113,2025-04-27,25,2,9113.11,0.05,Net Banking,Delivered
+1939,241,2025-06-16,60,3,2966.9,0.08,Net Banking,Cancelled
+1940,29,2025-08-20,60,1,2901.75,0.08,Net Banking,Returned
+1941,244,2025-06-12,18,1,1490.08,0.02,Net Banking,Delivered
+1942,241,2025-12-05,56,3,34.01,0.02,Credit Card,Delivered
+1943,377,2025-08-30,51,1,176.61,0.0,Net Banking,Delivered
+1944,412,2025-10-09,39,1,685.53,0.1,Wallet,Delivered
+1945,177,2025-03-23,56,1,38.13,0.05,UPI,Delivered
+1946,82,2025-12-28,42,1,613.63,0.02,Cash on Delivery,Returned
+1947,54,2025-08-02,28,1,13146.82,0.15,Credit Card,Delivered
+1948,35,2025-12-17,40,2,375.99,0.1,Credit Card,Delivered
+1949,9,2025-07-11,44,2,1786.08,0.05,Cash on Delivery,Returned
+1950,114,2025-01-10,9,1,8129.7,0.02,Debit Card,Delivered
+1951,63,2025-11-21,41,3,1013.49,0.2,Debit Card,Delivered
+1952,485,2025-06-19,74,2,3000.11,0.05,Wallet,Delivered
+1953,246,2025-12-29,30,2,779.8,0.2,Credit Card,Delivered
+1954,116,2025-01-10,61,1,1991.3,0.08,Credit Card,Delivered
+1955,257,2025-09-28,11,1,12225.82,0.15,Debit Card,Delivered
+1956,26,2025-04-09,50,2,349.22,0.02,Debit Card,Delivered
+1957,179,2025-08-31,8,1,56795.89,0.05,Debit Card,Delivered
+1958,277,2025-10-15,62,1,2185.5,0.05,Net Banking,Processing
+1959,204,2025-10-02,78,1,784.73,0.02,Cash on Delivery,Delivered
+1960,148,2025-02-01,38,2,428.64,0.2,Cash on Delivery,Delivered
+1961,500,2025-08-05,49,2,494.28,0.05,Debit Card,Delivered
+1962,443,2025-01-13,38,1,473.45,0.08,UPI,Delivered
+1963,275,2025-08-17,19,2,5585.39,0.1,Net Banking,Delivered
+1964,249,2025-05-21,14,1,3437.36,0.1,Net Banking,Delivered
+1965,274,2025-03-07,76,1,2881.05,0.0,Debit Card,Delivered
+1966,35,2025-03-14,48,1,2409.29,0.1,UPI,Delivered
+1967,141,2025-06-15,83,1,441.78,0.2,UPI,Delivered
+1968,6,2025-10-17,42,2,578.69,0.1,UPI,Delivered
+1969,197,2025-03-09,92,1,803.31,0.02,Credit Card,Delivered
+1970,241,2025-05-01,21,1,2229.27,0.05,Debit Card,Delivered
+1971,39,2025-02-05,44,1,1671.31,0.1,Net Banking,Delivered
+1972,483,2025-12-22,51,1,195.93,0.2,Credit Card,Delivered
+1973,457,2025-05-14,15,1,3324.38,0.15,Cash on Delivery,Delivered
+1974,350,2025-12-24,83,1,413.41,0.02,Credit Card,Returned
+1975,234,2025-09-14,18,1,1345.36,0.15,Wallet,Delivered
+1976,438,2025-05-29,66,1,4768.69,0.15,Net Banking,Delivered
+1977,24,2025-04-13,6,2,56014.01,0.1,Net Banking,Delivered
+1978,391,2025-02-11,90,2,14297.08,0.2,Credit Card,Delivered
+1979,21,2025-10-02,20,1,2835.66,0.1,Debit Card,Delivered
+1980,393,2025-09-19,48,1,2466.42,0.2,Cash on Delivery,Delivered
+1981,68,2025-06-17,26,3,1436.74,0.15,Debit Card,Delivered
+1982,442,2025-11-05,58,4,114.52,0.2,Net Banking,Delivered
+1983,476,2025-01-22,15,1,3364.54,0.2,Credit Card,Delivered
+1984,28,2025-06-02,73,3,2386.15,0.1,Debit Card,Delivered
+1985,189,2025-11-28,7,2,58801.33,0.2,Debit Card,Delivered
+1986,491,2025-06-08,4,1,29576.54,0.2,Debit Card,Delivered
+1987,200,2025-07-18,93,2,637.19,0.08,Cash on Delivery,Delivered
+1988,432,2025-09-03,63,2,3507.4,0.15,Credit Card,Delivered
+1989,261,2025-01-01,14,3,3774.48,0.2,UPI,Returned
+1990,134,2025-06-05,1,1,77259.01,0.02,UPI,Delivered
+1991,71,2025-11-27,28,1,11759.33,0.05,UPI,Delivered
+1992,35,2025-01-12,84,1,1074.27,0.0,Debit Card,Delivered
+1993,377,2025-04-15,59,1,1420.07,0.15,UPI,Cancelled
+1994,140,2025-03-31,61,1,1673.6,0.02,Net Banking,Cancelled
+1995,221,2025-12-22,75,2,6117.22,0.15,Cash on Delivery,Delivered
+1996,205,2025-12-21,94,1,332.38,0.15,Net Banking,Delivered
+1997,253,2025-08-10,64,3,3157.79,0.0,Cash on Delivery,Cancelled
+1998,434,2025-02-02,85,4,1790.5,0.15,Debit Card,Delivered
+1999,491,2025-05-17,26,1,1398.15,0.2,Credit Card,Delivered
+2000,154,2025-01-01,58,5,99.46,0.1,Net Banking,Delivered
+2001,409,2025-09-08,90,2,15408.86,0.15,UPI,Delivered
+2002,379,2025-11-03,12,1,15745.3,0.1,Credit Card,Delivered
+2003,251,2025-10-10,48,1,2209.47,0.15,Debit Card,Delivered
+2004,479,2025-07-25,75,1,7115.9,0.2,Debit Card,Delivered
+2005,35,2025-09-11,87,2,630.19,0.08,UPI,Delivered
+2006,18,2025-06-20,18,3,1422.69,0.08,Cash on Delivery,Cancelled
+2007,424,2025-01-22,22,1,10035.59,0.15,Credit Card,Delivered
+2008,177,2025-11-20,70,3,6814.23,0.2,Cash on Delivery,Delivered
+2009,420,2025-12-21,27,1,3937.77,0.0,Cash on Delivery,Delivered
+2010,447,2025-02-23,67,2,3047.43,0.1,Wallet,Returned
+2011,10,2025-04-27,95,2,585.55,0.08,UPI,Delivered
+2012,445,2025-10-08,48,3,2310.64,0.2,Net Banking,Delivered
+2013,183,2025-07-28,45,2,5086.93,0.02,Wallet,Delivered
+2014,220,2025-12-22,20,3,2572.14,0.0,Cash on Delivery,Delivered
+2015,277,2025-03-15,64,3,3355.5,0.05,Credit Card,Delivered
+2016,468,2025-04-18,39,1,670.61,0.2,Credit Card,Delivered
+2017,2,2025-06-01,4,1,25713.43,0.2,Wallet,Delivered
+2018,198,2025-08-20,33,4,722.6,0.05,Wallet,Delivered
+2019,322,2025-11-02,90,1,14359.89,0.02,Debit Card,Delivered
+2020,351,2025-09-02,76,2,3284.4,0.15,Net Banking,Returned
+2021,325,2025-06-13,64,1,3048.18,0.08,Net Banking,Delivered
+2022,25,2025-08-05,13,2,8495.47,0.05,Wallet,Delivered
+2023,81,2025-07-14,4,1,27523.77,0.0,Net Banking,Delivered
+2024,121,2025-02-12,12,1,15777.03,0.15,UPI,Delivered
+2025,397,2025-06-22,96,1,914.1,0.0,Debit Card,Delivered
+2026,70,2025-08-20,91,1,1803.34,0.0,Wallet,Delivered
+2027,36,2025-01-15,87,3,635.31,0.1,Credit Card,Delivered
+2028,479,2025-10-17,90,1,16078.93,0.15,Wallet,Delivered
+2029,2,2025-03-02,75,2,6426.62,0.08,Debit Card,Delivered
+2030,500,2025-05-29,6,2,58846.61,0.15,Credit Card,Returned
+2031,314,2025-04-12,10,1,4783.08,0.08,Wallet,Delivered
+2032,411,2025-07-12,23,1,1283.95,0.05,Wallet,Delivered
+2033,76,2025-04-28,64,2,3434.91,0.0,UPI,Delivered
+2034,2,2025-11-06,17,2,2540.43,0.05,Wallet,Delivered
+2035,360,2025-09-26,91,3,1786.42,0.1,UPI,Delivered
+2036,413,2025-05-23,5,1,9603.14,0.0,UPI,Delivered
+2037,362,2025-07-03,86,1,736.22,0.02,Credit Card,Delivered
+2038,26,2025-02-14,21,2,2381.37,0.08,Wallet,Processing
+2039,367,2025-10-13,48,1,2082.58,0.2,Wallet,Delivered
+2040,382,2025-03-01,53,2,519.0,0.02,Debit Card,Delivered
+2041,304,2025-07-20,90,1,13311.15,0.2,UPI,Delivered
+2042,379,2025-05-17,86,2,656.6,0.2,Credit Card,Delivered
+2043,420,2025-09-03,32,2,599.56,0.08,Net Banking,Delivered
+2044,272,2025-03-30,13,1,8519.17,0.1,UPI,Delivered
+2045,12,2025-09-19,17,1,2720.92,0.08,Cash on Delivery,Processing
+2046,202,2025-10-17,10,1,5198.69,0.08,Wallet,Delivered
+2047,12,2025-05-15,29,1,1260.65,0.0,Debit Card,Delivered
+2048,154,2025-04-09,4,2,30183.67,0.08,Net Banking,Delivered
+2049,153,2025-03-07,29,1,1311.83,0.1,Net Banking,Delivered
+2050,10,2025-11-22,97,1,374.98,0.05,Net Banking,Delivered
+2051,116,2025-11-04,56,1,33.33,0.0,Wallet,Cancelled
+2052,18,2025-11-25,19,1,5251.99,0.05,Net Banking,Delivered
+2053,399,2025-06-05,44,3,1692.97,0.05,Net Banking,Delivered
+2054,476,2025-12-19,50,2,371.88,0.15,Cash on Delivery,Delivered
+2055,12,2025-03-12,74,1,2513.75,0.08,Debit Card,Delivered
+2056,479,2025-11-20,79,1,661.13,0.05,Debit Card,Delivered
+2057,228,2025-06-10,30,3,795.46,0.02,Cash on Delivery,Delivered
+2058,81,2025-04-09,40,2,368.49,0.08,Debit Card,Delivered
+2059,12,2025-12-09,55,2,193.76,0.2,Credit Card,Delivered
+2060,214,2025-06-01,89,1,7656.61,0.15,Cash on Delivery,Delivered
+2061,393,2025-08-25,27,2,3417.88,0.15,Wallet,Cancelled
+2062,337,2025-05-07,82,1,1563.8,0.2,Debit Card,Delivered
+2063,8,2025-09-12,83,1,448.26,0.15,Debit Card,Returned
+2064,12,2025-10-03,59,1,1305.55,0.0,Debit Card,Delivered
+2065,151,2025-10-09,49,4,409.51,0.02,Debit Card,Cancelled
+2066,77,2025-10-09,59,2,1312.25,0.1,Net Banking,Delivered
+2067,40,2025-08-07,7,2,57827.53,0.0,Net Banking,Delivered
+2068,70,2025-03-03,41,1,843.74,0.2,UPI,Delivered
+2069,397,2025-05-23,9,1,8342.47,0.02,UPI,Cancelled
+2070,470,2025-08-05,88,1,9981.62,0.1,UPI,Delivered
+2071,151,2025-11-16,44,2,1577.43,0.02,Credit Card,Delivered
+2072,454,2025-10-20,78,2,803.45,0.05,Credit Card,Delivered
+2073,95,2025-10-27,71,1,2591.06,0.2,Net Banking,Delivered
+2074,198,2025-01-09,79,4,585.93,0.15,Cash on Delivery,Returned
+2075,39,2025-09-06,35,1,694.52,0.08,Credit Card,Delivered
+2076,286,2025-03-26,79,3,701.46,0.05,UPI,Delivered
+2077,490,2025-06-07,86,1,792.75,0.2,Net Banking,Delivered
+2078,266,2025-02-21,30,3,810.63,0.08,Net Banking,Delivered
+2079,120,2025-11-11,50,2,329.02,0.2,Debit Card,Delivered
+2080,293,2025-09-09,87,1,695.53,0.05,Debit Card,Delivered
+2081,21,2025-11-12,65,1,3632.84,0.02,Debit Card,Delivered
+2082,446,2025-11-04,10,3,5260.65,0.02,Net Banking,Delivered
+2083,216,2025-06-30,41,1,868.88,0.05,Credit Card,Delivered
+2084,183,2025-01-13,61,2,1864.39,0.15,Wallet,Delivered
+2085,258,2025-01-12,92,1,710.34,0.08,UPI,Delivered
+2086,276,2025-08-17,93,3,585.69,0.05,Debit Card,Delivered
+2087,12,2025-05-14,47,1,5121.4,0.2,Cash on Delivery,Delivered
+2088,316,2025-09-29,77,2,691.44,0.08,Debit Card,Delivered
+2089,48,2025-02-16,30,2,765.72,0.1,Wallet,Delivered
+2090,342,2025-02-10,33,1,695.95,0.02,Debit Card,Delivered
+2091,406,2025-05-23,56,3,34.29,0.08,Debit Card,Delivered
+2092,397,2025-04-29,9,3,8496.76,0.1,Wallet,Delivered
+2093,243,2025-04-01,95,1,547.52,0.08,Credit Card,Delivered
+2094,227,2025-11-05,26,2,1332.73,0.0,Debit Card,Delivered
+2095,26,2025-10-01,23,1,1367.85,0.2,Debit Card,Delivered
+2096,385,2025-10-01,20,3,2606.52,0.0,Debit Card,Delivered
+2097,63,2025-09-20,35,2,735.23,0.0,Net Banking,Delivered
+2098,211,2025-08-29,7,1,53326.02,0.2,Cash on Delivery,Delivered
+2099,70,2025-05-23,74,1,2732.06,0.15,UPI,Delivered
+2100,25,2025-11-24,21,2,2070.31,0.08,Credit Card,Delivered
+2101,279,2025-09-28,59,2,1432.3,0.08,Cash on Delivery,Delivered
+2102,9,2025-09-26,52,1,663.68,0.1,Debit Card,Delivered
+2103,367,2025-07-27,74,2,2773.16,0.08,Credit Card,Delivered
+2104,93,2025-03-06,64,2,3013.96,0.1,Debit Card,Delivered
+2105,1,2025-11-06,15,3,3585.16,0.05,Debit Card,Delivered
+2106,221,2025-04-12,63,2,3451.59,0.2,Wallet,Delivered
+2107,8,2025-10-30,58,2,116.38,0.15,Debit Card,Delivered
+2108,68,2025-01-09,19,3,6003.4,0.05,Net Banking,Delivered
+2109,337,2025-08-27,92,1,687.89,0.02,Net Banking,Returned
+2110,10,2025-03-16,32,3,702.18,0.05,Debit Card,Delivered
+2111,414,2025-07-17,60,3,2982.27,0.0,Cash on Delivery,Delivered
+2112,2,2025-10-10,66,1,5032.97,0.2,Net Banking,Delivered
+2113,51,2025-04-10,43,1,551.88,0.0,UPI,Delivered
+2114,363,2025-10-15,92,1,659.12,0.02,Wallet,Delivered
+2115,93,2025-08-18,4,1,29390.09,0.08,Debit Card,Delivered
+2116,13,2025-07-08,37,1,276.1,0.0,Net Banking,Delivered
+2117,121,2025-09-21,56,1,39.03,0.15,Wallet,Delivered
+2118,63,2025-03-20,9,3,8059.37,0.15,Wallet,Delivered
+2119,417,2025-11-22,93,1,593.06,0.02,UPI,Delivered
+2120,90,2025-07-21,36,1,1573.9,0.0,Credit Card,Delivered
+2121,391,2025-04-10,73,1,2461.98,0.02,Net Banking,Delivered
+2122,447,2025-04-18,33,1,665.76,0.2,UPI,Delivered
+2123,171,2025-02-03,62,1,2506.56,0.02,Wallet,Delivered
+2124,458,2025-12-09,11,1,12997.45,0.1,Wallet,Returned
+2125,135,2025-05-13,61,2,1858.24,0.2,Wallet,Delivered
+2126,483,2025-06-17,86,1,761.89,0.2,Wallet,Delivered
+2127,12,2025-05-23,88,2,9755.62,0.02,Credit Card,Delivered
+2128,322,2025-09-05,56,1,40.32,0.05,Net Banking,Returned
+2129,208,2025-01-27,52,4,615.17,0.2,Debit Card,Delivered
+2130,140,2025-10-12,19,1,5859.2,0.02,Net Banking,Cancelled
+2131,280,2025-12-24,13,1,8032.49,0.15,Net Banking,Delivered
+2132,332,2025-06-03,43,1,510.64,0.08,Wallet,Delivered
+2133,2,2025-01-30,41,1,982.03,0.02,Net Banking,Delivered
+2134,34,2025-06-20,4,3,25308.51,0.02,Net Banking,Cancelled
+2135,341,2025-07-22,63,2,3603.35,0.2,Credit Card,Delivered
+2136,306,2025-03-26,79,1,656.78,0.1,Net Banking,Delivered
+2137,485,2025-02-12,13,1,8706.41,0.02,Cash on Delivery,Delivered
+2138,376,2025-12-24,12,2,16292.86,0.0,Net Banking,Delivered
+2139,476,2025-05-30,18,4,1339.14,0.15,Wallet,Delivered
+2140,330,2025-02-14,74,1,2994.73,0.05,UPI,Delivered
+2141,79,2025-02-12,75,4,6599.17,0.2,Credit Card,Delivered
+2142,16,2025-09-09,51,1,186.8,0.1,Cash on Delivery,Delivered
+2143,389,2025-05-26,79,1,637.81,0.2,Debit Card,Delivered
+2144,290,2025-09-21,90,1,15059.81,0.15,Debit Card,Delivered
+2145,8,2025-12-07,44,1,1645.24,0.08,Debit Card,Returned
+2146,121,2025-05-31,40,2,392.19,0.08,Credit Card,Delivered
+2147,479,2025-12-08,40,1,346.39,0.02,Wallet,Delivered
+2148,213,2025-01-31,11,2,10965.22,0.0,Net Banking,Delivered
+2149,170,2025-02-07,93,1,619.7,0.05,Cash on Delivery,Delivered
+2150,187,2025-08-11,62,1,2513.93,0.15,Wallet,Delivered
+2151,36,2025-06-04,76,3,3015.98,0.08,Wallet,Delivered
+2152,127,2025-07-20,21,1,2082.19,0.0,Debit Card,Delivered
+2153,128,2025-08-26,64,2,3147.34,0.15,Debit Card,Delivered
+2154,8,2025-12-29,42,1,617.19,0.2,Cash on Delivery,Cancelled
+2155,381,2025-01-04,24,3,1534.25,0.05,Net Banking,Delivered
+2156,157,2025-03-17,43,1,507.99,0.1,Cash on Delivery,Delivered
+2157,406,2025-04-14,36,2,1715.89,0.2,UPI,Delivered
+2158,421,2025-06-25,92,2,714.79,0.0,UPI,Delivered
+2159,36,2025-04-14,65,1,3545.13,0.15,Wallet,Delivered
+2160,304,2025-09-29,36,1,1757.99,0.1,Cash on Delivery,Cancelled
+2161,194,2025-08-11,26,2,1545.04,0.0,Net Banking,Returned
+2162,442,2025-10-08,76,1,3566.73,0.08,UPI,Delivered
+2163,36,2025-07-28,3,2,46597.78,0.0,Net Banking,Delivered
+2164,314,2025-08-26,54,3,281.58,0.02,Debit Card,Delivered
+2165,268,2025-08-19,29,1,1296.8,0.2,UPI,Delivered
+2166,77,2025-10-24,86,1,697.59,0.1,Credit Card,Delivered
+2167,26,2025-05-03,58,1,108.72,0.0,Debit Card,Delivered
+2168,297,2025-08-02,70,1,7948.68,0.15,Wallet,Delivered
+2169,361,2025-12-06,77,1,711.42,0.02,Cash on Delivery,Delivered
+2170,92,2025-03-01,37,3,300.53,0.08,Cash on Delivery,Delivered
+2171,290,2025-10-07,23,2,1233.44,0.08,UPI,Delivered
+2172,141,2025-09-03,32,1,591.34,0.15,Wallet,Delivered
+2173,341,2025-05-30,85,2,1624.7,0.08,Credit Card,Delivered
+2174,35,2025-02-19,47,2,5265.66,0.1,Wallet,Delivered
+2175,447,2025-02-09,9,4,8950.8,0.2,UPI,Returned
+2176,71,2025-05-19,9,4,7583.22,0.08,Debit Card,Delivered
+2177,127,2025-08-27,69,1,3664.08,0.1,Debit Card,Delivered
+2178,9,2025-02-17,46,1,3589.41,0.02,Cash on Delivery,Returned
+2179,18,2025-01-10,93,3,659.9,0.2,UPI,Processing
+2180,226,2025-03-16,21,1,2310.12,0.15,Cash on Delivery,Delivered
+2181,60,2025-11-20,97,1,354.33,0.08,Net Banking,Delivered
+2182,413,2025-07-26,66,1,4289.29,0.15,Net Banking,Delivered
+2183,2,2025-12-24,96,1,915.73,0.02,Wallet,Returned
+2184,135,2025-10-13,64,2,3140.2,0.15,Debit Card,Delivered
+2185,111,2025-01-19,6,1,53347.56,0.05,UPI,Processing
+2186,2,2025-11-29,48,1,2423.9,0.0,Debit Card,Cancelled
+2187,21,2025-03-10,11,3,12205.15,0.1,UPI,Delivered
+2188,155,2025-09-11,61,2,1859.71,0.2,Debit Card,Delivered
+2189,205,2025-11-23,5,1,8823.23,0.2,Net Banking,Delivered
+2190,151,2025-01-29,14,3,3810.91,0.02,Wallet,Delivered
+2191,232,2025-03-20,49,1,493.98,0.0,Cash on Delivery,Delivered
+2192,262,2025-06-07,64,2,3153.91,0.0,Debit Card,Delivered
+2193,2,2025-02-17,92,3,804.02,0.1,Cash on Delivery,Delivered
+2194,192,2025-02-28,47,1,5236.17,0.05,Debit Card,Cancelled
+2195,483,2025-10-23,24,1,1763.15,0.02,UPI,Delivered
+2196,227,2025-10-09,98,2,600.55,0.0,Wallet,Delivered
+2197,314,2025-12-20,74,1,3002.79,0.15,Debit Card,Delivered
+2198,89,2025-01-21,52,1,695.92,0.0,Wallet,Delivered
+2199,384,2025-01-27,95,1,502.48,0.1,UPI,Delivered
+2200,384,2025-01-22,62,1,2229.67,0.1,UPI,Delivered
+2201,227,2025-10-15,76,3,3042.43,0.05,Credit Card,Delivered
+2202,489,2025-12-25,73,3,2364.47,0.0,Net Banking,Delivered
+2203,21,2025-03-06,91,1,2021.91,0.2,Wallet,Delivered
+2204,2,2025-01-03,53,2,596.01,0.1,Wallet,Delivered
+2205,383,2025-09-10,25,1,9149.79,0.02,Cash on Delivery,Delivered
+2206,399,2025-09-28,25,1,9318.82,0.1,Net Banking,Cancelled
+2207,21,2025-05-18,37,1,296.38,0.0,Wallet,Delivered
+2208,56,2025-11-06,83,1,506.77,0.08,Cash on Delivery,Delivered
+2209,2,2025-12-20,33,1,684.64,0.15,Cash on Delivery,Delivered
+2210,76,2025-05-08,86,1,661.6,0.02,Wallet,Delivered
+2211,384,2025-12-17,10,1,5570.73,0.05,UPI,Delivered
+2212,227,2025-04-18,84,2,1280.81,0.0,Net Banking,Delivered
+2213,116,2025-08-17,27,1,3858.49,0.2,UPI,Cancelled
+2214,128,2025-07-30,42,1,645.72,0.05,Net Banking,Delivered
+2215,1,2025-03-16,82,1,1424.13,0.2,Wallet,Delivered
+2216,81,2025-05-05,85,1,1816.68,0.08,UPI,Delivered
+2217,293,2025-08-26,56,1,39.05,0.2,UPI,Delivered
+2218,489,2025-05-29,68,1,1514.91,0.05,Credit Card,Delivered
+2219,420,2025-08-07,23,2,1371.06,0.2,Cash on Delivery,Delivered
+2220,3,2025-06-28,59,1,1296.43,0.02,Wallet,Cancelled
+2221,448,2025-07-19,62,1,2289.26,0.08,Credit Card,Delivered
+2222,390,2025-11-27,31,1,517.4,0.1,Cash on Delivery,Delivered
+2223,388,2025-02-26,19,1,5364.11,0.05,Wallet,Delivered
+2224,187,2025-09-22,85,2,1743.74,0.0,UPI,Delivered
+2225,143,2025-05-04,14,3,3480.81,0.02,Wallet,Returned
+2226,82,2025-10-22,79,2,647.26,0.02,Wallet,Delivered
+2227,10,2025-01-02,68,1,1482.22,0.2,Wallet,Delivered
+2228,39,2025-10-18,54,1,273.94,0.02,UPI,Delivered
+2229,51,2025-08-06,93,1,685.66,0.1,Credit Card,Delivered
+2230,200,2025-11-05,86,2,712.21,0.08,Net Banking,Delivered
+2231,365,2025-06-16,32,1,620.17,0.08,Credit Card,Delivered
+2232,196,2025-04-27,64,1,3262.77,0.15,UPI,Delivered
+2233,9,2025-04-29,18,1,1242.33,0.08,Net Banking,Delivered
+2234,479,2025-02-07,95,1,609.75,0.1,Net Banking,Delivered
+2235,475,2025-04-20,29,1,1090.34,0.05,UPI,Cancelled
+2236,390,2025-03-03,53,5,568.21,0.08,Credit Card,Delivered
+2237,499,2025-11-10,31,1,587.67,0.2,Cash on Delivery,Delivered
+2238,242,2025-05-04,81,1,861.06,0.1,Credit Card,Delivered
+2239,482,2025-01-04,90,3,14685.64,0.02,Net Banking,Cancelled
+2240,12,2025-02-15,13,1,7791.93,0.1,Debit Card,Delivered
+2241,126,2025-06-28,90,3,15529.68,0.1,Wallet,Delivered
+2242,39,2025-02-19,95,4,559.67,0.15,Debit Card,Delivered
+2243,35,2025-04-30,21,2,2415.25,0.02,Credit Card,Delivered
+2244,26,2025-08-24,38,1,454.04,0.1,Credit Card,Delivered
+2245,274,2025-04-15,93,1,678.95,0.2,Debit Card,Delivered
+2246,389,2025-03-20,56,2,39.47,0.02,Net Banking,Delivered
+2247,254,2025-07-11,22,1,8549.34,0.2,Net Banking,Delivered
+2248,27,2025-03-22,98,1,509.6,0.0,Net Banking,Delivered
+2249,401,2025-05-17,22,2,9626.48,0.15,Cash on Delivery,Returned
+2250,281,2025-10-27,76,4,3489.47,0.02,Cash on Delivery,Delivered
+2251,140,2025-04-21,73,4,2261.54,0.1,Net Banking,Delivered
+2252,314,2025-11-07,34,1,482.37,0.2,UPI,Delivered
+2253,54,2025-07-12,38,2,455.57,0.0,Cash on Delivery,Delivered
+2254,115,2025-03-06,89,3,6926.71,0.15,Cash on Delivery,Returned
+2255,465,2025-10-14,15,1,4006.46,0.1,Wallet,Delivered
+2256,74,2025-01-28,18,1,1390.78,0.02,Credit Card,Delivered
+2257,193,2025-09-18,7,3,58509.32,0.0,Credit Card,Delivered
+2258,447,2025-06-23,11,1,10902.36,0.05,Debit Card,Delivered
+2259,337,2025-01-23,23,1,1484.08,0.02,Credit Card,Delivered
+2260,10,2025-12-24,29,2,1199.74,0.1,Net Banking,Delivered
+2261,27,2025-11-21,93,1,676.32,0.05,Net Banking,Delivered
+2262,2,2025-06-22,36,1,1847.91,0.2,UPI,Delivered
+2263,279,2025-01-13,89,3,7715.98,0.0,Debit Card,Delivered
+2264,183,2025-11-23,96,2,752.04,0.02,Net Banking,Returned
+2265,25,2025-08-13,13,2,8349.33,0.05,UPI,Delivered
+2266,479,2025-11-06,96,1,764.11,0.05,Debit Card,Delivered
+2267,231,2025-09-16,15,2,3881.05,0.05,Credit Card,Delivered
+2268,48,2025-11-04,19,2,5567.09,0.05,Net Banking,Delivered
+2269,214,2025-03-19,10,1,5348.58,0.1,Cash on Delivery,Delivered
+2270,315,2025-07-14,41,1,920.51,0.08,UPI,Delivered
+2271,12,2025-01-02,7,2,62819.99,0.08,Debit Card,Delivered
+2272,66,2025-07-05,12,2,13999.38,0.02,Net Banking,Delivered
+2273,399,2025-05-01,16,1,2154.01,0.1,Credit Card,Processing
+2274,187,2025-12-05,48,1,2204.18,0.02,Cash on Delivery,Delivered
+2275,242,2025-10-10,6,2,61424.27,0.0,Net Banking,Delivered
+2276,170,2025-11-05,53,3,558.06,0.1,Debit Card,Delivered
+2277,8,2025-11-16,3,2,46487.56,0.2,Cash on Delivery,Delivered
+2278,32,2025-02-01,9,1,7463.75,0.0,Net Banking,Delivered
+2279,179,2025-03-05,68,3,1804.48,0.15,UPI,Delivered
+2280,36,2025-05-13,94,4,378.55,0.1,Net Banking,Delivered
+2281,8,2025-09-22,32,1,673.58,0.02,Cash on Delivery,Delivered
+2282,418,2025-05-18,52,1,667.27,0.02,Wallet,Delivered
+2283,492,2025-06-01,87,2,646.12,0.15,Wallet,Delivered
+2284,392,2025-07-28,40,1,328.83,0.08,Wallet,Delivered
+2285,424,2025-09-28,93,1,587.73,0.2,Debit Card,Delivered
+2286,48,2025-07-19,6,1,66067.69,0.08,Credit Card,Delivered
+2287,481,2025-07-11,97,2,396.31,0.0,Credit Card,Delivered
+2288,35,2025-12-12,30,1,834.9,0.02,Debit Card,Delivered
+2289,478,2025-01-12,94,2,364.67,0.05,Net Banking,Delivered
+2290,500,2025-09-20,38,2,490.49,0.1,UPI,Delivered
+2291,339,2025-02-25,94,1,371.56,0.1,Cash on Delivery,Delivered
+2292,491,2025-06-19,36,2,1608.17,0.1,Wallet,Delivered
+2293,249,2025-06-24,89,1,7657.97,0.0,Debit Card,Delivered
+2294,54,2025-04-17,28,4,12801.25,0.02,Cash on Delivery,Delivered
+2295,175,2025-12-29,41,1,964.72,0.2,Credit Card,Delivered
+2296,262,2025-02-18,12,2,14574.27,0.08,Wallet,Cancelled
+2297,12,2025-10-06,16,1,2232.24,0.02,Cash on Delivery,Delivered
+2298,274,2025-04-12,87,1,592.01,0.15,Debit Card,Processing
+2299,492,2025-07-28,6,3,62702.73,0.0,Cash on Delivery,Delivered
+2300,35,2025-06-17,64,5,2935.88,0.1,Net Banking,Delivered
+2301,391,2025-09-26,93,3,574.67,0.02,Credit Card,Delivered
+2302,454,2025-10-28,4,1,29270.82,0.0,Cash on Delivery,Delivered
+2303,476,2025-09-26,77,3,607.35,0.08,Debit Card,Delivered
+2304,481,2025-09-12,90,1,14026.8,0.1,UPI,Returned
+2305,227,2025-01-02,54,3,285.85,0.08,Debit Card,Delivered
+2306,490,2025-03-10,45,3,4175.42,0.1,UPI,Delivered
+2307,368,2025-11-24,68,2,1578.38,0.1,Debit Card,Delivered
+2308,31,2025-09-29,51,1,196.53,0.1,Credit Card,Delivered
+2309,198,2025-04-10,53,1,577.79,0.02,Cash on Delivery,Delivered
+2310,347,2025-02-07,19,1,5249.15,0.05,Net Banking,Delivered
+2311,51,2025-01-19,33,2,792.17,0.05,Credit Card,Delivered
+2312,287,2025-01-22,53,2,566.71,0.2,Debit Card,Delivered
+2313,306,2025-08-08,51,1,194.65,0.0,Cash on Delivery,Delivered
+2314,31,2025-03-07,15,1,3956.24,0.0,Credit Card,Cancelled
+2315,249,2025-09-24,8,3,53534.97,0.08,Cash on Delivery,Delivered
+2316,384,2025-01-14,98,1,573.23,0.0,Debit Card,Returned
+2317,213,2025-02-21,28,4,12654.77,0.05,Debit Card,Delivered
+2318,2,2025-09-18,56,2,36.29,0.0,Net Banking,Delivered
+2319,2,2025-08-06,63,2,3794.37,0.02,Cash on Delivery,Delivered
+2320,120,2025-05-16,68,1,1821.71,0.0,Credit Card,Delivered
+2321,468,2025-01-03,71,2,3050.07,0.2,Credit Card,Delivered
+2322,39,2025-09-02,31,3,600.52,0.15,Cash on Delivery,Delivered
+2323,281,2025-04-19,6,1,58165.04,0.15,UPI,Delivered
+2324,38,2025-07-09,86,1,766.08,0.1,UPI,Delivered
+2325,95,2025-10-25,73,2,2450.66,0.05,Cash on Delivery,Delivered
+2326,420,2025-08-20,3,5,43081.74,0.02,Net Banking,Delivered
+2327,355,2025-10-21,91,2,1889.44,0.2,Cash on Delivery,Delivered
+2328,13,2025-12-03,49,1,464.34,0.1,Cash on Delivery,Delivered
+2329,166,2025-12-14,87,2,692.6,0.0,Cash on Delivery,Delivered
+2330,3,2025-07-07,69,2,3788.47,0.1,Credit Card,Delivered
+2331,199,2025-02-22,73,1,2435.18,0.05,Cash on Delivery,Delivered
+2332,306,2025-03-31,25,3,9257.54,0.2,Credit Card,Delivered
+2333,20,2025-08-09,19,1,5590.89,0.0,Net Banking,Delivered
+2334,74,2025-10-13,3,1,41380.64,0.0,Net Banking,Delivered
+2335,143,2025-11-25,4,1,29094.69,0.05,Cash on Delivery,Returned
+2336,465,2025-04-27,93,1,603.99,0.15,Wallet,Delivered
+2337,500,2025-11-29,47,1,6059.07,0.02,Wallet,Cancelled
+2338,8,2025-01-09,97,3,405.46,0.2,UPI,Cancelled
+2339,376,2025-12-06,53,1,508.25,0.15,Cash on Delivery,Delivered
+2340,128,2025-01-16,44,1,1780.64,0.02,Net Banking,Delivered
+2341,141,2025-10-06,46,2,3626.41,0.05,UPI,Delivered
+2342,368,2025-10-21,49,1,449.79,0.0,Credit Card,Delivered
+2343,465,2025-08-07,62,1,2464.32,0.02,Credit Card,Delivered
+2344,476,2025-10-20,41,1,1003.76,0.0,Debit Card,Delivered
+2345,253,2025-07-24,35,1,693.63,0.2,Debit Card,Delivered
+2346,120,2025-11-17,35,3,791.75,0.2,Credit Card,Delivered
+2347,391,2025-01-01,29,1,1286.58,0.08,Cash on Delivery,Delivered
+2348,52,2025-02-02,50,5,336.5,0.2,Net Banking,Delivered
+2349,248,2025-02-11,10,2,5404.76,0.05,UPI,Delivered
+2350,121,2025-07-12,9,1,8480.78,0.05,UPI,Delivered
+2351,303,2025-02-07,78,3,706.54,0.08,Net Banking,Delivered
+2352,46,2025-09-25,81,1,841.91,0.08,Wallet,Delivered
+2353,35,2025-01-26,19,2,5183.75,0.05,Debit Card,Delivered
+2354,465,2025-08-14,64,1,3066.17,0.02,UPI,Delivered
+2355,13,2025-03-13,58,2,116.71,0.08,Wallet,Delivered
+2356,218,2025-06-26,18,1,1468.62,0.15,Net Banking,Delivered
+2357,37,2025-07-16,61,3,2031.78,0.1,Wallet,Returned
+2358,6,2025-05-15,9,1,9064.83,0.15,Cash on Delivery,Delivered
+2359,4,2025-04-12,25,1,9529.78,0.02,Debit Card,Delivered
+2360,34,2025-04-14,22,1,10121.02,0.0,Net Banking,Delivered
+2361,436,2025-08-26,11,1,12867.83,0.02,Wallet,Delivered
+2362,70,2025-03-25,78,1,673.18,0.2,Net Banking,Delivered
+2363,476,2025-12-09,66,1,4566.81,0.1,Cash on Delivery,Returned
+2364,257,2025-03-04,49,1,453.84,0.15,Cash on Delivery,Delivered
+2365,174,2025-10-31,34,1,505.11,0.2,Cash on Delivery,Delivered
+2366,256,2025-07-22,19,1,4970.77,0.2,UPI,Delivered
+2367,227,2025-01-28,37,1,257.43,0.05,UPI,Delivered
+2368,374,2025-02-25,69,3,4003.03,0.15,Net Banking,Delivered
+2369,70,2025-04-06,22,1,9866.93,0.15,UPI,Cancelled
+2370,119,2025-10-02,76,2,2940.8,0.02,Debit Card,Delivered
+2371,447,2025-03-29,54,2,265.52,0.2,Net Banking,Delivered
+2372,476,2025-11-07,88,1,9714.79,0.2,Credit Card,Cancelled
+2373,447,2025-05-05,70,3,7915.93,0.02,Cash on Delivery,Delivered
+2374,158,2025-07-29,41,1,864.92,0.2,Net Banking,Returned
+2375,388,2025-09-10,3,2,43134.29,0.15,Wallet,Delivered
+2376,198,2025-03-02,88,1,9599.26,0.08,Net Banking,Delivered
+2377,212,2025-09-23,52,2,593.67,0.2,UPI,Delivered
+2378,35,2025-07-12,1,1,66948.8,0.2,Credit Card,Delivered
+2379,262,2025-06-28,81,1,765.81,0.08,Wallet,Cancelled
+2380,34,2025-01-08,47,2,5565.96,0.08,UPI,Delivered
+2381,105,2025-10-19,52,1,583.37,0.15,Credit Card,Delivered
+2382,426,2025-03-13,74,1,2697.86,0.08,Cash on Delivery,Returned
+2383,35,2025-10-30,72,1,3824.53,0.02,Net Banking,Delivered
+2384,12,2025-05-28,70,2,7947.93,0.02,Credit Card,Cancelled
+2385,12,2025-06-19,5,2,10101.79,0.15,Wallet,Delivered
+2386,474,2025-08-10,70,4,7516.22,0.15,Debit Card,Delivered
+2387,219,2025-11-28,38,1,497.25,0.05,Wallet,Delivered
+2388,155,2025-11-19,71,1,2509.57,0.05,Net Banking,Delivered
+2389,400,2025-08-23,65,4,3879.97,0.0,Wallet,Delivered
+2390,413,2025-07-02,12,3,13872.03,0.1,Net Banking,Delivered
+2391,105,2025-04-11,62,1,2535.04,0.02,UPI,Returned
+2392,325,2025-05-21,58,1,100.27,0.1,UPI,Delivered
+2393,383,2025-08-25,85,1,1666.66,0.08,Cash on Delivery,Delivered
+2394,302,2025-10-22,80,3,1841.4,0.15,Credit Card,Delivered
+2395,28,2025-06-13,17,1,2404.99,0.15,UPI,Delivered
+2396,442,2025-06-12,69,2,3279.7,0.15,Credit Card,Delivered
+2397,239,2025-07-08,31,1,523.45,0.0,Wallet,Cancelled
+2398,70,2025-07-19,47,1,5662.5,0.15,Net Banking,Delivered
+2399,163,2025-12-11,4,1,26276.71,0.1,Credit Card,Delivered
+2400,5,2025-07-11,44,1,1540.86,0.1,Net Banking,Delivered
+2401,23,2025-04-11,51,1,196.07,0.1,Debit Card,Delivered
+2402,379,2025-11-21,32,4,668.74,0.15,Cash on Delivery,Delivered
+2403,1,2025-04-24,51,3,170.92,0.1,UPI,Delivered
+2404,157,2025-05-14,22,1,9560.1,0.05,Credit Card,Delivered
+2405,228,2025-09-05,44,1,1815.2,0.08,Credit Card,Returned
+2406,9,2025-07-26,22,4,8642.44,0.15,Credit Card,Delivered
+2407,489,2025-12-18,78,1,690.9,0.1,UPI,Delivered
+2408,39,2025-07-09,51,1,201.05,0.08,Cash on Delivery,Delivered
+2409,85,2025-10-14,50,1,375.85,0.2,Net Banking,Delivered
+2410,85,2025-05-14,37,1,256.79,0.15,Cash on Delivery,Delivered
+2411,40,2025-09-20,87,2,583.6,0.2,UPI,Cancelled
+2412,1,2025-09-05,77,1,601.02,0.2,Wallet,Delivered
+2413,356,2025-05-18,31,2,501.48,0.05,Credit Card,Delivered
+2414,485,2025-06-16,12,1,13463.23,0.2,Debit Card,Delivered
+2415,39,2025-03-30,28,1,12962.86,0.2,Net Banking,Delivered
+2416,306,2025-02-19,68,1,1628.54,0.2,Debit Card,Delivered
+2417,364,2025-05-17,80,4,1699.02,0.2,Wallet,Delivered
+2418,421,2025-02-14,37,1,266.34,0.08,Net Banking,Delivered
+2419,161,2025-12-23,16,2,2011.16,0.0,Cash on Delivery,Delivered
+2420,82,2025-09-02,17,1,2497.26,0.02,Cash on Delivery,Delivered
+2421,100,2025-07-25,45,1,4236.0,0.05,Cash on Delivery,Delivered
+2422,341,2025-08-02,55,1,176.09,0.2,Cash on Delivery,Delivered
+2423,404,2025-08-19,97,1,349.49,0.2,Credit Card,Delivered
+2424,34,2025-06-22,91,1,2032.24,0.15,Debit Card,Delivered
+2425,128,2025-10-29,44,1,1606.04,0.2,Debit Card,Delivered
+2426,451,2025-05-28,79,1,591.2,0.1,UPI,Returned
+2427,399,2025-08-08,89,4,6599.81,0.2,UPI,Cancelled
+2428,496,2025-03-21,6,2,58141.65,0.02,Cash on Delivery,Delivered
+2429,368,2025-02-07,30,4,760.76,0.2,UPI,Delivered
+2430,141,2025-02-05,41,1,883.91,0.08,UPI,Delivered
+2431,262,2025-11-21,82,1,1547.24,0.15,UPI,Delivered
+2432,306,2025-09-24,37,1,268.09,0.1,Cash on Delivery,Processing
+2433,12,2025-03-15,63,1,3959.28,0.02,Net Banking,Delivered
+2434,242,2025-08-14,82,2,1404.78,0.08,Credit Card,Delivered
+2435,338,2025-07-07,17,3,2846.47,0.15,Credit Card,Cancelled
+2436,34,2025-04-18,37,4,249.34,0.02,Credit Card,Delivered
+2437,389,2025-03-10,14,1,3329.5,0.02,Cash on Delivery,Delivered
+2438,257,2025-01-04,83,2,471.46,0.0,Net Banking,Delivered
+2439,478,2025-09-24,12,1,13958.78,0.02,Credit Card,Delivered
+2440,8,2025-06-26,60,1,2558.18,0.08,Net Banking,Delivered
+2441,56,2025-12-07,12,1,15637.18,0.05,Net Banking,Delivered
+2442,265,2025-07-05,34,2,435.69,0.02,Net Banking,Delivered
+2443,77,2025-01-17,74,1,2830.22,0.1,Wallet,Delivered
+2444,342,2025-12-03,49,2,481.99,0.08,UPI,Delivered
+2445,374,2025-08-14,24,4,1707.4,0.02,UPI,Delivered
+2446,14,2025-04-12,28,1,12523.74,0.02,Cash on Delivery,Delivered
+2447,222,2025-01-15,24,1,1537.26,0.1,Cash on Delivery,Cancelled
+2448,220,2025-07-30,28,3,13142.88,0.15,Net Banking,Delivered
+2449,127,2025-10-27,85,1,1584.27,0.1,Cash on Delivery,Delivered
+2450,472,2025-06-16,22,2,9603.98,0.02,Cash on Delivery,Delivered
+2451,409,2025-04-15,70,1,8062.51,0.05,Net Banking,Delivered
+2452,326,2025-11-27,93,1,677.14,0.08,Credit Card,Delivered
+2453,342,2025-05-29,51,1,163.96,0.05,Debit Card,Cancelled
+2454,189,2025-09-13,74,2,2894.05,0.02,Net Banking,Delivered
+2455,465,2025-08-13,75,1,6538.53,0.08,UPI,Delivered
+2456,325,2025-05-07,43,2,562.57,0.2,Cash on Delivery,Cancelled
+2457,356,2025-02-27,93,1,672.15,0.2,Debit Card,Delivered
+2458,432,2025-09-23,72,1,3398.54,0.2,Wallet,Delivered
+2459,66,2025-03-10,13,2,8093.94,0.2,Wallet,Cancelled
+2460,399,2025-04-07,71,1,2989.03,0.05,Cash on Delivery,Delivered
+2461,35,2025-08-27,88,1,9210.91,0.1,Net Banking,Delivered
+2462,115,2025-12-21,27,2,3843.0,0.05,Wallet,Delivered
+2463,108,2025-05-02,24,2,1617.07,0.0,UPI,Delivered
+2464,490,2025-06-04,36,1,1704.49,0.0,Cash on Delivery,Delivered
+2465,427,2025-06-14,74,1,2499.01,0.2,Credit Card,Returned
+2466,328,2025-10-20,94,3,396.41,0.0,Credit Card,Delivered
+2467,353,2025-10-28,22,2,9527.06,0.0,Debit Card,Delivered
+2468,248,2025-12-01,36,3,1751.4,0.0,Cash on Delivery,Delivered
+2469,476,2025-10-23,1,1,73120.63,0.02,Wallet,Delivered
+2470,211,2025-11-08,12,4,13583.74,0.0,Wallet,Delivered
+2471,135,2025-03-01,20,1,2530.0,0.15,Wallet,Returned
+2472,31,2025-08-27,53,2,507.91,0.0,Cash on Delivery,Delivered
+2473,391,2025-02-15,87,1,626.66,0.0,Credit Card,Cancelled
+2474,359,2025-03-03,6,2,53714.1,0.02,Wallet,Delivered
+2475,138,2025-09-28,96,2,904.83,0.02,Cash on Delivery,Delivered
+2476,3,2025-01-19,28,1,11159.5,0.08,Debit Card,Delivered
+2477,414,2025-12-05,2,1,71258.45,0.15,Debit Card,Delivered
+2478,2,2025-03-18,14,2,3504.76,0.0,UPI,Delivered
+2479,332,2025-12-16,72,1,3698.93,0.05,UPI,Delivered
+2480,486,2025-03-10,42,1,613.26,0.02,UPI,Delivered
+2481,175,2025-04-10,76,2,3125.82,0.05,Wallet,Delivered
+2482,43,2025-12-02,9,1,9054.26,0.15,Wallet,Delivered
+2483,332,2025-03-07,45,2,4682.52,0.2,UPI,Delivered
+2484,404,2025-08-21,30,1,786.71,0.08,Debit Card,Delivered
+2485,242,2025-07-07,70,1,7779.14,0.02,Credit Card,Delivered
+2486,485,2025-02-08,34,3,486.88,0.0,Credit Card,Processing
+2487,8,2025-08-05,7,1,59398.62,0.08,Credit Card,Delivered
+2488,218,2025-01-31,36,1,1792.44,0.08,Wallet,Delivered
+2489,347,2025-08-09,11,1,12195.17,0.08,Credit Card,Delivered
+2490,432,2025-09-29,37,2,299.07,0.05,Debit Card,Delivered
+2491,34,2025-12-17,21,2,2052.97,0.15,Wallet,Cancelled
+2492,396,2025-05-08,5,1,8232.9,0.05,Net Banking,Returned
+2493,243,2025-11-24,73,1,2260.69,0.2,Debit Card,Delivered
+2494,142,2025-08-15,48,2,2438.21,0.05,Debit Card,Delivered
+2495,24,2025-05-07,23,1,1481.49,0.02,Debit Card,Delivered
+2496,433,2025-02-26,1,1,66549.54,0.0,Cash on Delivery,Delivered
+2497,29,2025-01-14,27,2,3868.38,0.08,Cash on Delivery,Delivered
+2498,89,2025-07-24,58,1,121.04,0.08,Credit Card,Delivered
+2499,74,2025-10-06,6,1,54565.73,0.15,Wallet,Delivered
+2500,439,2025-03-17,14,2,3973.75,0.0,Debit Card,Delivered
+2501,311,2025-02-13,60,1,2484.64,0.08,UPI,Delivered
+2502,394,2025-12-31,60,1,2506.99,0.0,Debit Card,Delivered
+2503,52,2025-05-22,68,1,1546.96,0.08,Credit Card,Delivered
+2504,277,2025-01-13,26,1,1450.32,0.05,Cash on Delivery,Delivered
+2505,250,2025-07-01,87,1,671.52,0.1,Debit Card,Delivered
+2506,412,2025-03-03,27,2,3546.12,0.15,Credit Card,Delivered
+2507,454,2025-08-14,21,3,2468.18,0.08,Net Banking,Delivered
+2508,2,2025-06-30,11,2,12023.08,0.2,Credit Card,Delivered
+2509,314,2025-01-10,61,1,2030.91,0.08,Net Banking,Delivered
+2510,8,2025-06-19,40,2,329.17,0.0,UPI,Delivered
+2511,242,2025-09-06,76,2,2956.18,0.05,UPI,Delivered
+2512,72,2025-05-15,84,2,1206.48,0.1,UPI,Delivered
+2513,87,2025-12-25,73,3,2364.59,0.05,Cash on Delivery,Delivered
+2514,118,2025-12-08,32,5,582.38,0.2,Credit Card,Delivered
+2515,274,2025-11-08,79,1,686.11,0.05,Wallet,Delivered
+2516,107,2025-07-22,64,2,3239.51,0.08,Wallet,Delivered
+2517,359,2025-04-12,9,1,8169.32,0.0,Net Banking,Delivered
+2518,151,2025-05-30,72,1,4005.46,0.0,Credit Card,Delivered
+2519,12,2025-01-26,37,1,279.33,0.02,Credit Card,Delivered
+2520,390,2025-06-15,98,1,516.45,0.15,Cash on Delivery,Delivered
+2521,71,2025-05-29,77,2,700.67,0.1,Net Banking,Delivered
+2522,170,2025-12-31,9,2,7854.53,0.08,Wallet,Delivered
+2523,321,2025-08-28,28,1,11857.02,0.1,Credit Card,Delivered
+2524,105,2025-01-29,53,3,570.34,0.15,UPI,Delivered
+2525,9,2025-11-18,85,1,1780.87,0.1,UPI,Delivered
+2526,131,2025-12-26,88,2,9342.19,0.1,Cash on Delivery,Cancelled
+2527,476,2025-08-18,75,3,6995.43,0.0,Net Banking,Returned
+2528,288,2025-10-03,94,1,374.07,0.05,Wallet,Delivered
+2529,309,2025-10-07,10,3,5492.58,0.05,Cash on Delivery,Delivered
+2530,280,2025-03-03,98,1,596.63,0.05,Cash on Delivery,Delivered
+2531,35,2025-10-20,30,4,912.04,0.05,Net Banking,Returned
+2532,158,2025-03-30,70,1,6600.28,0.1,UPI,Delivered
+2533,367,2025-08-31,41,2,984.78,0.02,Credit Card,Delivered
+2534,13,2025-06-03,11,2,10897.07,0.15,Wallet,Delivered
+2535,69,2025-09-19,21,3,2386.22,0.1,Debit Card,Delivered
+2536,68,2025-12-10,77,1,699.53,0.02,Net Banking,Delivered
+2537,169,2025-10-24,51,4,189.86,0.2,Net Banking,Delivered
+2538,491,2025-05-17,7,1,56127.59,0.15,UPI,Delivered
+2539,11,2025-10-25,12,1,14253.86,0.0,Net Banking,Cancelled
+2540,227,2025-05-08,83,1,437.53,0.2,Wallet,Delivered
+2541,34,2025-06-20,29,2,1157.16,0.2,Net Banking,Delivered
+2542,486,2025-12-10,85,2,1540.56,0.15,UPI,Cancelled
+2543,18,2025-12-26,54,2,295.12,0.08,Net Banking,Delivered
+2544,151,2025-05-16,93,3,633.2,0.05,Net Banking,Delivered
+2545,360,2025-02-03,20,1,2550.92,0.05,UPI,Delivered
+2546,332,2025-07-02,21,2,2170.71,0.15,Net Banking,Delivered
+2547,161,2025-03-06,70,1,8107.24,0.2,Credit Card,Delivered
+2548,115,2025-09-30,52,2,605.05,0.0,Net Banking,Delivered
+2549,143,2025-07-22,34,1,508.04,0.2,Cash on Delivery,Delivered
+2550,56,2025-02-04,74,1,2833.0,0.0,UPI,Delivered
+2551,35,2025-02-27,28,2,12626.42,0.15,Credit Card,Delivered
+2552,199,2025-11-04,97,2,340.21,0.2,Credit Card,Delivered
+2553,61,2025-04-30,14,1,3854.81,0.0,Debit Card,Delivered
+2554,71,2025-01-23,32,3,618.09,0.1,UPI,Delivered
+2555,303,2025-01-12,90,3,14272.12,0.05,Debit Card,Delivered
+2556,486,2025-03-05,34,2,451.99,0.15,UPI,Cancelled
+2557,266,2025-05-29,90,1,15639.66,0.08,Net Banking,Delivered
+2558,12,2025-09-05,61,3,2011.54,0.0,Cash on Delivery,Delivered
+2559,12,2025-11-01,34,1,484.33,0.15,UPI,Delivered
+2560,478,2025-01-02,94,3,364.03,0.1,Credit Card,Delivered
+2561,78,2025-08-15,11,1,12003.2,0.0,Credit Card,Delivered
+2562,13,2025-04-05,80,3,1889.69,0.05,Cash on Delivery,Delivered
+2563,265,2025-10-03,85,2,1804.45,0.15,Cash on Delivery,Delivered
+2564,275,2025-10-09,80,1,2011.12,0.08,Cash on Delivery,Delivered
+2565,294,2025-06-17,12,1,13955.03,0.05,Wallet,Delivered
+2566,59,2025-11-11,16,1,2066.67,0.02,UPI,Delivered
+2567,2,2025-07-04,62,1,2513.37,0.15,UPI,Delivered
+2568,484,2025-08-31,10,1,5260.09,0.0,Credit Card,Delivered
+2569,52,2025-10-12,69,2,3444.85,0.05,Credit Card,Delivered
+2570,314,2025-11-28,91,1,1844.94,0.05,Debit Card,Delivered
+2571,337,2025-07-14,8,1,49788.99,0.1,Wallet,Delivered
+2572,271,2025-03-11,39,1,810.39,0.05,Credit Card,Delivered
+2573,90,2025-07-12,49,2,436.52,0.15,Cash on Delivery,Delivered
+2574,63,2025-09-12,56,1,35.41,0.08,Debit Card,Delivered
+2575,264,2025-06-11,40,1,356.24,0.2,Net Banking,Delivered
+2576,436,2025-10-20,4,1,30316.94,0.2,Debit Card,Returned
+2577,476,2025-09-17,25,2,9082.74,0.02,Credit Card,Delivered
+2578,16,2025-05-13,48,2,2486.95,0.2,Credit Card,Delivered
+2579,29,2025-08-03,24,1,1579.23,0.0,Net Banking,Delivered
+2580,476,2025-11-08,78,1,803.05,0.0,Wallet,Returned
+2581,359,2025-03-24,55,3,167.89,0.02,Debit Card,Delivered
+2582,445,2025-08-20,98,1,596.77,0.15,Wallet,Delivered
+2583,35,2025-03-10,52,2,658.92,0.08,UPI,Delivered
+2584,259,2025-05-24,23,2,1259.13,0.05,Cash on Delivery,Delivered
+2585,328,2025-10-01,33,2,757.36,0.0,UPI,Delivered
+2586,315,2025-01-08,69,1,3750.11,0.08,Net Banking,Delivered
+2587,154,2025-03-07,72,1,3342.47,0.1,Cash on Delivery,Cancelled
+2588,2,2025-08-16,46,3,3996.81,0.2,Debit Card,Delivered
+2589,257,2025-07-29,92,2,791.45,0.15,Net Banking,Delivered
+2590,53,2025-02-26,94,3,331.45,0.1,Debit Card,Delivered
+2591,183,2025-09-03,98,1,542.7,0.15,Cash on Delivery,Delivered
+2592,479,2025-09-30,97,1,371.4,0.2,Wallet,Delivered
+2593,145,2025-09-21,34,1,421.95,0.15,Cash on Delivery,Delivered
+2594,414,2025-09-15,30,1,782.71,0.2,Debit Card,Delivered
+2595,35,2025-08-08,87,1,664.44,0.05,Wallet,Delivered
+2596,311,2025-03-16,95,3,592.47,0.0,UPI,Delivered
+2597,490,2025-03-20,25,3,11185.38,0.05,Cash on Delivery,Delivered
+2598,13,2025-09-09,95,2,565.55,0.2,UPI,Delivered
+2599,2,2025-04-16,51,1,174.86,0.15,Wallet,Delivered
+2600,171,2025-03-28,63,1,3973.09,0.1,Cash on Delivery,Delivered
+2601,13,2025-02-07,22,3,8906.37,0.0,Wallet,Delivered
+2602,367,2025-11-07,9,2,9111.16,0.2,UPI,Delivered
+2603,463,2025-11-22,92,1,716.96,0.2,Credit Card,Delivered
+2604,171,2025-09-15,70,2,6985.95,0.02,Debit Card,Delivered
+2605,54,2025-01-07,40,1,400.66,0.15,Wallet,Delivered
+2606,171,2025-02-05,66,2,4495.44,0.08,Cash on Delivery,Delivered
+2607,351,2025-08-06,9,1,7689.2,0.05,Debit Card,Cancelled
+2608,2,2025-05-14,47,1,4983.35,0.1,Credit Card,Delivered
+2609,261,2025-12-19,47,1,5642.38,0.02,Net Banking,Delivered
+2610,272,2025-02-24,71,1,2870.79,0.2,Wallet,Delivered
+2611,282,2025-11-26,31,2,508.8,0.08,Cash on Delivery,Delivered
+2612,48,2025-10-03,33,2,783.64,0.1,Cash on Delivery,Delivered
+2613,342,2025-09-28,76,1,2977.65,0.2,Wallet,Delivered
+2614,13,2025-06-11,40,1,383.29,0.2,Net Banking,Delivered
+2615,35,2025-12-15,58,1,107.44,0.0,UPI,Cancelled
+2616,442,2025-10-04,77,2,626.49,0.05,Credit Card,Delivered
+2617,361,2025-10-13,27,2,3752.98,0.02,Cash on Delivery,Delivered
+2618,2,2025-02-22,73,1,2105.52,0.15,Wallet,Delivered
+2619,51,2025-07-20,4,3,25541.85,0.1,Credit Card,Processing
+2620,36,2025-09-21,67,3,3367.22,0.1,Credit Card,Delivered
+2621,63,2025-01-23,16,2,1809.73,0.02,Credit Card,Cancelled
+2622,51,2025-02-02,3,2,41269.75,0.08,Net Banking,Delivered
+2623,10,2025-09-18,4,3,28180.26,0.2,Cash on Delivery,Cancelled
+2624,187,2025-09-04,87,2,590.19,0.1,UPI,Delivered
+2625,359,2025-07-10,25,1,9223.63,0.0,Wallet,Delivered
+2626,268,2025-05-29,71,3,2848.98,0.15,UPI,Delivered
+2627,311,2025-01-25,97,2,349.23,0.2,Cash on Delivery,Delivered
+2628,12,2025-06-11,25,1,10924.99,0.1,Debit Card,Delivered
+2629,478,2025-01-18,13,1,8699.04,0.0,Net Banking,Delivered
+2630,413,2025-04-04,52,1,687.45,0.05,Debit Card,Returned
+2631,397,2025-07-14,76,1,2921.34,0.0,Wallet,Delivered
+2632,406,2025-12-09,56,1,34.95,0.0,UPI,Cancelled
+2633,472,2025-07-09,51,1,166.62,0.0,Wallet,Delivered
+2634,242,2025-05-25,29,1,1181.32,0.05,UPI,Delivered
+2635,35,2025-05-18,76,2,3197.69,0.1,Cash on Delivery,Delivered
+2636,273,2025-04-10,72,1,3717.66,0.05,Cash on Delivery,Delivered
+2637,364,2025-10-18,69,2,3603.3,0.08,Cash on Delivery,Delivered
+2638,360,2025-09-28,2,1,68000.83,0.1,Cash on Delivery,Cancelled
+2639,227,2025-03-02,73,1,2546.48,0.15,Wallet,Delivered
+2640,12,2025-02-07,79,1,625.05,0.1,Net Banking,Delivered
+2641,128,2025-02-09,59,2,1498.04,0.0,Wallet,Delivered
+2642,465,2025-01-12,17,4,2369.47,0.15,Debit Card,Delivered
+2643,257,2025-09-25,81,2,886.6,0.02,Net Banking,Delivered
+2644,239,2025-10-11,11,3,12637.76,0.1,Debit Card,Returned
+2645,61,2025-08-25,10,1,5070.62,0.0,Net Banking,Delivered
+2646,127,2025-12-28,38,1,483.83,0.08,Debit Card,Delivered
+2647,447,2025-02-08,24,1,1717.32,0.2,Wallet,Delivered
+2648,306,2025-02-17,36,2,1782.11,0.02,Net Banking,Delivered
+2649,391,2025-03-14,21,2,2287.85,0.1,Cash on Delivery,Delivered
+2650,184,2025-12-29,7,3,63168.0,0.05,Wallet,Delivered
+2651,279,2025-03-09,35,1,743.64,0.15,Debit Card,Delivered
+2652,51,2025-06-13,6,1,59874.45,0.0,Cash on Delivery,Delivered
+2653,332,2025-09-12,47,3,5771.41,0.0,Wallet,Delivered
+2654,164,2025-07-24,81,1,863.78,0.05,Net Banking,Delivered
+2655,179,2025-08-24,7,1,62082.75,0.05,Net Banking,Processing
+2656,296,2025-03-25,65,3,3767.88,0.15,Debit Card,Delivered
+2657,472,2025-09-06,12,1,16144.01,0.2,Cash on Delivery,Delivered
+2658,10,2025-05-15,89,2,6943.72,0.02,Net Banking,Delivered
+2659,409,2025-07-11,70,1,6664.62,0.2,Debit Card,Returned
+2660,75,2025-12-24,83,2,415.07,0.0,Cash on Delivery,Delivered
+2661,179,2025-11-09,1,1,73020.24,0.2,UPI,Processing
+2662,2,2025-02-14,85,1,1628.96,0.15,UPI,Delivered
+2663,81,2025-08-14,30,1,839.58,0.02,UPI,Delivered
+2664,215,2025-08-09,10,2,5257.58,0.0,Net Banking,Delivered
+2665,9,2025-12-01,90,1,14732.46,0.2,Debit Card,Delivered
+2666,204,2025-12-24,42,1,686.52,0.02,Cash on Delivery,Delivered
+2667,470,2025-10-31,53,2,516.74,0.2,Net Banking,Delivered
+2668,16,2025-05-12,77,1,639.2,0.0,Net Banking,Delivered
+2669,379,2025-11-16,12,2,14766.02,0.02,Net Banking,Delivered
+2670,155,2025-10-03,40,1,399.14,0.15,UPI,Delivered
+2671,302,2025-01-24,43,1,583.99,0.15,Cash on Delivery,Delivered
+2672,54,2025-04-04,88,1,9983.81,0.02,Wallet,Delivered
+2673,31,2025-09-26,33,2,786.83,0.05,Credit Card,Delivered
+2674,31,2025-07-27,8,3,60947.15,0.08,UPI,Delivered
+2675,12,2025-04-10,58,2,103.66,0.15,Debit Card,Cancelled
+2676,34,2025-09-15,70,1,7044.94,0.02,Debit Card,Delivered
+2677,306,2025-11-19,49,4,438.91,0.02,Cash on Delivery,Delivered
+2678,444,2025-01-28,43,1,544.41,0.05,Wallet,Delivered
+2679,402,2025-08-18,47,2,5342.04,0.05,Net Banking,Delivered
+2680,320,2025-04-04,73,2,2054.04,0.0,Cash on Delivery,Returned
+2681,18,2025-02-24,42,1,661.11,0.05,Wallet,Delivered
+2682,74,2025-02-22,77,3,587.12,0.0,UPI,Delivered
+2683,89,2025-07-18,65,1,4068.01,0.0,Credit Card,Delivered
+2684,51,2025-12-27,38,4,477.24,0.0,Wallet,Delivered
+2685,224,2025-11-21,22,1,9633.21,0.05,Credit Card,Delivered
+2686,236,2025-12-24,35,4,764.26,0.0,UPI,Delivered
+2687,120,2025-08-13,24,3,1757.6,0.1,Debit Card,Cancelled
+2688,119,2025-01-06,8,1,54211.27,0.2,Wallet,Cancelled
+2689,411,2025-06-13,11,1,11217.09,0.15,Credit Card,Cancelled
+2690,391,2025-12-02,45,2,4687.26,0.08,Wallet,Cancelled
+2691,88,2025-01-17,44,1,1490.95,0.2,Net Banking,Delivered
+2692,463,2025-12-27,57,1,101.5,0.1,Cash on Delivery,Delivered
+2693,479,2025-12-29,46,2,3818.3,0.15,UPI,Cancelled
+2694,102,2025-02-03,86,1,812.19,0.05,Wallet,Delivered
+2695,119,2025-01-07,39,1,798.56,0.0,UPI,Delivered
+2696,218,2025-01-17,17,3,2535.0,0.1,Cash on Delivery,Delivered
+2697,474,2025-05-26,98,1,556.2,0.15,Cash on Delivery,Cancelled
+2698,442,2025-12-01,29,1,1225.05,0.02,Cash on Delivery,Delivered
+2699,14,2025-05-05,98,3,573.37,0.05,Credit Card,Delivered
+2700,141,2025-02-06,50,1,359.7,0.08,Cash on Delivery,Returned
+2701,244,2025-11-26,2,1,70066.96,0.2,Cash on Delivery,Delivered
+2702,216,2025-07-18,70,2,7323.09,0.0,Wallet,Cancelled
+2703,35,2025-09-14,62,1,2389.15,0.15,Credit Card,Delivered
+2704,428,2025-05-28,73,1,2398.48,0.05,Credit Card,Delivered
+2705,314,2025-09-09,51,1,193.38,0.2,Credit Card,Delivered
+2706,413,2025-04-22,2,1,66718.19,0.0,UPI,Delivered
+2707,428,2025-06-10,49,1,498.88,0.02,Debit Card,Delivered
+2708,366,2025-05-11,69,1,3328.09,0.02,Wallet,Returned
+2709,177,2025-03-18,90,1,13827.37,0.05,UPI,Delivered
+2710,271,2025-01-17,95,2,568.23,0.08,Wallet,Delivered
+2711,31,2025-01-03,32,2,707.26,0.1,Net Banking,Delivered
+2712,314,2025-01-08,32,1,699.4,0.0,Net Banking,Delivered
+2713,34,2025-03-11,29,2,1066.87,0.15,Debit Card,Returned
+2714,325,2025-06-21,59,2,1527.79,0.1,Cash on Delivery,Delivered
+2715,39,2025-04-06,73,1,2345.77,0.1,Net Banking,Delivered
+2716,19,2025-01-24,51,1,196.74,0.08,Wallet,Delivered
+2717,32,2025-01-05,23,3,1271.59,0.05,Debit Card,Delivered
+2718,1,2025-05-11,10,1,5018.79,0.0,Wallet,Delivered
+2719,347,2025-08-16,1,1,78417.47,0.2,Credit Card,Delivered
+2720,359,2025-10-09,97,1,342.27,0.15,Credit Card,Delivered
+2721,224,2025-12-05,78,1,711.52,0.1,UPI,Delivered
+2722,31,2025-01-03,63,2,3731.5,0.08,UPI,Delivered
+2723,12,2025-08-12,65,1,3576.25,0.1,Cash on Delivery,Delivered
+2724,2,2025-06-10,76,2,3193.71,0.08,Credit Card,Delivered
+2725,32,2025-07-15,13,2,7459.19,0.0,Debit Card,Cancelled
+2726,447,2025-10-01,62,2,2398.72,0.2,Credit Card,Delivered
+2727,47,2025-11-08,49,4,459.93,0.1,Net Banking,Cancelled
+2728,119,2025-05-22,66,1,4981.07,0.2,UPI,Delivered
+2729,16,2025-03-12,66,1,4853.02,0.02,UPI,Delivered
+2730,39,2025-04-20,71,2,2781.07,0.15,Credit Card,Delivered
+2731,227,2025-01-31,20,1,2625.58,0.08,Debit Card,Delivered
+2732,268,2025-03-09,94,3,395.83,0.15,UPI,Delivered
+2733,51,2025-10-23,47,2,5154.68,0.0,Wallet,Delivered
+2734,9,2025-01-07,81,1,851.18,0.0,Debit Card,Returned
+2735,140,2025-03-18,90,1,13539.0,0.15,Net Banking,Delivered
+2736,42,2025-12-23,17,3,2431.6,0.15,Credit Card,Delivered
+2737,37,2025-03-08,98,1,541.25,0.0,Net Banking,Delivered
+2738,481,2025-01-02,26,2,1574.98,0.05,Wallet,Delivered
+2739,273,2025-08-14,30,1,801.16,0.1,UPI,Delivered
+2740,246,2025-03-09,29,2,1242.83,0.15,Credit Card,Processing
+2741,156,2025-08-01,12,2,15720.47,0.15,UPI,Delivered
+2742,166,2025-11-08,49,1,503.48,0.1,Wallet,Returned
+2743,241,2025-03-03,28,4,10735.02,0.02,Wallet,Delivered
+2744,326,2025-02-04,36,2,1706.02,0.02,Cash on Delivery,Delivered
+2745,329,2025-03-02,26,1,1315.65,0.0,Debit Card,Delivered
+2746,34,2025-08-02,48,3,2502.7,0.08,UPI,Delivered
+2747,213,2025-07-21,90,3,13388.32,0.1,Net Banking,Delivered
+2748,155,2025-06-05,8,2,58544.66,0.2,Debit Card,Delivered
+2749,438,2025-08-14,5,4,8982.13,0.02,Wallet,Delivered
+2750,280,2025-04-26,25,2,9775.45,0.05,Wallet,Delivered
+2751,233,2025-08-21,22,1,9892.03,0.08,Credit Card,Delivered
+2752,19,2025-02-15,16,1,1867.77,0.02,Net Banking,Delivered
+2753,267,2025-06-25,95,4,557.65,0.05,Debit Card,Delivered
+2754,19,2025-12-14,13,1,8302.91,0.0,Cash on Delivery,Delivered
+2755,111,2025-12-18,77,2,676.62,0.08,Credit Card,Delivered
+2756,26,2025-06-09,93,3,672.61,0.15,Cash on Delivery,Delivered
+2757,325,2025-05-15,49,1,465.04,0.2,Credit Card,Cancelled
+2758,35,2025-05-25,93,4,709.36,0.02,Debit Card,Delivered
+2759,141,2025-09-30,47,1,5213.76,0.02,UPI,Delivered
+2760,447,2025-02-09,31,1,591.15,0.2,Wallet,Delivered
+2761,35,2025-01-15,52,1,673.66,0.05,Net Banking,Delivered
+2762,219,2025-12-20,50,2,348.61,0.05,Net Banking,Delivered
+2763,158,2025-05-18,92,2,805.83,0.15,Debit Card,Returned
+2764,2,2025-05-03,47,1,5596.25,0.2,Debit Card,Delivered
+2765,391,2025-11-01,94,2,357.69,0.2,UPI,Delivered
+2766,12,2025-03-06,36,1,1687.55,0.05,UPI,Delivered
+2767,197,2025-10-21,2,1,74080.59,0.1,Debit Card,Delivered
+2768,248,2025-04-05,44,2,1689.6,0.05,Debit Card,Delivered
+2769,278,2025-06-04,51,3,170.41,0.2,Credit Card,Delivered
+2770,322,2025-03-11,36,1,1852.25,0.1,UPI,Delivered
+2771,53,2025-03-04,50,3,350.0,0.15,Debit Card,Delivered
+2772,2,2025-04-11,75,1,6995.17,0.08,UPI,Delivered
+2773,351,2025-06-08,41,1,980.94,0.08,Cash on Delivery,Delivered
+2774,236,2025-08-23,85,1,1820.97,0.15,UPI,Delivered
+2775,413,2025-12-18,83,2,458.65,0.1,Debit Card,Cancelled
+2776,406,2025-03-03,19,1,5794.9,0.08,UPI,Cancelled
+2777,418,2025-05-24,72,1,3446.43,0.2,Wallet,Delivered
+2778,200,2025-08-10,23,3,1380.72,0.08,Debit Card,Delivered
+2779,107,2025-11-30,88,3,9195.19,0.0,Net Banking,Delivered
+2780,391,2025-11-28,21,3,2387.4,0.15,Cash on Delivery,Delivered
+2781,183,2025-03-17,44,1,1635.19,0.08,Credit Card,Delivered
+2782,34,2025-12-16,52,1,599.5,0.08,UPI,Delivered
+2783,426,2025-11-27,8,2,60299.0,0.15,Wallet,Delivered
+2784,445,2025-08-13,20,3,2496.9,0.05,Debit Card,Delivered
+2785,192,2025-01-24,85,1,1806.47,0.08,Wallet,Delivered
+2786,12,2025-02-03,17,1,2474.2,0.15,Credit Card,Delivered
+2787,140,2025-11-06,4,1,30404.94,0.15,UPI,Delivered
+2788,397,2025-07-23,28,1,12290.68,0.0,Net Banking,Processing
+2789,451,2025-04-12,5,1,8955.27,0.05,Debit Card,Delivered
+2790,35,2025-07-20,67,1,3373.63,0.1,Wallet,Delivered
+2791,10,2025-11-20,93,3,682.8,0.05,Credit Card,Delivered
+2792,442,2025-06-30,79,2,693.38,0.15,Credit Card,Cancelled
+2793,140,2025-03-28,19,1,5750.91,0.2,Net Banking,Delivered
+2794,241,2025-04-08,79,3,657.53,0.02,UPI,Delivered
+2795,486,2025-12-20,61,2,1996.76,0.2,Credit Card,Delivered
+2796,10,2025-03-08,29,1,1176.07,0.1,Debit Card,Returned
+2797,294,2025-07-23,61,1,1658.75,0.08,UPI,Delivered
+2798,12,2025-11-07,50,1,403.76,0.2,Cash on Delivery,Delivered
+2799,134,2025-07-15,26,1,1315.71,0.0,Credit Card,Delivered
+2800,397,2025-11-27,46,3,3937.92,0.1,Credit Card,Cancelled
+2801,170,2025-12-14,72,2,4048.51,0.15,UPI,Returned
+2802,500,2025-12-08,64,2,3310.24,0.15,Debit Card,Delivered
+2803,247,2025-07-26,34,1,441.55,0.2,Debit Card,Delivered
+2804,95,2025-04-21,27,4,4064.96,0.02,Credit Card,Cancelled
+2805,37,2025-01-09,66,2,4853.41,0.05,Debit Card,Processing
+2806,117,2025-10-14,45,5,4957.07,0.1,Credit Card,Delivered
+2807,128,2025-12-17,86,2,684.6,0.15,Debit Card,Delivered
+2808,12,2025-04-04,49,2,470.85,0.05,Credit Card,Delivered
+2809,128,2025-07-19,7,1,62962.32,0.2,Wallet,Delivered
+2810,192,2025-02-04,32,3,589.22,0.0,Debit Card,Delivered
+2811,351,2025-05-22,63,1,3468.18,0.08,Wallet,Delivered
+2812,303,2025-06-06,72,2,3801.61,0.05,Credit Card,Delivered
+2813,337,2025-02-06,85,1,1613.83,0.08,Wallet,Delivered
+2814,2,2025-12-06,37,1,279.32,0.15,Net Banking,Delivered
+2815,36,2025-02-02,50,1,349.27,0.08,UPI,Delivered
+2816,306,2025-10-19,33,1,683.03,0.15,Wallet,Delivered
+2817,200,2025-08-08,12,4,13975.66,0.0,Cash on Delivery,Delivered
+2818,2,2025-06-25,87,1,611.15,0.1,Wallet,Delivered
+2819,397,2025-07-12,93,2,602.75,0.05,Net Banking,Delivered
+2820,384,2025-04-05,46,1,3921.76,0.2,Credit Card,Delivered
+2821,242,2025-08-11,22,4,9532.37,0.0,Cash on Delivery,Cancelled
+2822,10,2025-02-19,64,1,3332.19,0.02,Debit Card,Delivered
+2823,379,2025-10-20,26,1,1540.3,0.1,Net Banking,Delivered
+2824,257,2025-11-28,73,1,2067.34,0.1,Net Banking,Delivered
+2825,389,2025-08-07,22,1,9166.83,0.0,Cash on Delivery,Processing
+2826,367,2025-03-09,24,1,1615.29,0.2,UPI,Delivered
+2827,397,2025-12-23,44,2,1666.02,0.1,Net Banking,Delivered
+2828,227,2025-06-30,54,1,283.3,0.02,Wallet,Delivered
+2829,26,2025-12-21,90,1,13488.08,0.0,Wallet,Delivered
+2830,309,2025-06-08,43,1,605.45,0.15,Wallet,Delivered
+2831,274,2025-06-21,82,1,1351.06,0.0,Credit Card,Delivered
+2832,364,2025-06-30,9,3,8773.3,0.08,Net Banking,Delivered
+2833,34,2025-10-16,37,2,292.99,0.05,Net Banking,Delivered
+2834,35,2025-01-01,7,1,63857.92,0.08,Net Banking,Delivered
+2835,447,2025-12-07,70,2,7353.34,0.05,Cash on Delivery,Delivered
+2836,367,2025-06-08,58,3,100.54,0.2,Credit Card,Delivered
+2837,455,2025-08-07,45,2,4132.95,0.2,Debit Card,Delivered
+2838,374,2025-05-06,53,1,574.92,0.08,Credit Card,Delivered
+2839,262,2025-07-17,95,4,558.87,0.1,Credit Card,Returned
+2840,299,2025-02-10,57,1,113.64,0.15,Debit Card,Delivered
+2841,446,2025-07-14,90,1,13777.98,0.15,Debit Card,Delivered
+2842,255,2025-01-05,93,1,622.08,0.02,Cash on Delivery,Delivered
+2843,280,2025-12-12,53,1,527.09,0.0,Debit Card,Delivered
+2844,29,2025-11-14,68,3,1777.59,0.2,Debit Card,Delivered
+2845,197,2025-05-25,45,1,4533.72,0.05,Debit Card,Delivered
+2846,345,2025-04-24,38,1,434.87,0.0,Debit Card,Delivered
+2847,63,2025-10-19,51,3,186.63,0.2,Cash on Delivery,Delivered
+2848,35,2025-05-13,91,1,1819.45,0.02,Cash on Delivery,Cancelled
+2849,92,2025-05-16,53,1,582.12,0.2,Wallet,Delivered
+2850,47,2025-03-16,22,1,9385.7,0.1,Net Banking,Delivered
+2851,36,2025-09-02,93,2,603.73,0.1,Wallet,Delivered
+2852,162,2025-09-25,83,2,502.37,0.0,Credit Card,Delivered
+2853,454,2025-10-20,2,1,62417.23,0.02,UPI,Cancelled
+2854,219,2025-01-23,98,1,527.28,0.2,Cash on Delivery,Delivered
+2855,35,2025-11-19,37,2,269.87,0.05,Net Banking,Delivered
+2856,12,2025-03-06,17,1,2300.87,0.05,Debit Card,Delivered
+2857,325,2025-07-15,39,3,678.89,0.1,Credit Card,Delivered
+2858,138,2025-03-14,4,3,29846.85,0.0,Credit Card,Delivered
+2859,406,2025-08-25,27,1,3593.89,0.05,Cash on Delivery,Delivered
+2860,305,2025-04-08,51,1,176.61,0.15,Net Banking,Returned
+2861,394,2025-08-09,72,4,3342.27,0.1,Cash on Delivery,Delivered
+2862,63,2025-05-14,9,2,8373.66,0.02,Debit Card,Delivered
+2863,325,2025-07-18,51,1,166.06,0.1,Cash on Delivery,Delivered
+2864,56,2025-06-01,27,3,3431.54,0.08,Credit Card,Returned
+2865,474,2025-03-11,95,1,520.97,0.05,Net Banking,Delivered
+2866,281,2025-07-28,34,1,419.94,0.05,Credit Card,Delivered
+2867,98,2025-10-24,92,1,773.66,0.15,Wallet,Delivered
+2868,63,2025-01-15,70,1,7825.37,0.15,Debit Card,Delivered
+2869,35,2025-10-19,19,3,5376.82,0.1,UPI,Delivered
+2870,325,2025-02-15,84,2,1317.78,0.08,Debit Card,Delivered
+2871,36,2025-04-07,34,5,439.33,0.2,Debit Card,Delivered
+2872,262,2025-10-02,30,2,887.26,0.0,Credit Card,Delivered
+2873,56,2025-11-09,72,4,3616.8,0.05,Credit Card,Delivered
+2874,306,2025-03-23,44,1,1523.2,0.02,Cash on Delivery,Delivered
+2875,402,2025-03-11,2,1,66451.95,0.1,UPI,Delivered
+2876,386,2025-04-28,2,1,64458.17,0.08,Net Banking,Delivered
+2877,376,2025-12-21,94,1,399.07,0.2,Net Banking,Delivered
+2878,35,2025-08-13,2,3,63629.07,0.08,Cash on Delivery,Delivered
+2879,12,2025-06-11,97,1,386.9,0.02,Debit Card,Delivered
+2880,327,2025-01-29,27,1,4001.81,0.02,Wallet,Delivered
+2881,127,2025-09-07,34,1,412.08,0.05,Wallet,Cancelled
+2882,170,2025-01-24,17,1,2460.88,0.0,Cash on Delivery,Delivered
+2883,3,2025-02-16,3,1,39219.15,0.02,Wallet,Delivered
+2884,54,2025-01-27,38,3,415.02,0.2,Wallet,Delivered
+2885,4,2025-12-05,34,3,455.34,0.2,UPI,Delivered
+2886,442,2025-11-25,61,2,1837.16,0.2,Debit Card,Delivered
+2887,49,2025-11-04,80,3,1712.29,0.05,UPI,Delivered
+2888,246,2025-10-05,82,1,1590.17,0.08,Credit Card,Delivered
+2889,6,2025-11-19,61,1,1841.39,0.0,Credit Card,Delivered
+2890,306,2025-01-21,77,2,654.95,0.15,Debit Card,Delivered
+2891,96,2025-10-01,98,1,521.7,0.1,Wallet,Delivered
+2892,448,2025-09-06,32,1,599.41,0.1,UPI,Delivered
+2893,446,2025-03-08,13,1,9141.77,0.0,Cash on Delivery,Delivered
+2894,100,2025-01-22,66,1,4445.77,0.15,Cash on Delivery,Delivered
+2895,451,2025-11-11,96,1,901.94,0.0,Net Banking,Delivered
+2896,500,2025-05-30,63,2,3917.37,0.02,Cash on Delivery,Delivered
+2897,409,2025-10-28,14,4,3772.86,0.15,Debit Card,Delivered
+2898,419,2025-02-26,41,1,853.68,0.02,Net Banking,Returned
+2899,51,2025-05-11,96,1,837.43,0.02,Credit Card,Delivered
+2900,253,2025-03-18,38,1,446.67,0.08,Wallet,Delivered
+2901,10,2025-10-30,34,3,447.35,0.02,Credit Card,Delivered
+2902,13,2025-12-21,1,1,68727.17,0.05,Debit Card,Delivered
+2903,500,2025-06-06,3,1,42489.87,0.1,Cash on Delivery,Delivered
+2904,102,2025-01-07,43,1,493.67,0.02,UPI,Cancelled
+2905,366,2025-12-16,79,1,644.13,0.05,UPI,Delivered
+2906,399,2025-04-08,41,2,908.73,0.05,Cash on Delivery,Delivered
+2907,428,2025-07-23,24,1,1711.9,0.02,Cash on Delivery,Delivered
+2908,500,2025-04-30,54,1,272.23,0.08,Net Banking,Delivered
+2909,47,2025-03-23,22,3,9333.54,0.0,Net Banking,Delivered
+2910,8,2025-06-28,52,1,593.0,0.1,Credit Card,Delivered
+2911,155,2025-10-21,48,2,2127.98,0.1,Debit Card,Delivered
+2912,24,2025-07-30,42,1,594.38,0.05,Debit Card,Delivered
+2913,2,2025-10-25,90,1,14513.95,0.08,Wallet,Delivered
+2914,121,2025-11-27,20,1,2955.02,0.15,Debit Card,Delivered
+2915,390,2025-01-22,24,1,1502.52,0.15,Debit Card,Delivered
+2916,249,2025-11-27,4,2,26636.97,0.02,Credit Card,Delivered
+2917,90,2025-12-02,29,1,1286.36,0.0,Debit Card,Delivered
+2918,299,2025-12-27,29,3,1081.87,0.15,UPI,Delivered
+2919,40,2025-02-18,20,4,2562.88,0.0,Debit Card,Delivered
+2920,2,2025-12-06,66,3,4211.81,0.05,Cash on Delivery,Delivered
+2921,379,2025-10-06,56,1,36.8,0.08,Debit Card,Cancelled
+2922,276,2025-10-26,14,1,3540.49,0.1,Cash on Delivery,Delivered
+2923,377,2025-06-06,40,2,393.99,0.15,UPI,Delivered
+2924,6,2025-04-01,50,2,367.28,0.08,Net Banking,Delivered
+2925,413,2025-05-06,62,3,2309.47,0.2,Wallet,Returned
+2926,274,2025-07-25,82,1,1589.48,0.15,Debit Card,Delivered
+2927,248,2025-11-02,16,1,1860.05,0.05,Wallet,Delivered
+2928,276,2025-03-14,79,2,634.15,0.02,Credit Card,Delivered
+2929,433,2025-01-09,24,1,1498.19,0.05,Credit Card,Delivered
+2930,259,2025-04-22,69,2,3369.37,0.15,Net Banking,Returned
+2931,257,2025-12-25,73,3,2094.19,0.2,Cash on Delivery,Delivered
+2932,499,2025-07-28,98,2,562.35,0.1,Debit Card,Delivered
+2933,368,2025-02-19,68,2,1660.0,0.02,UPI,Delivered
+2934,179,2025-01-30,3,1,41693.41,0.08,UPI,Delivered
+2935,337,2025-03-28,96,2,748.4,0.05,Credit Card,Delivered
+2936,140,2025-06-22,70,1,7192.75,0.2,UPI,Delivered
+2937,39,2025-01-24,81,1,769.45,0.02,Cash on Delivery,Cancelled
+2938,262,2025-12-30,71,1,2672.28,0.15,Credit Card,Cancelled
+2939,470,2025-03-29,79,2,652.1,0.1,UPI,Delivered
+2940,470,2025-10-01,51,2,169.71,0.08,Net Banking,Returned
+2941,113,2025-04-01,30,3,915.71,0.02,Cash on Delivery,Delivered
+2942,230,2025-12-11,50,2,403.77,0.02,Net Banking,Delivered
+2943,36,2025-02-12,96,1,851.35,0.15,Cash on Delivery,Cancelled
+2944,500,2025-07-26,97,1,363.48,0.02,Net Banking,Delivered
+2945,491,2025-01-01,14,4,3431.04,0.15,Cash on Delivery,Delivered
+2946,296,2025-04-26,26,2,1359.9,0.15,Cash on Delivery,Delivered
+2947,397,2025-04-25,94,1,342.09,0.15,Cash on Delivery,Delivered
+2948,344,2025-09-28,9,1,8653.88,0.2,Wallet,Returned
+2949,262,2025-07-27,3,4,42156.05,0.08,UPI,Delivered
+2950,9,2025-11-19,55,2,196.04,0.02,UPI,Delivered
+2951,184,2025-09-25,69,1,3802.4,0.05,Credit Card,Delivered
+2952,314,2025-03-07,80,1,1816.93,0.08,UPI,Delivered
+2953,314,2025-12-22,65,1,4054.94,0.08,Cash on Delivery,Delivered
+2954,130,2025-05-07,83,1,439.01,0.15,Net Banking,Delivered
+2955,474,2025-01-09,87,5,688.08,0.02,Wallet,Delivered
+2956,34,2025-12-23,48,4,2248.73,0.08,Credit Card,Delivered
+2957,213,2025-10-22,46,2,3389.84,0.08,Credit Card,Delivered
+2958,324,2025-10-31,65,2,4040.93,0.05,Debit Card,Delivered
+2959,326,2025-12-10,35,1,756.89,0.2,Net Banking,Delivered
+2960,295,2025-10-24,18,3,1235.92,0.05,Wallet,Delivered
+2961,68,2025-11-13,98,1,561.89,0.05,UPI,Delivered
+2962,29,2025-11-13,74,1,2472.13,0.0,Cash on Delivery,Delivered
+2963,281,2025-06-07,59,2,1378.49,0.1,Debit Card,Delivered
+2964,265,2025-05-26,74,1,2504.33,0.1,Credit Card,Delivered
+2965,34,2025-06-04,65,1,3648.72,0.05,Net Banking,Delivered
+2966,332,2025-06-25,81,1,868.99,0.1,Cash on Delivery,Delivered
+2967,185,2025-05-30,49,2,462.44,0.05,Debit Card,Delivered
+2968,307,2025-03-27,78,2,737.44,0.08,UPI,Delivered
+2969,413,2025-03-02,22,3,10172.15,0.02,Net Banking,Delivered
+2970,34,2025-01-21,59,1,1316.09,0.1,UPI,Delivered
+2971,2,2025-04-02,70,1,7892.72,0.05,Cash on Delivery,Delivered
+2972,386,2025-01-01,29,2,1205.37,0.1,Credit Card,Cancelled
+2973,270,2025-06-18,6,1,61966.89,0.1,Cash on Delivery,Delivered
+2974,327,2025-08-31,77,1,692.65,0.0,Cash on Delivery,Delivered
+2975,413,2025-01-08,31,1,606.2,0.2,Debit Card,Cancelled
+2976,397,2025-01-01,7,1,60222.72,0.15,Net Banking,Delivered
+2977,481,2025-02-22,52,2,694.73,0.1,Debit Card,Delivered
+2978,236,2025-07-03,3,1,38612.4,0.05,Cash on Delivery,Delivered
+2979,204,2025-10-05,57,2,119.93,0.05,Net Banking,Delivered
+2980,148,2025-09-15,7,2,63175.15,0.0,Wallet,Delivered
+2981,29,2025-03-24,61,1,1896.15,0.0,UPI,Delivered
+2982,250,2025-04-15,97,1,398.09,0.0,UPI,Delivered
+2983,68,2025-06-05,38,4,434.34,0.1,Cash on Delivery,Returned
+2984,465,2025-09-05,51,1,176.83,0.08,Cash on Delivery,Cancelled
+2985,257,2025-07-11,52,1,704.59,0.08,Credit Card,Delivered
+2986,262,2025-03-01,17,1,2487.86,0.1,Net Banking,Cancelled
+2987,119,2025-06-11,18,3,1459.46,0.02,Credit Card,Delivered
+2988,8,2025-06-19,2,1,75477.05,0.15,Wallet,Delivered
+2989,4,2025-05-13,4,1,27481.49,0.08,Debit Card,Delivered
+2990,162,2025-06-16,88,1,8644.81,0.08,Debit Card,Delivered
+2991,12,2025-10-01,30,1,738.28,0.2,UPI,Returned
+2992,268,2025-06-20,37,2,258.23,0.02,Wallet,Delivered
+2993,444,2025-01-29,77,1,608.01,0.02,Wallet,Delivered
+2994,445,2025-02-04,12,3,15612.25,0.02,Wallet,Delivered
+2995,305,2025-09-11,60,1,2922.47,0.1,Wallet,Delivered
+2996,36,2025-11-13,32,1,618.05,0.15,Debit Card,Delivered
+2997,432,2025-04-03,22,2,8809.67,0.15,Debit Card,Delivered
+2998,446,2025-02-21,41,1,1014.48,0.05,Net Banking,Delivered
+2999,35,2025-08-18,11,1,11532.68,0.0,Cash on Delivery,Delivered
+3000,360,2025-07-05,7,1,52827.76,0.08,Net Banking,Delivered

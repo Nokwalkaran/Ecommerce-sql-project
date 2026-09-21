@@ -1,0 +1,99 @@
+product_id,product_name,category,sub_category,cost_price
+1,Apple iPhone 15,Electronics,Smartphones,52000
+2,Samsung Galaxy S24,Electronics,Smartphones,43000
+3,OnePlus 12R,Electronics,Smartphones,28000
+4,Sony WH-1000XM5,Electronics,Audio,21000
+5,JBL Flip 6,Electronics,Audio,6500
+6,Dell Inspiron 15,Electronics,Laptops,42000
+7,HP Pavilion 14,Electronics,Laptops,40000
+8,Lenovo IdeaPad Slim 5,Electronics,Laptops,39000
+9,Logitech MX Master 3S,Electronics,Accessories,6500
+10,Amazon Echo Dot 5th Gen,Electronics,Smart Home,2800
+11,Nike Air Max 270,Fashion,Footwear,6000
+12,Adidas Ultraboost Light,Fashion,Footwear,7000
+13,Puma RS-X,Fashion,Footwear,4500
+14,Levi's 511 Jeans,Fashion,Men's Clothing,1800
+15,Levi's Women's 721 Jeans,Fashion,Women's Clothing,1800
+16,Allen Solly Formal Shirt,Fashion,Men's Clothing,900
+17,Biba Printed Kurta,Fashion,Women's Clothing,1100
+18,Roadster Casual T-Shirt,Fashion,Men's Clothing,500
+19,Woodland Leather Shoes,Fashion,Footwear,2500
+20,Fastrack Analog Watch,Fashion,Watches,1200
+21,Prestige Electric Kettle,Home & Kitchen,Kitchen Appliances,1000
+22,Philips Air Fryer,Home & Kitchen,Kitchen Appliances,4500
+23,Borosil Glass Lunch Box,Home & Kitchen,Kitchenware,600
+24,Milton Thermosteel Bottle,Home & Kitchen,Kitchenware,700
+25,IKEA Study Table,Home & Kitchen,Furniture,5000
+26,Wakefit Memory Foam Pillow,Home & Kitchen,Home Furnishing,700
+27,Sleepyhead Bean Bag,Home & Kitchen,Furniture,1800
+28,Urban Ladder Office Chair,Home & Kitchen,Furniture,5000
+29,Lakme Absolute Foundation,Beauty,Makeup,500
+30,Maybelline Fit Me Foundation,Beauty,Makeup,350
+31,Mamaearth Face Wash,Beauty,Skincare,250
+32,The Derma Co Niacinamide Serum,Beauty,Skincare,400
+33,Minimalist Vitamin C Serum,Beauty,Skincare,500
+34,Dove Body Wash,Beauty,Personal Care,200
+35,L'Oreal Shampoo,Beauty,Hair Care,350
+36,Forest Essentials Body Lotion,Beauty,Personal Care,900
+37,Himalaya Neem Face Wash,Beauty,Skincare,120
+38,Nivea Moisturizer,Beauty,Skincare,200
+39,Faber-Castell Art Set,Books & Stationery,Stationery,300
+40,Classmate Notebook Pack,Books & Stationery,Stationery,150
+41,Cambridge English Dictionary,Books & Stationery,Books,500
+42,Penguin Business Book,Books & Stationery,Books,250
+43,Rupa Fiction Bestseller,Books & Stationery,Books,200
+44,Amazon Basics Backpack,Books & Stationery,Bags,700
+45,Safari Cabin Trolley,Books & Stationery,Luggage,1800
+46,Wildcraft Travel Backpack,Books & Stationery,Bags,1500
+47,Herschel Daypack,Books & Stationery,Bags,2500
+48,American Tourister Laptop Bag,Books & Stationery,Bags,1000
+49,Nescafe Classic Coffee,Grocery,Beverages,200
+50,Tata Green Tea,Grocery,Beverages,150
+51,Paper Boat Aam Panna,Grocery,Beverages,80
+52,Yoga Bar Protein Bar,Grocery,Snacks,300
+53,Kellogg's Muesli,Grocery,Breakfast,250
+54,Saffola Oats,Grocery,Breakfast,120
+55,Fortune Sunflower Oil,Grocery,Staples,100
+56,Tata Salt,Grocery,Staples,20
+57,Amul Almond Milk,Grocery,Dairy,50
+58,Britannia NutriChoice Biscuits,Grocery,Snacks,50
+59,Casio Scientific Calculator,Electronics,Accessories,700
+60,TP-Link WiFi Router,Electronics,Networking,1400
+61,Mi Power Bank,Electronics,Accessories,900
+62,boAt Airdopes,Electronics,Audio,1000
+63,Noise Smartwatch,Electronics,Wearables,1400
+64,Fire-Boltt Smartwatch,Electronics,Wearables,1200
+65,Crompton Ceiling Fan,Home & Kitchen,Appliances,1800
+66,Havells Mixer Grinder,Home & Kitchen,Kitchen Appliances,2200
+67,Prestige Induction Cooktop,Home & Kitchen,Kitchen Appliances,1600
+68,Usha Iron,Home & Kitchen,Appliances,800
+69,Bajaj Room Heater,Home & Kitchen,Appliances,1800
+70,Reebok Running Shoes,Fashion,Footwear,3000
+71,H&M Hoodie,Fashion,Men's Clothing,1200
+72,Zara Casual Shirt,Fashion,Men's Clothing,1800
+73,W Women's Kurta,Fashion,Women's Clothing,1000
+74,Libas Anarkali,Fashion,Women's Clothing,1300
+75,Titan Analog Watch,Fashion,Watches,2500
+76,Noise Smartwatch,Fashion,Watches,1300
+77,Mamaearth Hair Serum,Beauty,Hair Care,300
+78,Plum Green Tea Moisturizer,Beauty,Skincare,400
+79,Dot & Key Watermelon Sunscreen,Beauty,Skincare,450
+80,Nykaa Makeup Kit,Beauty,Makeup,900
+81,Lakme Lipstick,Beauty,Makeup,300
+82,The Body Shop Body Butter,Beauty,Personal Care,800
+83,Cross Ball Pen Set,Books & Stationery,Stationery,200
+84,Parker Pen,Books & Stationery,Stationery,500
+85,Moleskine Notebook,Books & Stationery,Stationery,800
+86,HarperCollins Leadership Book,Books & Stationery,Books,300
+87,Bloomsbury Fiction Book,Books & Stationery,Books,250
+88,Urban Ladder Coffee Table,Home & Kitchen,Furniture,4500
+89,IKEA Bookshelf,Home & Kitchen,Furniture,3500
+90,Wakefit Mattress,Home & Kitchen,Home Furnishing,7000
+91,Sleepyhead Cushion Set,Home & Kitchen,Home Furnishing,900
+92,Philips LED Bulb Pack,Home & Kitchen,Lighting,300
+93,Syska LED Bulb Pack,Home & Kitchen,Lighting,250
+94,Lifebuoy Handwash Pack,Beauty,Personal Care,150
+95,Ponds Face Cream,Beauty,Skincare,250
+96,Neutrogena Face Wash,Beauty,Skincare,400
+97,Colgate Toothpaste Pack,Beauty,Personal Care,180
+98,Durex Personal Care Pack,Beauty,Personal Care,250
